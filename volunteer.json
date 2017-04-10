@@ -1,0 +1,45 @@
+
+  { "volunteers": [{
+    "company": "UN Volunteers",
+    "location": "Global",
+    "link": "https://www.unv.org/become-volunteer/volunteer-abroad",
+    "summary": "International UN Volunteers promote peace and development in communities around the globe, while upholding the ideals and aspirations of the United Nations. International UN Volunteers come from 160 countries, representing many cultures and backgrounds. They bring a wide variety of perspectives and approaches. Your international UN Volunteer assignment will make a lasting impact. It can create a ripple effect that extends far beyond the immediate results of your efforts.",
+    "category": "abroad"
+    }, {
+    "company": "Relief and Reconciliation for Syria",
+    "location": "Lebanon",
+    "link": "http://www.reliefandreconciliation.org/volunteer-with-us.html",
+    "summary": "Living and working at our first Peace Centre in the North of Lebanon, only 12 km from the Syrian border, volunteers are directly involved in implementing an innovative approach to assisting the Syrian refugee crisis in Lebanon. As part of our ethos to bring people from different backgrounds together, opening windows of communication, our international volunteers combine forces with local volunteers in organising and implementing educational and recreational activities for children and adolescents of Syrian refugee and Lebanese host communities.",
+    "category": "abroad"
+    }, {
+    "company": "Lighthouse Relief",
+    "location": "Greece, Lesvos",
+    "link": "http://www.lighthouserelief.org/volunteer/",
+    "summary": "Volunteers for our camp operations must commit to a minimum period of three weeks and be over 23 years old. Please fill out only one application. You can't apply more than two months in advance. If the need for volunteers is bigger in another location, we will re-direct you there. For Arabic, Kurdish and Farsi/Dari speakers your language skills are needed even if you don't have an extensive background within the program you apply to join! We are looking for volunteers in the following areas: Female Friendly Space, Infant and Young Child Feeding, Construction Unit, Child Friendly Space, Female Friendly Space.",
+    "category": "abroad"
+    }, {
+    "company": "Hope Project",
+    "location": "Thessaloniki, Greece",
+    "link": "http://www.hopeproject.net/volunteer/",
+    "summary": "Volunteering with Hope Project means that you will join a dynamic team of individuals, who together, support the vision of bringing a sense of humanity to refugees in Greece. We focus on education, compassion, creativity, humility and ambition. The aim is to put each volunteer at the forefront of our work and help build the project using their own skills and experience. We celebrate the diversity in our team and believe it makes us stronger.",
+    "category": "abroad"
+    }, {
+      "company": "Samos Volunteers",
+      "location": "Vathi, Greece",
+      "link": "https://www.samosvolunteers.com/volunteer/",
+      "summary": "Samos Volunteers are here to provide essential services and are determined to remain in Samos until refugees no longer need our support. Our daily presence in the camp has allowed us to build relationships with the now largely static population of refugees on Samos. Upon arrival, they must settle into the semi-closed camp to await the long-drawn out asylum procedure: this can take months, and in some cases, years. Recently, we came out of a transitional period during which we moved our activities from the daily distribution of non-food items, to informal educational activities and psycho-social support. We feel that the clothing and hygiene needs of those residing in the camp can be covered by the government organisations mandated to provide this support, and so we feel we can have a bigger impact on our beneficiaries through means of education, activities, and interesting projects and courses.",
+      "category": "abroad"
+    }, {
+      "company": "Medical Teams International",
+      "location": "Lebanon, Greece, Turkey",
+      "link": "http://www.medicalteams.org/take-action/volunteer",
+      "summary": "We see human suffering as a call – not just to open our hearts, but to move our feet. We are compelled by our Christian faith into action – a team, guided by compassion and magnified by expertise. We are committed to rise, mobilize, and make a difference. We respond to disasters around the world—and here at home—by sending teams of volunteer medical professionals and medical supplies to care for the sick and injured. We also mobilize long-term health promotion initiatives, collaborating with established partners within each community to ensure that our programs have a sustainable impact. Medical Teams International provides medical and dental care, humanitarian aid, and holistic development programs to all people in need, regardless of religion, nationality, sex, or race.",
+      "category": "abroad"
+    }, {
+      "company": "UN Volunteers",
+      "location": "Online",
+      "link": "https://www.onlinevolunteering.org/en",
+      "summary": "The United Nations Volunteers (UNV) programme contributes to peace and development through volunteerism worldwide. Online volunteering allows organizations and volunteers to team up to address sustainable development challenges – anywhere in the world, from any device. Online volunteering is fast, easy – and most of all, effective. When skilled, passionate individuals join forces online with great organizations working toward sustainable development goals, everyone wins.",
+      "category": "local"
+  }]
+}
