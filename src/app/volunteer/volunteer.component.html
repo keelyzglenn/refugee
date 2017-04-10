@@ -2,6 +2,6 @@
   volunteer works!
 </p>
 
-<div *ngFor="let volunteer of volunteers | async">
+<div *ngFor="let volunteer of volunteers | async" (click)="goToDetailPage(volunteer)">
   <h3>{{volunteer.company}}</h3>
 </div>

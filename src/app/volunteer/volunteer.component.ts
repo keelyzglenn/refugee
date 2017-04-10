@@ -13,12 +13,17 @@ import { Router } from '@angular/router';
 export class VolunteerComponent implements OnInit {
 
   volunteers: FirebaseListObservable<any[]>;
+  currentRoute: string = this.router.url;
 
 
   constructor(private router: Router, private volunteerService: VolunteerService) { }
 
   ngOnInit() {
     this.volunteers = this.volunteerService.getVolunteers();
+  }
+
+  goToDetailPage(clickedVolunteer) {
+    this.router.navigate(['volunteers', clickedVolunteer.$key])
   }
 
 }

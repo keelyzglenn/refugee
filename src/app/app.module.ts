@@ -9,6 +9,7 @@ import { WelcomeComponent } from './welcome/welcome.component';
 import { routing } from './app.routing';
 import { VolunteerComponent } from './volunteer/volunteer.component';
 import { HowToHelpComponent } from './how-to-help/how-to-help.component';
+import { VolunteerDetailComponent } from './volunteer-detail/volunteer-detail.component';
 
 export const firebaseConfig = {
   apiKey: "AIzaSyBGsTHHDr-4K_-rdFM9H5ASoImvk-aENjk",
@@ -24,7 +25,8 @@ export const firebaseConfig = {
     AppComponent,
     WelcomeComponent,
     VolunteerComponent,
-    HowToHelpComponent
+    HowToHelpComponent,
+    VolunteerDetailComponent
   ],
   imports: [
     BrowserModule,

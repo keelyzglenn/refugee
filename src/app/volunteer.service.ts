@@ -15,4 +15,8 @@ export class VolunteerService {
   getVolunteers(){
     return this.volunteers;
   }
+
+  getVolunteerById(volunteerId: string) {
+    return this.angularFire.database.object('volunteer/' + volunteerId);
+  }
 }
