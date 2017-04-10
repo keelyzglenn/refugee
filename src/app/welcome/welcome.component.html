@@ -1,3 +1,33 @@
 <h1>Welcome</h1>
 
 <a routerLink="/how-to-help">Learn about what you can do</a>
+
+<select (change)="onChange($event.target.value)">
+  <option value="allCategories" selected="selected">All Categories</option>
+  <option value="Camp Management">Camp Management</option>
+  <option value="Child Protection">Child Protection</option>
+  <option value="Community Services">Community Services</option>
+  <option value="Coordination">Coordination</option>
+  <option value="Core Relief Items (CRIs)">Core Relief Items (CRIs)</option>
+  <option value="Education">Education</option>
+  <option value="Environment">Environment</option>
+  <option value="Food Security">Food Security</option>
+  <option value="Gender-Based Violence">Gender-Based Violence</option>
+  <option value="Health">Health</option>
+  <option value="HIV/AIDS">HIV/AIDS</option>
+  <option value="Information Management">Information Management</option>
+  <option value="Livelihood">Livelihood</option>
+  <option value="Logistics">Logistics</option>
+  <option value="Nutrition">Nutrition</option>
+  <option value="Protection">Protection</option>
+  <option value="Registration">Registration</option>
+  <option value="Reproductive Health">Reproductive Health</option>
+  <option value="Shelter">Shelter</option>
+  <option value="Telecom">Telecom</option>
+  <option value="Transportation">Transportation</option>
+  <option value="Water & Sanitation">Water & Sanitation</option>
+</select>
+<div *ngFor="let organization of organizations | category:filterByCategory | async">
+    <h3><em>{{organization.name}}</em> - {{organization.acronym}}</h3>
+</div>
+<button (click)="getData(organization)">Get Data</button>

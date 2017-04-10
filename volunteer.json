@@ -41,5 +41,20 @@
       "link": "https://www.onlinevolunteering.org/en",
       "summary": "The United Nations Volunteers (UNV) programme contributes to peace and development through volunteerism worldwide. Online volunteering allows organizations and volunteers to team up to address sustainable development challenges – anywhere in the world, from any device. Online volunteering is fast, easy – and most of all, effective. When skilled, passionate individuals join forces online with great organizations working toward sustainable development goals, everyone wins.",
       "category": "local"
-  }]
+  }],
+  "organizations": [
+    {
+      "type": "Health",
+      "acronym": "HLT",
+      "url": "fakeurl.org"
+    }, {
+      "type": "Food Assistance",
+      "acronym": "FA",
+      "url": "yummy.com"
+    }, {
+      "type": "Gender-Based Violence",
+      "acronym": "GBV",
+      "url": "stopabuse.com"
+    }
+  ]
 }

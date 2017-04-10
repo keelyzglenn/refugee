@@ -10,14 +10,14 @@ import { routing } from './app.routing';
 import { VolunteerComponent } from './volunteer/volunteer.component';
 import { HowToHelpComponent } from './how-to-help/how-to-help.component';
 import { VolunteerDetailComponent } from './volunteer-detail/volunteer-detail.component';
+import { CategoryPipe } from './category.pipe';
+
 
 export const firebaseConfig = {
-  apiKey: "AIzaSyBGsTHHDr-4K_-rdFM9H5ASoImvk-aENjk",
-    authDomain: "refugee-app.firebaseapp.com",
-    databaseURL: "https://refugee-app.firebaseio.com",
-    projectId: "refugee-app",
-    storageBucket: "refugee-app.appspot.com",
-    messagingSenderId: "558674903302"
+    apiKey: masterFirebaseConfig.apiKey,
+    authDomain: masterFirebaseConfig.authDomain,
+    databaseURL: masterFirebaseConfig.databaseURL,
+    storageBucket: masterFirebaseConfig.storageBucket
   };
 
 @NgModule({
@@ -26,7 +26,8 @@ export const firebaseConfig = {
     WelcomeComponent,
     VolunteerComponent,
     HowToHelpComponent,
-    VolunteerDetailComponent
+    VolunteerDetailComponent,
+    CategoryPipe
   ],
   imports: [
     BrowserModule,
