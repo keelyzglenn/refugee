@@ -1,7 +1,73 @@
-.hospital {
-  width: 600px;
+.mainpic {
+  width: 100%;
+  margin-top: -10%;
 }
 
 .container {
-  margin-bottom: 50px;
+  /*margin-bottom: 50px;*/
+}
+
+.jumbotron {
+  width: 100% !important;
+}
+
+.title {
+  background-color: white;
+  padding: 50px;
+  margin-top: -139px;
+  position: relative;
+  opacity: 0.4;
+  color: black;
+  text-shadow: 1px 1px 1px white;
+}
+
+.quotebox {
+  background-color: white;
+  padding: 30px;
+  color: black;
+  font-style: italic;
+  box-shadow: 5px 5px 5px grey;
+  width: 700px;
+}
+
+.video {
+  margin: 30px;
+}
+
+.circle {
+  border-radius: 50%;
+  background-color: #ff5033;
+  width: 200px;
+  height: 200px;
+  color: white;
+  margin-left: 50px;
+  float: left;
+  margin-top: 40px;
+}
+
+.circle2 {
+  border-radius: 50%;
+  background-color: #ff5033;
+  width: 200px;
+  height: 200px;
+  color: white;
+  margin-left: 50px;
+  float: right;
+  margin-right: 50px;
+}
+
+.resources {
+  padding-top: 45px;
+  text-align: center;
+}
+
+.current-title {
+  text-align: center;
+  padding-top: 40px;
+}
+
+.current-situation {
+  float: right;
+  margin-top: 40px;
+  margin-right: 40px;
 }

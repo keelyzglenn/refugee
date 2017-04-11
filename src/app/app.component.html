@@ -5,14 +5,15 @@
     </div>
     <button class="navbtn pull-right" routerLink="donation">Donate Now<fa name="heart-o" size="lg"></fa></button>
     <div class="dropdown pull-right">
-      <button class="dropbtn">How To Help</button>
+      <button class="dropbtn" routerLink="how-to-help">How To Help</button>
       <div class="dropdown-content">
         <a routerLink="volunteer">Volunteer</a>
         <a routerLink="donation">Donate</a>
+        <a routerLink="organization">Organizations</a>
       </div>
     </div>
     <div class="dropdown pull-right">
-      <button class="dropbtn">Refugee Resources</button>
+      <button class="dropbtn" routerLink="for-refugees">Refugee Resources</button>
       <div class="dropdown-content">
         <a routerLink="children">Children</a>
         <a routerLink="economics">Economics</a>
@@ -20,9 +21,12 @@
         <a routerLink="health">Health</a>
       </div>
     </div>
-      <button class="navbtn pull-right" routerLink="organization">Organizations</button>
   </div>
 </nav>
 
   <h1>{{title}}</h1>
   <router-outlet></router-outlet>
+<!-- <div class="container"> -->
+  <h1>{{title}}</h1>
+  <router-outlet></router-outlet>
+<!-- </div> -->

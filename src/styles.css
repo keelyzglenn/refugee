@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+
+html body {
+  font-family: 'Lora', serif;
+}
+
+.video-section {
+  text-align: center;
+}
