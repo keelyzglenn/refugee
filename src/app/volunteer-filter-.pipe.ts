@@ -1,5 +1,5 @@
 import { Pipe, PipeTransform } from '@angular/core';
-import { Volunteer } from '../volunteer.model';
+import { Volunteer } from './volunteer.model';
 
 @Pipe({
   name: 'volunteerFilter',

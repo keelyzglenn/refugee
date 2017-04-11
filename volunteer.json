@@ -89,5 +89,20 @@
       "link": "https://www.rescue.org/united-states/new-york-ny",
       "summary": "The International Rescue Committee provides opportunities for refugees, asylees, victims of human trafficking, survivors of torture, and other immigrants to thrive in America. Each year, thousands of people, forced to flee violence and persecution, are welcomed by the people of the United States into the safety and freedom of America. These individuals have survived against incredible odds. The IRC works with government bodies, civil society actors, and local volunteers to help them translate their past experiences into assets that are valuable to their new communities. In New York and other offices across the country, the IRC helps them to rebuild their lives.",
       "category": "local"
-  }]
+  }],
+  "organizations": [
+    {
+      "type": "Health",
+      "acronym": "HLT",
+      "url": "fakeurl.org"
+    }, {
+      "type": "Food Assistance",
+      "acronym": "FA",
+      "url": "yummy.com"
+    }, {
+      "type": "Gender-Based Violence",
+      "acronym": "GBV",
+      "url": "stopabuse.com"
+    }
+  ]
 }

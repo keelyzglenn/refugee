@@ -31,7 +31,7 @@ export const firebaseConfig = {
     HowToHelpComponent,
     VolunteerDetailComponent,
     CategoryPipe,
-    VolunteerFilterPipe
+    VolunteerFilterPipe,
     OrganizationComponent,
     OrganizationDetailComponent
   ],
