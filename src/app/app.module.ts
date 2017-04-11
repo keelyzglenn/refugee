@@ -22,7 +22,6 @@ import { ChildrenComponent } from './children/children.component';
 import { EconomicsComponent } from './economics/economics.component';
 import { Angular2FontAwesomeModule } from 'angular2-font-awesome/angular2-font-awesome';
 
-
 export const firebaseConfig = {
     apiKey: masterFirebaseConfig.apiKey,
     authDomain: masterFirebaseConfig.authDomain,
@@ -42,6 +41,7 @@ export const firebaseConfig = {
     VolunteerFilterPipe,
     OrganizationComponent,
     OrganizationDetailComponent,
+    EducationComponent,
     HealthComponent,
     ForRefugeesComponent,
     EducationComponent,
