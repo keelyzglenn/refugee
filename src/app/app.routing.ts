@@ -10,6 +10,9 @@ import { ForRefugeesComponent } from './for-refugees/for-refugees.component';
 import { OrganizationComponent } from './organization/organization.component';
 import { OrganizationDetailComponent } from './organization-detail/organization-detail.component';
 import { HealthComponent } from './health/health.component';
+import { EducationComponent } from './education/education.component';
+import { EconomicsComponent } from './economics/economics.component';
+import { ChildrenComponent } from './children/children.component';
 
 const appRoutes: Routes = [
   {
@@ -47,6 +50,18 @@ const appRoutes: Routes = [
   {
     path: 'health',
     component: HealthComponent
+  },
+  {
+    path: 'education',
+    component: EducationComponent
+  },
+  {
+    path: 'economics',
+    component: EconomicsComponent
+  },
+  {
+    path: 'children',
+    component: ChildrenComponent
   }
 ];
 
