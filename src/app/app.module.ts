@@ -15,7 +15,6 @@ import { DonationComponent } from './donation/donation.component';
 import { VolunteerFilterPipe } from './volunteer-filter-.pipe';
 import { OrganizationComponent } from './organization/organization.component';
 import { OrganizationDetailComponent } from './organization-detail/organization-detail.component';
-import { EducationComponent } from './education/education.component';
 import { HealthComponent } from './health/health.component';
 import { ForRefugeesComponent } from './for-refugees/for-refugees.component';
 import { EducationComponent } from './education/education.component';
@@ -41,7 +40,7 @@ export const firebaseConfig = {
     VolunteerFilterPipe,
     OrganizationComponent,
     OrganizationDetailComponent,
-    EducationComponent
+    EducationComponent,
     HealthComponent,
     ForRefugeesComponent,
     EducationComponent,
