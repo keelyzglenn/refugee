@@ -17,6 +17,9 @@ import { OrganizationComponent } from './organization/organization.component';
 import { OrganizationDetailComponent } from './organization-detail/organization-detail.component';
 import { HealthComponent } from './health/health.component';
 import { ForRefugeesComponent } from './for-refugees/for-refugees.component';
+import { EducationComponent } from './education/education.component';
+import { ChildrenComponent } from './children/children.component';
+import { EconomicsComponent } from './economics/economics.component';
 
 
 export const firebaseConfig = {
@@ -39,7 +42,10 @@ export const firebaseConfig = {
     OrganizationComponent,
     OrganizationDetailComponent,
     HealthComponent,
-    ForRefugeesComponent
+    ForRefugeesComponent,
+    EducationComponent,
+    ChildrenComponent,
+    EconomicsComponent
   ],
   imports: [
     BrowserModule,
