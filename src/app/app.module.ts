@@ -12,12 +12,12 @@ import { HowToHelpComponent } from './how-to-help/how-to-help.component';
 import { VolunteerDetailComponent } from './volunteer-detail/volunteer-detail.component';
 import { CategoryPipe } from './category.pipe';
 import { DonationComponent } from './donation/donation.component';
-import { CustomFormsModule } from 'ng2-validation'
 import { VolunteerFilterPipe } from './volunteer-filter-.pipe';
 import { OrganizationComponent } from './organization/organization.component';
 import { OrganizationDetailComponent } from './organization-detail/organization-detail.component';
 import { HealthComponent } from './health/health.component';
 import { ForRefugeesComponent } from './for-refugees/for-refugees.component';
+
 
 export const firebaseConfig = {
     apiKey: masterFirebaseConfig.apiKey,
@@ -45,7 +45,6 @@ export const firebaseConfig = {
     BrowserModule,
     FormsModule,
     ReactiveFormsModule,
-    CustomFormsModule,
     HttpModule,
     routing,
     AngularFireModule.initializeApp(firebaseConfig),
