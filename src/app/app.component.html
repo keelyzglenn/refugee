@@ -3,11 +3,22 @@
     <div class="navbar-header">
       <a class="navbar-brand" routerLink="">Home</a>
     </div>
-    <ul class="nav navbar-nav navbar-right">
-      <li><a routerLink="volunteer">Volunteer</a></li>
-      <li><a routerLink="how-to-help">How To Help</a></li>
-      <li><a routerLink="organization">Organizations</a></li>
-    </ul>
+    <button class="navbtn pull-right" routerLink="donation">Donate Now</button>
+    <div class="dropdown pull-right">
+      <button class="dropbtn">How To Help</button>
+      <div class="dropdown-content">
+        <a routerLink="volunteer">Volunteer</a>
+        <a routerLink="donation">Donate</a>
+      </div>
+      </div>
+      <button class="navbtn pull-right" routerLink="organization">Organizations</button>
+
+    <!-- <ul class="nav navbar-nav navbar-right">
+      <li class="nav-link"><a routerLink="organization">Organizations</a></li> -->
+      <!-- <li><a routerLink="volunteer">Volunteer</a></li> -->
+      <!-- <li><a routerLink="how-to-help">How To Help</a></li> -->
+    <!-- </ul> -->
+
   </div>
 </nav>
 

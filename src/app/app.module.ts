@@ -12,11 +12,15 @@ import { HowToHelpComponent } from './how-to-help/how-to-help.component';
 import { VolunteerDetailComponent } from './volunteer-detail/volunteer-detail.component';
 import { CategoryPipe } from './category.pipe';
 import { DonationComponent } from './donation/donation.component';
-import { CustomFormsModule } from 'ng2-validation'
 import { VolunteerFilterPipe } from './volunteer-filter-.pipe';
 import { OrganizationComponent } from './organization/organization.component';
 import { OrganizationDetailComponent } from './organization-detail/organization-detail.component';
 import { EducationComponent } from './education/education.component';
+import { HealthComponent } from './health/health.component';
+import { ForRefugeesComponent } from './for-refugees/for-refugees.component';
+import { EducationComponent } from './education/education.component';
+import { ChildrenComponent } from './children/children.component';
+import { EconomicsComponent } from './economics/economics.component';
 
 export const firebaseConfig = {
     apiKey: masterFirebaseConfig.apiKey,
@@ -38,12 +42,16 @@ export const firebaseConfig = {
     OrganizationComponent,
     OrganizationDetailComponent,
     EducationComponent
+    HealthComponent,
+    ForRefugeesComponent,
+    EducationComponent,
+    ChildrenComponent,
+    EconomicsComponent
   ],
   imports: [
     BrowserModule,
     FormsModule,
     ReactiveFormsModule,
-    CustomFormsModule,
     HttpModule,
     routing,
     AngularFireModule.initializeApp(firebaseConfig),
