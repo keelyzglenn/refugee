@@ -17,7 +17,6 @@ import { VolunteerFilterPipe } from './volunteer-filter-.pipe';
 import { OrganizationComponent } from './organization/organization.component';
 import { OrganizationDetailComponent } from './organization-detail/organization-detail.component';
 
-
 export const firebaseConfig = {
     apiKey: masterFirebaseConfig.apiKey,
     authDomain: masterFirebaseConfig.authDomain,
@@ -45,7 +44,7 @@ export const firebaseConfig = {
     CustomFormsModule,
     HttpModule,
     routing,
-    AngularFireModule.initializeApp(firebaseConfig)
+    AngularFireModule.initializeApp(firebaseConfig),
   ],
   providers: [],
   bootstrap: [AppComponent]
