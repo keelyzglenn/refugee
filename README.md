@@ -29,3 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 
 <!-- npm install --save ng2-bs3-modal -->
+<!-- npm install --save font-awesome angular2-font-awesome -->
