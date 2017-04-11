@@ -4,6 +4,9 @@ import { WelcomeComponent } from './welcome/welcome.component';
 import { VolunteerComponent } from './volunteer/volunteer.component';
 import { HowToHelpComponent } from './how-to-help/how-to-help.component';
 import { VolunteerDetailComponent } from './volunteer-detail/volunteer-detail.component';
+import { DonationComponent } from './donation/donation.component';
+
+
 import { OrganizationComponent } from './organization/organization.component';
 import { OrganizationDetailComponent } from './organization-detail/organization-detail.component';
 
@@ -23,6 +26,10 @@ const appRoutes: Routes = [
   {
     path: 'volunteers/:id',
     component: VolunteerDetailComponent
+  },
+  {
+    path: 'donation',
+    component: DonationComponent
   },
   {
     path: 'organization',
