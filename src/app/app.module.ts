@@ -31,12 +31,9 @@ export const firebaseConfig = {
     HowToHelpComponent,
     VolunteerDetailComponent,
     CategoryPipe,
-<<<<<<< HEAD
     VolunteerFilterPipe
-=======
     OrganizationComponent,
     OrganizationDetailComponent
->>>>>>> c0d6db36ab54a277c1c55199cc02207871d92a95
   ],
   imports: [
     BrowserModule,
