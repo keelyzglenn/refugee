@@ -4,6 +4,8 @@ import { WelcomeComponent } from './welcome/welcome.component';
 import { VolunteerComponent } from './volunteer/volunteer.component';
 import { HowToHelpComponent } from './how-to-help/how-to-help.component';
 import { VolunteerDetailComponent } from './volunteer-detail/volunteer-detail.component';
+import { OrganizationComponent } from './organization/organization.component';
+import { OrganizationDetailComponent } from './organization-detail/organization-detail.component';
 
 const appRoutes: Routes = [
   {
@@ -21,6 +23,14 @@ const appRoutes: Routes = [
   {
     path: 'volunteers/:id',
     component: VolunteerDetailComponent
+  },
+  {
+    path: 'organization',
+    component: OrganizationComponent
+  },
+  {
+    path: 'organization/:id',
+    component: OrganizationDetailComponent
   }
 ];
 

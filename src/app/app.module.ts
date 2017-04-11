@@ -12,6 +12,8 @@ import { HowToHelpComponent } from './how-to-help/how-to-help.component';
 import { VolunteerDetailComponent } from './volunteer-detail/volunteer-detail.component';
 import { CategoryPipe } from './category.pipe';
 import { VolunteerFilterPipe } from './volunteer-filter-.pipe';
+import { OrganizationComponent } from './organization/organization.component';
+import { OrganizationDetailComponent } from './organization-detail/organization-detail.component';
 
 
 export const firebaseConfig = {
@@ -29,7 +31,12 @@ export const firebaseConfig = {
     HowToHelpComponent,
     VolunteerDetailComponent,
     CategoryPipe,
+<<<<<<< HEAD
     VolunteerFilterPipe
+=======
+    OrganizationComponent,
+    OrganizationDetailComponent
+>>>>>>> c0d6db36ab54a277c1c55199cc02207871d92a95
   ],
   imports: [
     BrowserModule,
