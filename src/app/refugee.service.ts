@@ -34,4 +34,9 @@ export class RefugeeService {
   getOrganizations() {
     return this.organizations;
   }
+
+  getOrganizationById(organizationId: string) {
+    return this.angularFire.database.object('organizations/' + organizationId);
+  }
+
 }

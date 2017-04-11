@@ -11,6 +11,8 @@ import { VolunteerComponent } from './volunteer/volunteer.component';
 import { HowToHelpComponent } from './how-to-help/how-to-help.component';
 import { VolunteerDetailComponent } from './volunteer-detail/volunteer-detail.component';
 import { CategoryPipe } from './category.pipe';
+import { OrganizationComponent } from './organization/organization.component';
+import { OrganizationDetailComponent } from './organization-detail/organization-detail.component';
 
 
 export const firebaseConfig = {
@@ -27,7 +29,9 @@ export const firebaseConfig = {
     VolunteerComponent,
     HowToHelpComponent,
     VolunteerDetailComponent,
-    CategoryPipe
+    CategoryPipe,
+    OrganizationComponent,
+    OrganizationDetailComponent
   ],
   imports: [
     BrowserModule,
