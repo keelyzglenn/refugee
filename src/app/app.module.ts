@@ -13,6 +13,9 @@ import { VolunteerDetailComponent } from './volunteer-detail/volunteer-detail.co
 import { CategoryPipe } from './category.pipe';
 import { DonationComponent } from './donation/donation.component';
 import { CustomFormsModule } from 'ng2-validation'
+import { VolunteerFilterPipe } from './volunteer-filter-.pipe';
+import { OrganizationComponent } from './organization/organization.component';
+import { OrganizationDetailComponent } from './organization-detail/organization-detail.component';
 
 
 export const firebaseConfig = {
@@ -30,7 +33,10 @@ export const firebaseConfig = {
     HowToHelpComponent,
     VolunteerDetailComponent,
     CategoryPipe,
-    DonationComponent
+    DonationComponent,
+    VolunteerFilterPipe,
+    OrganizationComponent,
+    OrganizationDetailComponent
   ],
   imports: [
     BrowserModule,

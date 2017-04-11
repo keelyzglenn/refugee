@@ -36,10 +36,58 @@
       "summary": "We see human suffering as a call – not just to open our hearts, but to move our feet. We are compelled by our Christian faith into action – a team, guided by compassion and magnified by expertise. We are committed to rise, mobilize, and make a difference. We respond to disasters around the world—and here at home—by sending teams of volunteer medical professionals and medical supplies to care for the sick and injured. We also mobilize long-term health promotion initiatives, collaborating with established partners within each community to ensure that our programs have a sustainable impact. Medical Teams International provides medical and dental care, humanitarian aid, and holistic development programs to all people in need, regardless of religion, nationality, sex, or race.",
       "category": "abroad"
     }, {
-      "company": "UN Volunteers",
-      "location": "Online",
-      "link": "https://www.onlinevolunteering.org/en",
-      "summary": "The United Nations Volunteers (UNV) programme contributes to peace and development through volunteerism worldwide. Online volunteering allows organizations and volunteers to team up to address sustainable development challenges – anywhere in the world, from any device. Online volunteering is fast, easy – and most of all, effective. When skilled, passionate individuals join forces online with great organizations working toward sustainable development goals, everyone wins.",
+      "company": "Doctors Without Borders",
+      "location": "Global",
+      "link": "http://www.doctorswithoutborders.org/work-us/work-field/benefits-opportunities",
+      "summary": "Doctors Without Borders/Médecins Sans Frontières (MSF) recruits medical, administrative, and logistical support personnel to provide medical care to people in crisis in more than 60 countries worldwide. Every year, around 3,000 MSF field staff provide lifesaving medical assistance to people who would otherwise be denied access to even the most basic health care.",
+      "category": "abroad"
+    }, {
+      "company": "Peace Corps",
+      "location": "Global",
+      "link": "https://www.peacecorps.gov/volunteer/volunteer-openings/",
+      "summary": "Peace Corps Volunteers work at the grassroots level to create change that lasts long after their service. As a Volunteer, you can make an investment in our world—one handshake, one project, one friendship at a time—that leads to new possibilities in service and when you return home.",
+      "category": "local"
+    }, {
+      "company": "Care",
+      "location": "United States",
+      "link": "https://my.care.org/site/SPageNavigator/CARE_SpecialDelivery.html",
+      "summary": "Millions of people have been forced to flee their homes, seeking refuge in other countries.Reassure them that they are not forgotten, that the world cares. That you care. Send your message of hope. It can be all the difference in the world to know you're not alone.",
+      "category": "local"
+    }, {
+      "company": "Refugees Welcome",
+      "location": "Germany, Austrai, Greece, Portugal, Spain, Sweden, The Netherlands, Poland, Italy, Canada, Czech Repbulic, Romania, Northern Ireland, Australia",
+      "link": "http://www.refugees-welcome.net/",
+      "summary": "Are you dissatisfied with how refugees are being treated in your country and are you interested in helping to ease the process of resettlement? Do you have a spare room in your flatshare available? We are convinced that refugees should not be stigmatized and excluded from society by being accommodated in camps. Instead, we should offer them a warm welcome. We believe we can establish a culture of open doors for refugees across Europe.",
+      "category": "local"
+      }, {
+      "company": "International Refugee Assistance Project",
+      "location": "New York",
+      "link": "https://refugeerights.org/hope-help/volunteersinterns/",
+      "summary": "Are you dissatisfied with how refugees are being treated in your country and are you interested in helping to ease the process of resettlement? Do you have a spare room in your flatshare available? We are convinced that refugees should not be stigmatized and excluded from society by being accommodated in camps. Instead, we should offer them a warm welcome. We believe we can establish a culture of open doors for refugees across Europe.",
+      "category": "local"
+      }, {
+      "company": "Refugees Welcome",
+      "location": "New York",
+      "link": "http://www.refugees-welcome.net/",
+      "summary": "The International Refugee Assistance Project (IRAP) organizes law students and lawyers to develop and enforce a set of legal and human rights for refugees and displaced persons. Mobilizing direct legal aid and systemic policy advocacy, IRAP serves the world’s most persecuted individuals and empowers the next generation of human rights leaders.",
+      "category": "local"
+      }, {
+      "company": "Positive Action",
+      "location": "United States",
+      "link": "http://www.paih.org/host-a-refugee/",
+      "summary": "Are you dissatisfied with how refugees are being treated in your country and are you interested in helping to ease the process of resettlement? Do you have a spare room in your flatshare available? We are convinced that refugees should not be stigmatized and excluded from society by being accommodated in camps. Instead, we should offer them a warm welcome. We believe we can establish a culture of open doors for refugees across Europe.",
+      "category": "local"
+      }, {
+      "company": "Refugee Center Online Classroom",
+      "location": "United States",
+      "link": "https://classroom.therefugeecenter.org/programs/volunteering-with-refugees",
+      "summary": "A free online course for volunteers working with refugees or those new to the field of refugee resettlement. This free online course will help you understand the basics of refugee resettlement, increase your cultural competency skills and help you incorporate cross-cultural communication strategies during your one-on-one exchanges. It will also allow you develop confidence when sharing your volunteer work experiences with other members of your community about the many positive benefits refugees bring to our cities and states.",
+      "category": "local"
+      }, {
+      "company": "Rescue.org",
+      "location": "United States",
+      "link": "https://www.rescue.org/united-states/new-york-ny",
+      "summary": "The International Rescue Committee provides opportunities for refugees, asylees, victims of human trafficking, survivors of torture, and other immigrants to thrive in America. Each year, thousands of people, forced to flee violence and persecution, are welcomed by the people of the United States into the safety and freedom of America. These individuals have survived against incredible odds. The IRC works with government bodies, civil society actors, and local volunteers to help them translate their past experiences into assets that are valuable to their new communities. In New York and other offices across the country, the IRC helps them to rebuild their lives.",
       "category": "local"
   }],
   "organizations": [

@@ -7,6 +7,9 @@ import { VolunteerDetailComponent } from './volunteer-detail/volunteer-detail.co
 import { DonationComponent } from './donation/donation.component';
 
 
+import { OrganizationComponent } from './organization/organization.component';
+import { OrganizationDetailComponent } from './organization-detail/organization-detail.component';
+
 const appRoutes: Routes = [
   {
     path: '',
@@ -27,6 +30,14 @@ const appRoutes: Routes = [
   {
     path: 'donation',
     component: DonationComponent
+  },
+  {
+    path: 'organization',
+    component: OrganizationComponent
+  },
+  {
+    path: 'organization/:id',
+    component: OrganizationDetailComponent
   }
 ];
 
