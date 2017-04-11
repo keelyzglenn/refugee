@@ -18,6 +18,7 @@ import { OrganizationDetailComponent } from './organization-detail/organization-
 import { HealthComponent } from './health/health.component';
 import { ForRefugeesComponent } from './for-refugees/for-refugees.component';
 
+
 export const firebaseConfig = {
     apiKey: masterFirebaseConfig.apiKey,
     authDomain: masterFirebaseConfig.authDomain,
