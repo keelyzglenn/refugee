@@ -17,6 +17,8 @@ import 'rxjs/add/operator/catch';
 export class OrganizationComponent implements OnInit {
   list: Organization[];
   organizations: FirebaseListObservable<any[]>;
+  filterByCategory: string = "allCategories";
+  currentRoute: string = this.router.url;
 
   constructor(private router: Router, private refugeeService: RefugeeService) { }
 
@@ -24,7 +26,6 @@ export class OrganizationComponent implements OnInit {
     this.organizations = this.refugeeService.getOrganizations();
   }
 
-  filterByCategory: string = "allCategories";
 
   onChange(optionFromMenu) {
     this.filterByCategory = optionFromMenu;
@@ -33,5 +34,10 @@ export class OrganizationComponent implements OnInit {
   getData(){
    return this.refugeeService.getList();
  }
+
+ goToDetailPage(clickedOrganization) {
+   this.router.navigate(['organization', clickedOrganization.$key]);
+ }
+
 
 }

@@ -27,6 +27,7 @@
   <option value="Transportation">Transportation</option>
   <option value="Water & Sanitation">Water & Sanitation</option>
 </select>
-<div *ngFor="let organization of organizations | category:filterByCategory | async">
+<div *ngFor="let organization of organizations | category:filterByCategory | async" (click)="goToDetailPage(organization)">
     <h3><em>{{organization.type}}</em> - {{organization.acronym}}</h3>
 </div>
+<button (click)="getData(organization)">Get Data</button>
