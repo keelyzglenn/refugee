@@ -1,6 +1,5 @@
 <div class="container">
-  <h1>Organization Information</h1>
-  <h2>Name: {{(organizationToDisplay | async)?.type}}</h2>
-  <h3>Acronym: {{(organizationToDisplay | async)?.acronym}}</h3>
+  <h1>{{(organizationToDisplay | async)?.type}}</h1>
+  <h3>{{(organizationToDisplay | async)?.acronym}}</h3>
   <h4>Link: <a href="{{(organizationToDisplay | async)?.url}}">{{(organizationToDisplay | async)?.url}}</a></h4>
 </div>
