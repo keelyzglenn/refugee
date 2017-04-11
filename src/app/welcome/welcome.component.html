@@ -1,6 +1,6 @@
 <h1>Welcome</h1>
 
-<a routerLink="/how-to-help">Learn about what you can do</a>
+
 
 <select (change)="onChange($event.target.value)">
   <option value="allCategories" selected="selected">All Categories</option>
@@ -31,3 +31,6 @@
     <h3><em>{{organization.name}}</em> - {{organization.acronym}}</h3>
 </div>
 <button (click)="getData(organization)">Get Data</button>
+
+
+<a routerLink="/how-to-help">Learn about what you can do</a>

@@ -20,6 +20,9 @@ export class VolunteerComponent implements OnInit {
 
   ngOnInit() {
     this.volunteers = this.volunteerService.getVolunteers();
+    this.volunteerService.getVolunteerApi().subscribe(data => {
+      console.log(data);
+    });
   }
 
   goToDetailPage(clickedVolunteer) {
