@@ -1,6 +1,6 @@
-<h1>Donate To The Syrian Refugee Crisis</h1>
+<h1 class="donate-heading">Donate To The Syrian Refugee Crisis</h1>
 
-<div>
+<form class="donate-form">
   <label>Choose a Donation Amount:</label>
   <br>
   <input type="radio" name="donation" [value]="5" checked>$5.00<br>
@@ -11,18 +11,19 @@
   <input type="radio" name="donation" [value]="250">$250.00<br>
   <br>
   <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".modal1">Make Your Donation!</button>
-</div>
+</form>
+
 <div class="modal modal1 fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
 
       <div class="modal-body">
 
-        <h3>Your donation will be processed shortly.</h3><br>
+        <h3>Your donation will be processed shortly...</h3><br>
         <h3><em>Thanks for your generosity!</em></h3>
         <hr>
 
-        <form>
+        <form class="modal-form">
           <h4>Personal Info</h4>
           <div>
             <input class="form-control" placeholder="First Name" #newName required>

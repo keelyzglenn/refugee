@@ -20,6 +20,7 @@ import { ForRefugeesComponent } from './for-refugees/for-refugees.component';
 import { EducationComponent } from './education/education.component';
 import { ChildrenComponent } from './children/children.component';
 import { EconomicsComponent } from './economics/economics.component';
+import { Angular2FontAwesomeModule } from 'angular2-font-awesome/angular2-font-awesome';
 
 export const firebaseConfig = {
     apiKey: masterFirebaseConfig.apiKey,
@@ -53,6 +54,7 @@ export const firebaseConfig = {
     ReactiveFormsModule,
     HttpModule,
     routing,
+    Angular2FontAwesomeModule,
     AngularFireModule.initializeApp(firebaseConfig),
   ],
   providers: [],
