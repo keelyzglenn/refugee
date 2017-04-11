@@ -11,6 +11,7 @@ import { VolunteerComponent } from './volunteer/volunteer.component';
 import { HowToHelpComponent } from './how-to-help/how-to-help.component';
 import { VolunteerDetailComponent } from './volunteer-detail/volunteer-detail.component';
 import { CategoryPipe } from './category.pipe';
+import { VolunteerFilterPipe } from './volunteer-filter-.pipe';
 
 
 export const firebaseConfig = {
@@ -27,7 +28,8 @@ export const firebaseConfig = {
     VolunteerComponent,
     HowToHelpComponent,
     VolunteerDetailComponent,
-    CategoryPipe
+    CategoryPipe,
+    VolunteerFilterPipe
   ],
   imports: [
     BrowserModule,

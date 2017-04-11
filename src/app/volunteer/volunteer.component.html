@@ -1,7 +1,9 @@
-<p>
-  volunteer works!
-</p>
+<select (change)="onChange($event.target.value)">
+  <option value="allVolunteer" selected="selected">All Oppurtunities</option>
+  <option value="local">Local Opportunities</option>
+  <option value="global">Global Opportunities</option>
+</select>
 
-<div *ngFor="let volunteer of volunteers | async" (click)="goToDetailPage(volunteer)">
+<div *ngFor="let volunteer of volunteers | async | volunteerFilter:filterByOppurtunity (click)="goToDetailPage(volunteer)">
   <h3>{{volunteer.company}}</h3>
 </div>
