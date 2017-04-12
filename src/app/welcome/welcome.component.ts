@@ -14,12 +14,6 @@ export class WelcomeComponent implements OnInit {
 
   private feedUrl: string = 'https%3A%2F%2Fwww.theguardian.com%2Fworld%2Fsyria%2Frss';
   private feeds: any;
-  feed1: any;
-  feed2: any;
-  feed3: any;
-  feed4: any;
-  feed5: any;
-  feed6: any;
   title = 'app works!';
   tweets;
 
@@ -50,12 +44,6 @@ refreshFeed() {
     this.feedService.getFeedContent(this.feedUrl)
         .subscribe(feed => { console.log(feed['items']);
                             this.feeds = feed['items'];
-                            this.feed1 = feed['items'][1];
-                            this.feed2 = feed['items'][2];
-                            this.feed3 = feed['items'][3];
-                            this.feed4 = feed['items'][4];
-                            this.feed5 = feed['items'][5];
-                            this.feed6 = feed['items'][6];
                           },
         error => console.log(error))
   }
