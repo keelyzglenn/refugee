@@ -12,7 +12,7 @@ import {Observable} from 'rxjs/Rx';
 })
 export class WelcomeComponent implements OnInit {
 
-  private feedUrl: string = 'https%3A%2F%2Fwww.newsdeeply.com%2Fsyria%2Frss';
+  private feedUrl: string = 'https%3A%2F%2Fwww.theguardian.com%2Fworld%2Fsyria%2Frss';
   private feeds: any;
   title = 'app works!';
   tweets;
@@ -35,7 +35,7 @@ export class WelcomeComponent implements OnInit {
     headers.append('Content-Type', 'application/X-www-form-urlencoded');
 
     this.http.post('http://localhost:3000/search', searchterm, {headers: headers}).subscribe((res) => {
-      console.log(res);
+      console.log(res.json());
       this.tweets = res.json().data.statuses;
     });
   }

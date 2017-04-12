@@ -6,7 +6,7 @@ import { Pipe, PipeTransform } from '@angular/core';
 export class TestPipe implements PipeTransform {
 
   transform(string: string){
-    return string.replace("a","b");
+    return string.replace("&amp;","");
   }
 
 }
