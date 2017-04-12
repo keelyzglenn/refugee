@@ -231,11 +231,11 @@ Image credits: unsplash.com
 }
 
 .carousel-control.left span {
-	padding: 45px;
+	padding-left: 45px;
 }
 
 .carousel-control.right span {
-	padding: 65px;
+	padding-right: 45px;
 }
 
 .carousel-control .glyphicon-chevron-left,
