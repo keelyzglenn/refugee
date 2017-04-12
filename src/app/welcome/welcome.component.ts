@@ -46,6 +46,10 @@ refreshFeed() {
         error => console.log(error))
   }
 
+  shorten(string){
+    string.replace("a","b")
+  }
+
 
   ngOnInit() {
     this.makecall();

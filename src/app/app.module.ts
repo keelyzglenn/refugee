@@ -21,6 +21,7 @@ import { EducationComponent } from './education/education.component';
 import { ChildrenComponent } from './children/children.component';
 import { EconomicsComponent } from './economics/economics.component';
 import { Angular2FontAwesomeModule } from 'angular2-font-awesome/angular2-font-awesome';
+import { ThumbnailPipe } from './thumbnail.pipe';
 
 export const firebaseConfig = {
     apiKey: masterFirebaseConfig.apiKey,
@@ -46,7 +47,8 @@ export const firebaseConfig = {
     ForRefugeesComponent,
     EducationComponent,
     ChildrenComponent,
-    EconomicsComponent
+    EconomicsComponent,
+    ThumbnailPipe
   ],
   imports: [
     BrowserModule,

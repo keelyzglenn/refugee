@@ -18,10 +18,17 @@ https://www.youtube.com/watch?v=NKb9GVU8bHE -->
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
 </head>
 
+<ul *ngFor="let feed of feeds">
+  <li><img src="{{feed.enclosure.link | thumbnail}}" alt="" /></li>
+  <li>{{feed.title}}</li>
+  <li>{{feed.author}} - {{feed.pubDate | date:'dd-MM-yyyy'}}</li>
+</ul>
+
 <section id="carousel">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2">
+<<<<<<< HEAD
                 <div class="quote"><i class="fa fa-quote-left fa-4x"></i></div>
 				<div class="carousel slide" id="fade-quote-carousel" data-ride="carousel" data-interval="3000">
 				  <!-- Carousel indicators -->
@@ -30,6 +37,7 @@ https://www.youtube.com/watch?v=NKb9GVU8bHE -->
 				    <li data-target="#fade-quote-carousel" data-slide-to="1"></li>
 				    <li data-target="#fade-quote-carousel" data-slide-to="2"></li>
 				  </ol>
+
 				  <!-- Carousel items -->
 				  <div class="carousel-inner" *ngFor="let feed of feeds;">
 				    <div class="active item">
@@ -99,11 +107,3 @@ https://www.youtube.com/watch?v=NKb9GVU8bHE -->
     <li>{{tweet.user.name}}</li>
     <li>{{tweet.text}}</li>
   </ul>
-
-<!-- Health
-education
-Economics (legal
-government
-financial )
-Children
--->
