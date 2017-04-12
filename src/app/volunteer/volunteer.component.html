@@ -9,7 +9,7 @@
   <br>
   <div class="volunteer-container">
     <div class="row">
-      <div *ngFor="let volunteer of volunteers | async | volunteerFilter:filterByOppurtunity" (click)="goToDetailPage(volunteer)" class="col-md-3  volunteer-boxes">
+      <div *ngFor="let volunteer of volunteers | async | volunteerFilter:filterByOppurtunity" (click)="goToDetailPage(volunteer)" class="col-md-3 volunteer-boxes">
         <img src="{{volunteer.image}}" alt="volunteer images" class="volunteer-images" style="width:100%;height:100%;padding:0" />
         <h3 class="volunteer-groups">{{volunteer.companyAbbr}}</h3>
       </div>

@@ -64,3 +64,18 @@ html body {
 .resource {
   padding-top: 5px;
 }
+
+
+.container {
+    position: relative;
+    width: 50%;
+}
+
+.volunteer-images {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
