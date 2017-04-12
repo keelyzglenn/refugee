@@ -35,7 +35,7 @@ export class WelcomeComponent implements OnInit {
     headers.append('Content-Type', 'application/X-www-form-urlencoded');
 
     this.http.post('http://localhost:3000/search', searchterm, {headers: headers}).subscribe((res) => {
-      console.log(res);
+      console.log(res.json());
       this.tweets = res.json().data.statuses;
     });
   }
