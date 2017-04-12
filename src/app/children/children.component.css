@@ -16,6 +16,12 @@
   width: 100% !important;
 }
 
+.wrap {
+  word-wrap: normal;
+  float: right;
+  width: 600px;
+}
+
 .title {
   background-color: white;
   padding: 50px;
@@ -104,7 +110,7 @@ body {
 	cursor:pointer;
 }
 #myCarousel .list-group .active {
-	background-color:#eee;
+	background-color:#ff725b;
 }
 
 @media (min-width: 992px) {
@@ -125,13 +131,26 @@ body {
   width: 360px;
   height: 544px;
   display: inline-block;
+  float: left;
 }
 
 .card-img-top {
   width: 300px;
   margin-bottom: 8px;
+  border-left: #ff725b 3px solid;
+}
+
+.card-img-top:hover {
+  -webkit-transform: scale(1.25);
+  transform: scale(1.25);
+  padding-bottom: 20px;
 }
 
 .item {
   height: 384px;
+}
+
+.btn:hover {
+  background-color: #ff5033;
+  color: white;
 }
