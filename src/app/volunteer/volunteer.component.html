@@ -1,9 +1,18 @@
 <div class="container">
+  <br>
   <select (change)="onChange($event.target.value)">
     <option value="allVolunteer" selected="selected">All Opportunities</option>
     <option value="local">Local Opportunities</option>
     <option value="global">Global Opportunities</option>
   </select>
-  <div *ngFor="let volunteer of volunteers | async | volunteerFilter:filterByOppurtunity" (click)="goToDetailPage(volunteer)">
-    <h3>{{volunteer.company}}</h3>
+  <br>
+  <br>
+  <div class="volunteer-container">
+    <div class="row">
+      <div *ngFor="let volunteer of volunteers | async | volunteerFilter:filterByOppurtunity" (click)="goToDetailPage(volunteer)" class="col-md-3  volunteer-boxes">
+        <img src="{{volunteer.image}}" alt="volunteer images" class="volunteer-images" style="width:100%;height:100%;padding:0" />
+        <h3 class="volunteer-groups">{{volunteer.company}}</h3>
+      </div>
+    </div>
+  </div>
 </div>

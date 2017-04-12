@@ -7,3 +7,29 @@ html body {
 .video-section {
   text-align: center;
 }
+
+.volunteer-container {
+  margin-left: 70px;
+}
+
+.volunteer-groups {
+  position: absolute;
+  bottom: 0;
+  width: 90%;
+  background-color: white;
+}
+
+.volunteer-boxes {
+
+  margin: 30px;
+  height: 200px;
+
+}
+
+.volunteer-boxes {
+  text-align: center;
+}
+
+.volunteer-images {
+  opacity: 0.7 !important;
+}
