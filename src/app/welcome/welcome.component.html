@@ -12,12 +12,105 @@
 https://www.youtube.com/watch?v=NKb9GVU8bHE -->
 <!-- https://www.worldvision.org/refugees-news-stories/syria-refugee-crisis-war-facts -->
 
-<section class="content-section video-section">
-  <div class="pattern-overlay">
-    <iframe width="90%" height="315" src="https://www.youtube.com/embed/JFpanWNgfQY?autoplay=1" frameborder="0" allowfullscreen></iframe>
-  </div>
-</section>
 
+
+<!-- <head>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+</head> -->
+
+<section id="carousel">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-8 col-md-offset-2">
+				<div class="carousel slide" id="fade-quote-carousel" data-ride="carousel" data-interval="8000">
+				  <!-- Carousel indicators -->
+                  <ol class="carousel-indicators">
+				    <li data-target="#fade-quote-carousel" data-slide-to="0"></li>
+				    <li data-target="#fade-quote-carousel" data-slide-to="1"></li>
+				    <li data-target="#fade-quote-carousel" data-slide-to="2" class="active"></li>
+                    <li data-target="#fade-quote-carousel" data-slide-to="3"></li>
+                    <li data-target="#fade-quote-carousel" data-slide-to="4"></li>
+				  </ol>
+				  <!-- Carousel items -->
+				  <div class="carousel-inner">
+				    <div class="item">
+              <div  class="row grid-divider">
+              <div class="col-sm-8" *ngFor="let feed of feeds">
+                <div class="col-padding">
+                  <img src="{{feed.enclosure.link}}" alt="" />
+                  <h3>{{feed.title}}</h3>
+                  <p>{{feed.author}} - {{feed.pubDate | date:'dd-MM-yyyy'}}</p>
+                </div>
+              </div>
+
+				    </div>
+				    <div class="item">
+              <div  class="row grid-divider">
+              <div class="col-sm-8">
+                <div class="col-padding">
+                  <h3>Column 1</h3>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima expedita incidunt rerum.</p>
+                </div>
+              </div>
+              <div class="col-sm-4 row">
+                <div class="col-padding">
+                  <h3>Column 3</h3>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab veniam aperiam numquam cupiditate maiores repudiandae ea dicta, sunt rerum corporis. Ab veniam aperiam numquam cupiditate maiores repudiandae ea dicta, sunt rerum corporis. Ab veniam aperiam numquam cupiditate maiores repudiandae ea dicta.</p>
+                </div>
+                <div class="col-padding row">
+                  <h3>Column 2</h3>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate placeat suscipit maxime tenetur officiis asperiores quae molestias fugiat praesentium dolorum.</p>
+                </div>
+              </div>
+              </div>
+				    </div>
+				    <div class="active item">
+              <div  class="row grid-divider">
+              <div class="col-sm-8">
+                <div class="col-padding">
+                  <h3>Column 1</h3>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima expedita incidunt rerum.</p>
+                </div>
+              </div>
+              <div class="col-sm-4 row">
+                <div class="col-padding">
+                  <h3>Column 3</h3>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab veniam aperiam numquam cupiditate maiores repudiandae ea dicta, sunt rerum corporis. Ab veniam aperiam numquam cupiditate maiores repudiandae ea dicta, sunt rerum corporis. Ab veniam aperiam numquam cupiditate maiores repudiandae ea dicta.</p>
+                </div>
+                <div class="col-padding row">
+                  <h3>Column 2</h3>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate placeat suscipit maxime tenetur officiis asperiores quae molestias fugiat praesentium dolorum.</p>
+                </div>
+              </div>
+              </div>
+				    </div>
+            <div class="item">
+              <div  class="row grid-divider">
+              <div class="col-sm-8">
+                <div class="col-padding">
+                  <h3>Column 1</h3>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima expedita incidunt rerum.</p>
+                </div>
+              </div>
+              <div class="col-sm-4 row">
+                <div class="col-padding">
+                  <h3>Column 3</h3>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab veniam aperiam numquam cupiditate maiores repudiandae ea dicta, sunt rerum corporis. Ab veniam aperiam numquam cupiditate maiores repudiandae ea dicta, sunt rerum corporis. Ab veniam aperiam numquam cupiditate maiores repudiandae ea dicta.</p>
+                </div>
+                <div class="col-padding row">
+                  <h3>Column 2</h3>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate placeat suscipit maxime tenetur officiis asperiores quae molestias fugiat praesentium dolorum.</p>
+                </div>
+              </div>
+              </div>
+				    </div>
+				  </div>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div>
+</section>
 
 <p>
   This year marks the sixth year anniversy of the start of the civil war. An estimated 11 million Syrians have fled their homes as refugees seeking asylum in other countries. 470,000 people have been killed. and another 13.5 million are in need of humanitarian assistance within the country.
@@ -64,12 +157,7 @@ https://www.youtube.com/watch?v=NKb9GVU8bHE -->
     <li>{{tweet.user.name}}</li>
     <li>{{tweet.text}}</li>
   </ul>
-<h5>NEWS FEED</h5>
-<ul *ngFor="let feed of feeds">
-  <li>{{feed.title}}
-{{feed.author}} - {{feed.pubDate | date:'dd-MM-yyyy'}}
-{{feed.description}}</li>
-</ul>
+
 <!-- Health
 education
 Economics (legal
