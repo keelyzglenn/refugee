@@ -1,0 +1,19 @@
+/*For Panel Links*/
+.panel-default{
+    text-align:center;
+    cursor:pointer;
+    font-family: 'Raleway',sans-serif;
+}
+
+.links {
+  color: #ffffff;
+}
+
+.panel-default {
+  background-color: #4b4b4b;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Raleway',sans-serif
+}

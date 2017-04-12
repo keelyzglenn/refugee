@@ -4,21 +4,24 @@
   border: none;
 }
 
+/*for unclicked tab*/
 .custom-tab{
   padding: 0;
-  background-color: #DA2B23;
+  background-color: #8a8a8a;
 }
 
+/*for active tab*/
 .nav-tabs>li.active>a,
 .nav-tabs>li.active>a:hover,
 .nav-tabs>li.active>a:focus {
-  background-color: #B90908;
+  background-color: #353535;
   color: #fff;
 }
 
+/*for the hover color*/
 .nav>li>a:hover,
 .nav>li>a:focus {
-  background-color: #DA2B23;
+  background-color: #e6e6e6;
   color: #fff;
 }
 
@@ -31,7 +34,7 @@
 }
 
 .custom-tab.active:after{
-    top: 100%;
+  top: 100%;
 	left: 50%;
 	border: solid transparent;
 	content: " ";
@@ -40,7 +43,7 @@
 	position: absolute;
 	pointer-events: none;
 	border-color: rgba(185, 9, 8, 0);
-	border-top-color: #B90908;
+	border-top-color: #353535;
 	border-width: 30px;
 	margin-left: -30px;
 }
