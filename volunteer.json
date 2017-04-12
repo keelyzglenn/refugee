@@ -5,105 +5,120 @@
     "link": "https://www.unv.org/become-volunteer/volunteer-abroad",
     "summary": "International UN Volunteers promote peace and development in communities around the globe, while upholding the ideals and aspirations of the United Nations. International UN Volunteers come from 160 countries, representing many cultures and backgrounds. They bring a wide variety of perspectives and approaches. Your international UN Volunteer assignment will make a lasting impact. It can create a ripple effect that extends far beyond the immediate results of your efforts.",
     "category": "abroad",
-    "image": "https://www.unv.org/sites/default/files/LAC-case-study-large.jpg"
+    "image": "https://www.unv.org/sites/default/files/LAC-case-study-large.jpg",
+    "companyAbbr": "UN Volunteers"
     }, {
     "company": "Relief and Reconciliation for Syria",
     "location": "Lebanon",
     "link": "http://www.reliefandreconciliation.org/volunteer-with-us.html",
     "summary": "Living and working at our first Peace Centre in the North of Lebanon, only 12 km from the Syrian border, volunteers are directly involved in implementing an innovative approach to assisting the Syrian refugee crisis in Lebanon. As part of our ethos to bring people from different backgrounds together, opening windows of communication, our international volunteers combine forces with local volunteers in organising and implementing educational and recreational activities for children and adolescents of Syrian refugee and Lebanese host communities.",
     "category": "abroad",
-    "image": "https://www.gooverseas.com/sites/default/files/article-images/nov-12-2015/volunteer-refugees-123383.jpg"
+    "image": "https://www.gooverseas.com/sites/default/files/article-images/nov-12-2015/volunteer-refugees-123383.jpg",
+    "companyAbbr": "Relief for Syria"
     }, {
     "company": "Lighthouse Relief",
     "location": "Greece, Lesvos",
     "link": "http://www.lighthouserelief.org/volunteer/",
     "summary": "Volunteers for our camp operations must commit to a minimum period of three weeks and be over 23 years old. Please fill out only one application. You can't apply more than two months in advance. If the need for volunteers is bigger in another location, we will re-direct you there. For Arabic, Kurdish and Farsi/Dari speakers your language skills are needed even if you don't have an extensive background within the program you apply to join! We are looking for volunteers in the following areas: Female Friendly Space, Infant and Young Child Feeding, Construction Unit, Child Friendly Space, Female Friendly Space.",
     "category": "abroad",
-    "image": "https://static1.squarespace.com/static/56262d48e4b0fd27aa89289f/t/58d53217893fc0d420469969/1490367015642/?format=1500w"
+    "image": "https://static1.squarespace.com/static/56262d48e4b0fd27aa89289f/t/58d53217893fc0d420469969/1490367015642/?format=1500w",
+    "companyAbbr": "Lighthouse Relief"
     }, {
     "company": "Hope Project",
     "location": "Thessaloniki, Greece",
     "link": "http://www.hopeproject.net/volunteer/",
     "summary": "Volunteering with Hope Project means that you will join a dynamic team of individuals, who together, support the vision of bringing a sense of humanity to refugees in Greece. We focus on education, compassion, creativity, humility and ambition. The aim is to put each volunteer at the forefront of our work and help build the project using their own skills and experience. We celebrate the diversity in our team and believe it makes us stronger.",
     "category": "abroad",
-    "image": "https://static1.squarespace.com/static/5790b8d220099e0a9818433b/58af1f5420099ee65747e4c1/58af1f548419c2c2bcbf1b20/1487871842127/DSC_0787.JPG?format=1000w"
+    "image": "https://static1.squarespace.com/static/5790b8d220099e0a9818433b/58af1f5420099ee65747e4c1/58af1f548419c2c2bcbf1b20/1487871842127/DSC_0787.JPG?format=1000w",
+    "companyAbbr": "Hope Project"
     }, {
       "company": "Samos Volunteers",
       "location": "Vathi, Greece",
       "link": "https://www.samosvolunteers.com/volunteer/",
       "summary": "Samos Volunteers are here to provide essential services and are determined to remain in Samos until refugees no longer need our support. Our daily presence in the camp has allowed us to build relationships with the now largely static population of refugees on Samos. Upon arrival, they must settle into the semi-closed camp to await the long-drawn out asylum procedure: this can take months, and in some cases, years. Recently, we came out of a transitional period during which we moved our activities from the daily distribution of non-food items, to informal educational activities and psycho-social support. We feel that the clothing and hygiene needs of those residing in the camp can be covered by the government organisations mandated to provide this support, and so we feel we can have a bigger impact on our beneficiaries through means of education, activities, and interesting projects and courses.",
       "category": "abroad",
-      "image": "https://static1.squarespace.com/static/58e2b73fb3db2bb2904ca55b/t/58e41baa46c3c4bfdd9be41b/1491374761019/tumblr_mjco89cUVY1rkz363o1_1280.jpg?format=1500w"
+      "image": "https://static1.squarespace.com/static/58e2b73fb3db2bb2904ca55b/t/58e41baa46c3c4bfdd9be41b/1491374761019/tumblr_mjco89cUVY1rkz363o1_1280.jpg?format=1500w",
+      "companyAbbr": "Samos Volunteers"
     }, {
       "company": "Medical Teams International",
       "location": "Lebanon, Greece, Turkey",
       "link": "http://www.medicalteams.org/take-action/volunteer",
       "summary": "We see human suffering as a call – not just to open our hearts, but to move our feet. We are compelled by our Christian faith into action – a team, guided by compassion and magnified by expertise. We are committed to rise, mobilize, and make a difference. We respond to disasters around the world—and here at home—by sending teams of volunteer medical professionals and medical supplies to care for the sick and injured. We also mobilize long-term health promotion initiatives, collaborating with established partners within each community to ensure that our programs have a sustainable impact. Medical Teams International provides medical and dental care, humanitarian aid, and holistic development programs to all people in need, regardless of religion, nationality, sex, or race.",
       "category": "abroad",
-      "image": "http://www.medicalteams.org/images/default-source/default-album/mti-about-us.jpg?sfvrsn=2"
+      "image": "http://www.medicalteams.org/images/default-source/default-album/mti-about-us.jpg?sfvrsn=2",
+      "companyAbbr": "Medical Teams"
     }, {
       "company": "Doctors Without Borders",
       "location": "Global",
       "link": "http://www.doctorswithoutborders.org/work-us/work-field/benefits-opportunities",
       "summary": "Doctors Without Borders/Médecins Sans Frontières (MSF) recruits medical, administrative, and logistical support personnel to provide medical care to people in crisis in more than 60 countries worldwide. Every year, around 3,000 MSF field staff provide lifesaving medical assistance to people who would otherwise be denied access to even the most basic health care.",
       "category": "abroad",
-      "image": "http://cdn.doctorswithoutborders.org/sites/usa/files/styles/detail_page_header_left_sidebar/http/media.msf.org/Docs/MSF/Media/TR1/b/6/9/b/MSF140857.jpg"
+      "image": "http://cdn.doctorswithoutborders.org/sites/usa/files/styles/detail_page_header_left_sidebar/http/media.msf.org/Docs/MSF/Media/TR1/b/6/9/b/MSF140857.jpg",
+      "companyAbbr": "Doctors"
     }, {
       "company": "Peace Corps",
       "location": "Global",
       "link": "https://www.peacecorps.gov/volunteer/volunteer-openings/",
       "summary": "Peace Corps Volunteers work at the grassroots level to create change that lasts long after their service. As a Volunteer, you can make an investment in our world—one handshake, one project, one friendship at a time—that leads to new possibilities in service and when you return home.",
       "category": "local",
-      "image": "http://media.salon.com/2013/04/peace_corps_patch.jpg"
+      "image": "http://media.salon.com/2013/04/peace_corps_patch.jpg",
+      "companyAbbr": "Peace Corps"
     }, {
       "company": "Care",
       "location": "United States",
       "link": "https://my.care.org/site/SPageNavigator/CARE_SpecialDelivery.html",
       "summary": "Millions of people have been forced to flee their homes, seeking refuge in other countries.Reassure them that they are not forgotten, that the world cares. That you care. Send your message of hope. It can be all the difference in the world to know you're not alone.",
       "category": "local",
-      "image": "https://secure3.convio.net/care/images/content/pagebuilder/CARE_Syria_letter_LP_r01_banner.jpg"
+      "image": "https://secure3.convio.net/care/images/content/pagebuilder/CARE_Syria_letter_LP_r01_banner.jpg",
+      "companyAbbr": "Care"
     }, {
       "company": "Refugees Welcome",
       "location": "Germany, Austrai, Greece, Portugal, Spain, Sweden, The Netherlands, Poland, Italy, Canada, Czech Repbulic, Romania, Northern Ireland, Australia",
       "link": "http://www.refugees-welcome.net/",
       "summary": "Are you dissatisfied with how refugees are being treated in your country and are you interested in helping to ease the process of resettlement? Do you have a spare room in your flatshare available? We are convinced that refugees should not be stigmatized and excluded from society by being accommodated in camps. Instead, we should offer them a warm welcome. We believe we can establish a culture of open doors for refugees across Europe.",
       "category": "local",
-      "image": "http://www.nationalobserver.com/sites/nationalobserver.com/files/styles/nat_header_full_size/public/img/2016/10/12/tiffany-cooper-syrian_refugee_youth-iss-boys.jpg?itok=53OcuKRf"
+      "image": "http://www.nationalobserver.com/sites/nationalobserver.com/files/styles/nat_header_full_size/public/img/2016/10/12/tiffany-cooper-syrian_refugee_youth-iss-boys.jpg?itok=53OcuKRf",
+      "companyAbbr": "Refugees Welcome"
       }, {
       "company": "International Refugee Assistance Project",
       "location": "New York",
       "link": "https://refugeerights.org/hope-help/volunteersinterns/",
       "summary": "Are you dissatisfied with how refugees are being treated in your country and are you interested in helping to ease the process of resettlement? Do you have a spare room in your flatshare available? We are convinced that refugees should not be stigmatized and excluded from society by being accommodated in camps. Instead, we should offer them a warm welcome. We believe we can establish a culture of open doors for refugees across Europe.",
       "category": "local",
-      "image": "https://hrp.urbanjustice.org/sites/default/files/HRP.WEB_.img_slider_ATeam%202014_960x485_20140519.jpg"
+      "image": "https://hrp.urbanjustice.org/sites/default/files/HRP.WEB_.img_slider_ATeam%202014_960x485_20140519.jpg",
+      "companyAbbr": "Refugee Assistance"
       }, {
       "company": "Refugees Welcome",
       "location": "New York",
       "link": "http://www.refugees-welcome.net/",
       "summary": "The International Refugee Assistance Project (IRAP) organizes law students and lawyers to develop and enforce a set of legal and human rights for refugees and displaced persons. Mobilizing direct legal aid and systemic policy advocacy, IRAP serves the world’s most persecuted individuals and empowers the next generation of human rights leaders.",
       "category": "local",
-      "image": "http://funds.gfmcdn.com/9950591_1458107920.4864.jpg"
+      "image": "http://funds.gfmcdn.com/9950591_1458107920.4864.jpg",
+      "companyAbbr": "Refugees Welcome"
       }, {
       "company": "Positive Action",
       "location": "United States",
       "link": "http://www.paih.org/host-a-refugee/",
       "summary": "Are you dissatisfied with how refugees are being treated in your country and are you interested in helping to ease the process of resettlement? Do you have a spare room in your flatshare available? We are convinced that refugees should not be stigmatized and excluded from society by being accommodated in camps. Instead, we should offer them a warm welcome. We believe we can establish a culture of open doors for refugees across Europe.",
       "category": "local",
-      "image": "https://d4z6dx8qrln4r.cloudfront.net/image-7c9008b4fdd90ba4e37845352f870f18-default.jpeg"
+      "image": "https://d4z6dx8qrln4r.cloudfront.net/image-7c9008b4fdd90ba4e37845352f870f18-default.jpeg",
+      "companyAbbr": "Positive Action"
       }, {
       "company": "Refugee Center Online Classroom",
       "location": "United States",
       "link": "https://classroom.therefugeecenter.org/programs/volunteering-with-refugees",
       "summary": "A free online course for volunteers working with refugees or those new to the field of refugee resettlement. This free online course will help you understand the basics of refugee resettlement, increase your cultural competency skills and help you incorporate cross-cultural communication strategies during your one-on-one exchanges. It will also allow you develop confidence when sharing your volunteer work experiences with other members of your community about the many positive benefits refugees bring to our cities and states.",
       "category": "local",
-      "image": "https://classroom.therefugeecenter.org/wp-content/uploads/2017/01/Bonnie-family-mentor.jpg"
+      "image": "https://classroom.therefugeecenter.org/wp-content/uploads/2017/01/Bonnie-family-mentor.jpg",
+      "companyAbbr": "Refugee Center"
       }, {
       "company": "Rescue.org",
       "location": "United States",
       "link": "https://www.rescue.org/united-states/new-york-ny",
       "summary": "The International Rescue Committee provides opportunities for refugees, asylees, victims of human trafficking, survivors of torture, and other immigrants to thrive in America. Each year, thousands of people, forced to flee violence and persecution, are welcomed by the people of the United States into the safety and freedom of America. These individuals have survived against incredible odds. The IRC works with government bodies, civil society actors, and local volunteers to help them translate their past experiences into assets that are valuable to their new communities. In New York and other offices across the country, the IRC helps them to rebuild their lives.",
       "category": "local",
-      "image": "https://www.rescue.org/sites/default/files/styles/inset_variable_height_breakpoints_theme_ng_large_2x/public/image/4435/e-image/20151007_ttodraswhitehill_greece_53.jpg?itok=25gd1FiF&timestamp=1485966644"
+      "image": "https://www.rescue.org/sites/default/files/styles/inset_variable_height_breakpoints_theme_ng_large_2x/public/image/4435/e-image/20151007_ttodraswhitehill_greece_53.jpg?itok=25gd1FiF&timestamp=1485966644",
+      "companyAbbr": "Rescue.org"
   }],
   "organizations": [
     {

@@ -15,8 +15,9 @@ html body {
 .volunteer-groups {
   position: absolute;
   bottom: 0;
-  width: 90%;
-  background-color: white;
+  width: 89%;
+  color: white;
+  background-color: #ff8572;
 }
 
 .volunteer-boxes {
@@ -32,4 +33,34 @@ html body {
 
 .volunteer-images {
   opacity: 0.7 !important;
+}
+
+.volunteer-detail-container {
+  margin-top: 20px;
+}
+
+.volunteer-detail-title h1 {
+  text-align: center;
+}
+
+.volunteer-detail-image {
+  margin-left: 10%;
+}
+
+.volunteer-detail p {
+  font-size: 18px;
+}
+
+.volunteer-detail-paragraphs {
+  border-right: 1px solid black;
+  padding: 20px 50px;
+}
+
+.volunteer-detail-category {
+  padding: 10px;
+  margin-left: 20px;
+}
+
+.resource {
+  padding-top: 5px;
 }
