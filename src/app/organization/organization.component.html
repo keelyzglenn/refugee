@@ -1,5 +1,5 @@
-
-<select (change)="onChange($event.target.value)">
+<div class="container">
+  <select (change)="onChange($event.target.value)">
   <option value="allCategories" selected="selected">All Categories</option>
   <option value="Camp Management">Camp Management</option>
   <option value="Child Protection">Child Protection</option>
@@ -29,3 +29,4 @@
 </div>
 
 <button (click)="getData(organization)">Get Data</button>
+</div>

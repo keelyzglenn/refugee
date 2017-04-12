@@ -1,6 +1,10 @@
-<h1>{{(volunteerToDisplay | async)?.company}}</h1>
-<h5>{{(volunteerToDisplay | async)?.location}}</h5>
-<h5>{{(volunteerToDisplay | async)?.link}}</h5>
-<h5>{{(volunteerToDisplay | async)?.company}}</h5>
-<h5>{{(volunteerToDisplay | async)?.summary}}</h5>
-<h5>{{(volunteerToDisplay | async)?.category}}</h5>
+<div class="title">
+  <h1>{{(volunteerToDisplay | async)?.company}}</h1>
+  <h3 id="countryTitle">{{(volunteerToDisplay | async)?.location}}</h3>
+  <a href="{{(volunteerToDisplay | async)?.link}}">Go to Website</a>
+</div>
+<div class="container">
+  <h5>{{(volunteerToDisplay | async)?.company}}</h5>
+  <h5>{{(volunteerToDisplay | async)?.summary}}</h5>
+  <h5>{{(volunteerToDisplay | async)?.category}}</h5>
+</div>
