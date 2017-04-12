@@ -1,0 +1,3395 @@
+{
+  "organizations" : {
+    "-KhT60hQOSJq9om7TBE-" : {
+      "acronym" : "IRC",
+      "type" : "Camp Management",
+      "url" : "http://www.rescue.org"
+    },
+    "-KhT60hSJzeFoz8xsnDg" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Camp Management",
+      "url" : ""
+    },
+    "-KhT60hSJzeFoz8xsnDh" : {
+      "acronym" : "MODM",
+      "type" : "Camp Management",
+      "url" : "http://momd.gov.iq"
+    },
+    "-KhT60hSJzeFoz8xsnDi" : {
+      "acronym" : "UNHCR",
+      "type" : "Camp Management",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhT60hSJzeFoz8xsnDj" : {
+      "acronym" : "Friends of Waldorf Education",
+      "type" : "Child Protection",
+      "url" : "http://www.freunde-waldorf.de/en/"
+    },
+    "-KhT60hTdBWv3UbcuE4L" : {
+      "acronym" : "ACF",
+      "type" : "Child Protection",
+      "url" : "http://www.actioncontrelafaim.org/en/"
+    },
+    "-KhT60hUjT-_jENZQ1RL" : {
+      "acronym" : "DOLSA",
+      "type" : "Child Protection",
+      "url" : ""
+    },
+    "-KhT60hVUrZAg_Zpj7Cv" : {
+      "acronym" : "Harikar",
+      "type" : "Child Protection",
+      "url" : "http://www.harikar.org"
+    },
+    "-KhT60hWzuKx64ZvhWM2" : {
+      "acronym" : "IRC",
+      "type" : "Child Protection",
+      "url" : "http://www.rescue.org"
+    },
+    "-KhT60hXuzlEaF2RdO8L" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Child Protection",
+      "url" : ""
+    },
+    "-KhT60hYqtRdTEh2ulVN" : {
+      "acronym" : "MSF",
+      "type" : "Child Protection",
+      "url" : "http://www.msf.org"
+    },
+    "-KhT60hZvu_bMCYFGocf" : {
+      "acronym" : "SAVE International",
+      "type" : "Child Protection",
+      "url" : "http://www.savethechildren.net/"
+    },
+    "-KhT60hZvu_bMCYFGocg" : {
+      "acronym" : "SC",
+      "type" : "Child Protection",
+      "url" : "http://www.savethechildren.org"
+    },
+    "-KhT60hbaV6fhxMlfU0a" : {
+      "acronym" : "UNHCR",
+      "type" : "Child Protection",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhT60hbaV6fhxMlfU0b" : {
+      "acronym" : "UNICEF",
+      "type" : "Child Protection",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhT60hcuSA0iT2NJYQX" : {
+      "acronym" : "UPP",
+      "type" : "Child Protection",
+      "url" : "http://www.unponteper.it"
+    },
+    "-KhT60hdoKOVhxYuERmT" : {
+      "acronym" : "ACF",
+      "type" : "Community Services",
+      "url" : "http://www.actioncontrelafaim.org/en/"
+    },
+    "-KhT60he2YEDsyUmNBZm" : {
+      "acronym" : "DRC",
+      "type" : "Community Services",
+      "url" : ""
+    },
+    "-KhT60he2YEDsyUmNBZn" : {
+      "acronym" : "DRC Iraq",
+      "type" : "Community Services",
+      "url" : "http://drc.dk/relief-work/where-we-work/middle-east/iraq/"
+    },
+    "-KhT60hfENVC1RLpvRRr" : {
+      "acronym" : "DVAW",
+      "type" : "Community Services",
+      "url" : ""
+    },
+    "-KhT60hfENVC1RLpvRRs" : {
+      "acronym" : "Harikar",
+      "type" : "Community Services",
+      "url" : "http://www.harikar.org"
+    },
+    "-KhT60hfENVC1RLpvRRt" : {
+      "acronym" : "INTERSOS Iraq",
+      "type" : "Community Services",
+      "url" : "http://intersos.org/en/countries/asia-and-middle-east/iraq/iraq"
+    },
+    "-KhT60hglNnf2gtCEhw_" : {
+      "acronym" : "IRC",
+      "type" : "Community Services",
+      "url" : "http://www.rescue.org"
+    },
+    "-KhT60hhNVS4ki1RvE8s" : {
+      "acronym" : "IRW",
+      "type" : "Community Services",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhT60hhNVS4ki1RvE8t" : {
+      "acronym" : "ISHO",
+      "type" : "Community Services",
+      "url" : ""
+    },
+    "-KhT60hiWI5ec0XkpPZA" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Community Services",
+      "url" : ""
+    },
+    "-KhT60hjOPVwXoZP7zBJ" : {
+      "acronym" : "NRC",
+      "type" : "Community Services",
+      "url" : "http://www.nrc.no"
+    },
+    "-KhT60hkgPSmCxetNUi_" : {
+      "acronym" : "Qandil",
+      "type" : "Community Services",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhT60hkgPSmCxetNUia" : {
+      "acronym" : "REACH",
+      "type" : "Community Services",
+      "url" : "http://www.reach-iraq.org"
+    },
+    "-KhT60hkgPSmCxetNUib" : {
+      "acronym" : "RIRP",
+      "type" : "Community Services",
+      "url" : "http://www.rirp.org"
+    },
+    "-KhT60hkgPSmCxetNUic" : {
+      "acronym" : "SAVE International",
+      "type" : "Community Services",
+      "url" : "http://www.savethechildren.net/"
+    },
+    "-KhT60hlf5TUfLWpAHTZ" : {
+      "acronym" : "SC",
+      "type" : "Community Services",
+      "url" : "http://www.savethechildren.org"
+    },
+    "-KhT60hlf5TUfLWpAHT_" : {
+      "acronym" : "UNFPA",
+      "type" : "Community Services",
+      "url" : "http://www.unfpa.org"
+    },
+    "-KhT60hlf5TUfLWpAHTa" : {
+      "acronym" : "UNHCR",
+      "type" : "Community Services",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhT60hmk5u0R_46FjW6" : {
+      "acronym" : "UNICEF",
+      "type" : "Community Services",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhT60hmk5u0R_46FjW7" : {
+      "acronym" : "UPP",
+      "type" : "Community Services",
+      "url" : "http://www.unponteper.it"
+    },
+    "-KhT60hmk5u0R_46FjW8" : {
+      "acronym" : "IRC",
+      "type" : "Coordination",
+      "url" : "http://www.rescue.org"
+    },
+    "-KhT60hn9okocMCLqU3R" : {
+      "acronym" : "IRW",
+      "type" : "Coordination",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhT60hn9okocMCLqU3S" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Coordination",
+      "url" : ""
+    },
+    "-KhT60hox_ER2t7vLPK3" : {
+      "acronym" : "MODM",
+      "type" : "Coordination",
+      "url" : "http://momd.gov.iq"
+    },
+    "-KhT60hox_ER2t7vLPK4" : {
+      "acronym" : "Qandil",
+      "type" : "Coordination",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhT60hox_ER2t7vLPK5" : {
+      "acronym" : "UNFPA",
+      "type" : "Coordination",
+      "url" : "http://www.unfpa.org"
+    },
+    "-KhT60hqoDs9OuUSZN2i" : {
+      "acronym" : "UNHCR",
+      "type" : "Coordination",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhT60hqoDs9OuUSZN2j" : {
+      "acronym" : "UNICEF",
+      "type" : "Coordination",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhT60hrQ_YULUUJ1Niv" : {
+      "acronym" : "UPP",
+      "type" : "Coordination",
+      "url" : "http://www.unponteper.it"
+    },
+    "-KhT60hrQ_YULUUJ1Niw" : {
+      "acronym" : "WFP",
+      "type" : "Coordination",
+      "url" : "http://www.wfp.org"
+    },
+    "-KhT60hsigVsyuOeHdP9" : {
+      "acronym" : "WHO",
+      "type" : "Coordination",
+      "url" : "http://www.who.org"
+    },
+    "-KhT60hsigVsyuOeHdPA" : {
+      "acronym" : "ACF",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : ""
+    },
+    "-KhT60hsigVsyuOeHdPB" : {
+      "acronym" : "Barzani Foundation",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : ""
+    },
+    "-KhT60huPEKFaVQKk008" : {
+      "acronym" : "IOM",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : "http://www.iomiraq.net/"
+    },
+    "-KhT60huPEKFaVQKk009" : {
+      "acronym" : "IRC",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : "http://www.rescue.org"
+    },
+    "-KhT60huPEKFaVQKk00A" : {
+      "acronym" : "IRW",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhT60huPEKFaVQKk00B" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : ""
+    },
+    "-KhT60hvBcK6207c2Jfn" : {
+      "acronym" : "MODM",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : "http://momd.gov.iq"
+    },
+    "-KhT60hvBcK6207c2Jfo" : {
+      "acronym" : "PWJ",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : ""
+    },
+    "-KhT60hvBcK6207c2Jfp" : {
+      "acronym" : "Qandil",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhT60hwa7mCATzFJvyr" : {
+      "acronym" : "SAVE International",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : "http://www.savethechildren.net/"
+    },
+    "-KhT60hwa7mCATzFJvys" : {
+      "acronym" : "SC",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : "http://www.savethechildren.org"
+    },
+    "-KhT60hxp3-7jlKT9nUB" : {
+      "acronym" : "UNHCR",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhT60hxp3-7jlKT9nUC" : {
+      "acronym" : "UNICEF",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhT60hxp3-7jlKT9nUD" : {
+      "acronym" : "UPP",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : "http://www.unponteper.it"
+    },
+    "-KhT60hxp3-7jlKT9nUE" : {
+      "acronym" : "Dar Beru",
+      "type" : "Education",
+      "url" : ""
+    },
+    "-KhT60hyubsUR5G5RA7f" : {
+      "acronym" : "Harikar",
+      "type" : "Education",
+      "url" : "http://www.harikar.org"
+    },
+    "-KhT60hyubsUR5G5RA7g" : {
+      "acronym" : "IOM",
+      "type" : "Education",
+      "url" : "http://www.iomiraq.net/"
+    },
+    "-KhT60hzrZqqXjrFJggb" : {
+      "acronym" : "IRC",
+      "type" : "Education",
+      "url" : "http://www.rescue.org"
+    },
+    "-KhT60hzrZqqXjrFJggc" : {
+      "acronym" : "KRG- DMC/ DoE",
+      "type" : "Education",
+      "url" : ""
+    },
+    "-KhT60hzrZqqXjrFJggd" : {
+      "acronym" : "PWJ",
+      "type" : "Education",
+      "url" : ""
+    },
+    "-KhT60hzrZqqXjrFJgge" : {
+      "acronym" : "Qandil",
+      "type" : "Education",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhT60i-F53JqpeaHw9H" : {
+      "acronym" : "REACH",
+      "type" : "Education",
+      "url" : "http://www.reach-iraq.org"
+    },
+    "-KhT60i-F53JqpeaHw9I" : {
+      "acronym" : "UNESCO",
+      "type" : "Education",
+      "url" : "http://www.unesco.org/iraq-office"
+    },
+    "-KhT60i0zdnOMQY2qftC" : {
+      "acronym" : "UNHCR",
+      "type" : "Education",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhT60i0zdnOMQY2qftD" : {
+      "acronym" : "UNICEF",
+      "type" : "Education",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhT60i17keit51wlJhZ" : {
+      "acronym" : "WFP",
+      "type" : "Education",
+      "url" : "http://www.wfp.org"
+    },
+    "-KhT60i17keit51wlJh_" : {
+      "acronym" : "REACH",
+      "type" : "Environment",
+      "url" : "http://www.reach-iraq.org"
+    },
+    "-KhT60i17keit51wlJha" : {
+      "acronym" : "RIRP",
+      "type" : "Environment",
+      "url" : "http://www.rirp.org"
+    },
+    "-KhT60i17keit51wlJhb" : {
+      "acronym" : "UNHCR",
+      "type" : "Environment",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhT60i17keit51wlJhc" : {
+      "acronym" : "UNICEF",
+      "type" : "Environment",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhT60i17keit51wlJhd" : {
+      "acronym" : "Barzani Foundation",
+      "type" : "Food Security",
+      "url" : ""
+    },
+    "-KhT60i2MknOffepvHXI" : {
+      "acronym" : "Harikar",
+      "type" : "Food Security",
+      "url" : "http://www.harikar.org"
+    },
+    "-KhT60i2MknOffepvHXJ" : {
+      "acronym" : "IRW",
+      "type" : "Food Security",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhT60i2MknOffepvHXK" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Food Security",
+      "url" : ""
+    },
+    "-KhT60i2MknOffepvHXL" : {
+      "acronym" : "MODM",
+      "type" : "Food Security",
+      "url" : "http://momd.gov.iq"
+    },
+    "-KhT60i3RLNQXxepVoLq" : {
+      "acronym" : "PWJ",
+      "type" : "Food Security",
+      "url" : ""
+    },
+    "-KhT60i3RLNQXxepVoLr" : {
+      "acronym" : "QRCS",
+      "type" : "Food Security",
+      "url" : "http://www.qrcs.org.qa/Arabic/Welcome/Pages/default.aspx"
+    },
+    "-KhT60i3RLNQXxepVoLs" : {
+      "acronym" : "UNHCR",
+      "type" : "Food Security",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhT60i3RLNQXxepVoLt" : {
+      "acronym" : "WFP",
+      "type" : "Food Security",
+      "url" : "http://www.wfp.org"
+    },
+    "-KhT60i3RLNQXxepVoLu" : {
+      "acronym" : "DVAW",
+      "type" : "Gender-Based Violence",
+      "url" : ""
+    },
+    "-KhT60i3RLNQXxepVoLv" : {
+      "acronym" : "Harikar",
+      "type" : "Gender-Based Violence",
+      "url" : "http://www.harikar.org"
+    },
+    "-KhT60i4ih0OkyslROJ-" : {
+      "acronym" : "IMC",
+      "type" : "Gender-Based Violence",
+      "url" : ""
+    },
+    "-KhT60i4ih0OkyslROJ0" : {
+      "acronym" : "IRC",
+      "type" : "Gender-Based Violence",
+      "url" : "http://www.rescue.org"
+    },
+    "-KhT60i4ih0OkyslROJ1" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Gender-Based Violence",
+      "url" : ""
+    },
+    "-KhT60i4ih0OkyslROJ2" : {
+      "acronym" : "MSF",
+      "type" : "Gender-Based Violence",
+      "url" : "http://www.msf.org"
+    },
+    "-KhT60i4ih0OkyslROJ3" : {
+      "acronym" : "NRC",
+      "type" : "Gender-Based Violence",
+      "url" : "http://www.nrc.no"
+    },
+    "-KhT60i4ih0OkyslROJ4" : {
+      "acronym" : "Qandil",
+      "type" : "Gender-Based Violence",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhT60i4ih0OkyslROJ5" : {
+      "acronym" : "SC",
+      "type" : "Gender-Based Violence",
+      "url" : "http://www.savethechildren.org"
+    },
+    "-KhT60i4ih0OkyslROJ6" : {
+      "acronym" : "UNDP",
+      "type" : "Gender-Based Violence",
+      "url" : ""
+    },
+    "-KhT60i4ih0OkyslROJ7" : {
+      "acronym" : "UNFPA",
+      "type" : "Gender-Based Violence",
+      "url" : "http://www.unfpa.org"
+    },
+    "-KhT60i5U3L3Uh0WKkWz" : {
+      "acronym" : "UNHCR",
+      "type" : "Gender-Based Violence",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhT60i5U3L3Uh0WKkX-" : {
+      "acronym" : "UNICEF",
+      "type" : "Gender-Based Violence",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhT60i5U3L3Uh0WKkX0" : {
+      "acronym" : "UPP",
+      "type" : "Gender-Based Violence",
+      "url" : "http://www.unponteper.it"
+    },
+    "-KhT60i6djMIJeacllFx" : {
+      "acronym" : "Harikar",
+      "type" : "Health",
+      "url" : "http://www.harikar.org"
+    },
+    "-KhT60i6djMIJeacllFy" : {
+      "acronym" : "ICRC",
+      "type" : "Health",
+      "url" : "http://www.icrc.org"
+    },
+    "-KhT60i6djMIJeacllFz" : {
+      "acronym" : "IMC",
+      "type" : "Health",
+      "url" : "http://internationalmedicalcorps.org"
+    },
+    "-KhT60i6djMIJeacllG-" : {
+      "acronym" : "IRW",
+      "type" : "Health",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhT60i6djMIJeacllG0" : {
+      "acronym" : "KRG- DMC/ DoH",
+      "type" : "Health",
+      "url" : ""
+    },
+    "-KhT60i6djMIJeacllG1" : {
+      "acronym" : "MODM",
+      "type" : "Health",
+      "url" : "http://momd.gov.iq"
+    },
+    "-KhT60i6djMIJeacllG2" : {
+      "acronym" : "MSF",
+      "type" : "Health",
+      "url" : "http://www.msf.org"
+    },
+    "-KhT60i7rrJNpzYh3dov" : {
+      "acronym" : "NRC",
+      "type" : "Health",
+      "url" : "http://www.nrc.no"
+    },
+    "-KhT60i7rrJNpzYh3dow" : {
+      "acronym" : "PU- AMI",
+      "type" : "Health",
+      "url" : ""
+    },
+    "-KhT60i7rrJNpzYh3dox" : {
+      "acronym" : "PWJ",
+      "type" : "Health",
+      "url" : ""
+    },
+    "-KhT60i7rrJNpzYh3doy" : {
+      "acronym" : "Qandil",
+      "type" : "Health",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhT60i7rrJNpzYh3doz" : {
+      "acronym" : "SC",
+      "type" : "Health",
+      "url" : "http://www.savethechildren.org"
+    },
+    "-KhT60i8FKvd_jCWC-M8" : {
+      "acronym" : "UIMS",
+      "type" : "Health",
+      "url" : "http://www.uimsiraq.org/"
+    },
+    "-KhT60i8FKvd_jCWC-M9" : {
+      "acronym" : "UNFPA",
+      "type" : "Health",
+      "url" : "http://www.unfpa.org"
+    },
+    "-KhT60i91Sd5TaftgqJl" : {
+      "acronym" : "UNHCR",
+      "type" : "Health",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhT60i91Sd5TaftgqJm" : {
+      "acronym" : "UNICEF",
+      "type" : "Health",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhT60i91Sd5TaftgqJn" : {
+      "acronym" : "UPP",
+      "type" : "Health",
+      "url" : "http://www.unponteper.it"
+    },
+    "-KhT60i91Sd5TaftgqJo" : {
+      "acronym" : "WHO",
+      "type" : "Health",
+      "url" : "http://www.who.org"
+    },
+    "-KhT60iAKaE68Rdja_jw" : {
+      "acronym" : "UNHCR",
+      "type" : "HIV/AIDS",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhT60iB5Y1XKSRYGuzI" : {
+      "acronym" : "DRC Iraq",
+      "type" : "Information Management",
+      "url" : "http://drc.dk/relief-work/where-we-work/middle-east/iraq/"
+    },
+    "-KhT60iCpPgHM8wr8mjC" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Information Management",
+      "url" : ""
+    },
+    "-KhT60iCpPgHM8wr8mjD" : {
+      "acronym" : "Qandil",
+      "type" : "Information Management",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhT60iCpPgHM8wr8mjE" : {
+      "acronym" : "REACH-Initiative",
+      "type" : "Information Management",
+      "url" : "http://resource.reach-initiative.org"
+    },
+    "-KhT60iDbHkMDPuXnC2P" : {
+      "acronym" : "SC",
+      "type" : "Information Management",
+      "url" : "http://www.savethechildren.org"
+    },
+    "-KhT60iEuKvaHGPsmrdO" : {
+      "acronym" : "UNHCR",
+      "type" : "Information Management",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhT60iEuKvaHGPsmrdP" : {
+      "acronym" : "UNICEF",
+      "type" : "Information Management",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhT60iGdQsE-03-kGvn" : {
+      "acronym" : "UPP",
+      "type" : "Information Management",
+      "url" : "http://www.unponteper.it"
+    },
+    "-KhT60iH3UHuIGoBENVD" : {
+      "acronym" : "WFP",
+      "type" : "Information Management",
+      "url" : "http://www.wfp.org"
+    },
+    "-KhT60iLy3LgG_12Lk5d" : {
+      "acronym" : "DRC",
+      "type" : "Livelihood",
+      "url" : ""
+    },
+    "-KhT60iMxLGOmm3Wxnaz" : {
+      "acronym" : "DRC Iraq",
+      "type" : "Livelihood",
+      "url" : "http://drc.dk/relief-work/where-we-work/middle-east/iraq/"
+    },
+    "-KhT60iO-vaOIIZU-Rwq" : {
+      "acronym" : "Harikar",
+      "type" : "Livelihood",
+      "url" : "http://www.harikar.org"
+    },
+    "-KhT60iPtKFxuZLk7J_o" : {
+      "acronym" : "IOM",
+      "type" : "Livelihood",
+      "url" : "http://www.iomiraq.net/"
+    },
+    "-KhT60iTdqVJvEH2P20P" : {
+      "acronym" : "IRC",
+      "type" : "Livelihood",
+      "url" : "http://www.rescue.org"
+    },
+    "-KhT60iTdqVJvEH2P20Q" : {
+      "acronym" : "IRW",
+      "type" : "Livelihood",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhT60iUt6OaMytPNC_P" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Livelihood",
+      "url" : ""
+    },
+    "-KhT60iUt6OaMytPNC_Q" : {
+      "acronym" : "PWJ",
+      "type" : "Livelihood",
+      "url" : ""
+    },
+    "-KhT60iUt6OaMytPNC_R" : {
+      "acronym" : "Qandil",
+      "type" : "Livelihood",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhT60iUt6OaMytPNC_S" : {
+      "acronym" : "REACH",
+      "type" : "Livelihood",
+      "url" : "http://www.reach-iraq.org"
+    },
+    "-KhT60iUt6OaMytPNC_T" : {
+      "acronym" : "UNDP",
+      "type" : "Livelihood",
+      "url" : ""
+    },
+    "-KhT60iUt6OaMytPNC_U" : {
+      "acronym" : "UNESCO",
+      "type" : "Livelihood",
+      "url" : "http://www.unesco.org/iraq-office"
+    },
+    "-KhT60iUt6OaMytPNC_V" : {
+      "acronym" : "UNHCR",
+      "type" : "Livelihood",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhT60iUt6OaMytPNC_W" : {
+      "acronym" : "IRW",
+      "type" : "Logistics",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhT60iVx0lxhufqJptl" : {
+      "acronym" : "Qandil",
+      "type" : "Logistics",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhT60iVx0lxhufqJptm" : {
+      "acronym" : "UNHCR",
+      "type" : "Logistics",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhT60iVx0lxhufqJptn" : {
+      "acronym" : "UPP",
+      "type" : "Logistics",
+      "url" : "http://www.unponteper.it"
+    },
+    "-KhT60iVx0lxhufqJpto" : {
+      "acronym" : "WFP",
+      "type" : "Logistics",
+      "url" : "http://www.wfp.org"
+    },
+    "-KhT60iVx0lxhufqJptp" : {
+      "acronym" : "ACF",
+      "type" : "Nutrition",
+      "url" : ""
+    },
+    "-KhT60iVx0lxhufqJptq" : {
+      "acronym" : "Barzani Foundation",
+      "type" : "Nutrition",
+      "url" : ""
+    },
+    "-KhT60iVx0lxhufqJptr" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Nutrition",
+      "url" : ""
+    },
+    "-KhT60iVx0lxhufqJpts" : {
+      "acronym" : "KRG- DMC/ DoH",
+      "type" : "Nutrition",
+      "url" : ""
+    },
+    "-KhT60iVx0lxhufqJptt" : {
+      "acronym" : "MSF",
+      "type" : "Nutrition",
+      "url" : "http://www.msf.org"
+    },
+    "-KhT60iWQLJFqanEOTC_" : {
+      "acronym" : "UNDP",
+      "type" : "Nutrition",
+      "url" : ""
+    },
+    "-KhT60iWQLJFqanEOTCa" : {
+      "acronym" : "UNICEF",
+      "type" : "Nutrition",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhT60iWQLJFqanEOTCb" : {
+      "acronym" : "WFP",
+      "type" : "Nutrition",
+      "url" : "http://www.wfp.org"
+    },
+    "-KhT60iWQLJFqanEOTCc" : {
+      "acronym" : "DRC",
+      "type" : "Protection",
+      "url" : ""
+    },
+    "-KhT60iWQLJFqanEOTCd" : {
+      "acronym" : "DRC Iraq",
+      "type" : "Protection",
+      "url" : "http://drc.dk/relief-work/where-we-work/middle-east/iraq/"
+    },
+    "-KhT60iWQLJFqanEOTCe" : {
+      "acronym" : "DVAW",
+      "type" : "Protection",
+      "url" : ""
+    },
+    "-KhT60iXNBZKFak1JX5a" : {
+      "acronym" : "Harikar",
+      "type" : "Protection",
+      "url" : "http://www.harikar.org"
+    },
+    "-KhT60iXNBZKFak1JX5b" : {
+      "acronym" : "ICRC",
+      "type" : "Protection",
+      "url" : "http://www.icrc.org"
+    },
+    "-KhT60iXNBZKFak1JX5c" : {
+      "acronym" : "INTERSOS Iraq",
+      "type" : "Protection",
+      "url" : "http://intersos.org/en/countries/asia-and-middle-east/iraq/iraq"
+    },
+    "-KhT60iXNBZKFak1JX5d" : {
+      "acronym" : "IRC",
+      "type" : "Protection",
+      "url" : "http://www.rescue.org"
+    },
+    "-KhT60iXNBZKFak1JX5e" : {
+      "acronym" : "IRD",
+      "type" : "Protection",
+      "url" : ""
+    },
+    "-KhT60iXNBZKFak1JX5f" : {
+      "acronym" : "IRW",
+      "type" : "Protection",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhT60iXNBZKFak1JX5g" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Protection",
+      "url" : ""
+    },
+    "-KhT60iXNBZKFak1JX5h" : {
+      "acronym" : "MAG",
+      "type" : "Protection",
+      "url" : ""
+    },
+    "-KhT60iYe91uWBO_pQjc" : {
+      "acronym" : "NRC",
+      "type" : "Protection",
+      "url" : "http://www.nrc.no"
+    },
+    "-KhT60iYe91uWBO_pQjd" : {
+      "acronym" : "Qandil",
+      "type" : "Protection",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhT60iYe91uWBO_pQje" : {
+      "acronym" : "REACH-Initiative",
+      "type" : "Protection",
+      "url" : "http://resource.reach-initiative.org"
+    },
+    "-KhT60iZknrKsT2gRX7-" : {
+      "acronym" : "SAVE International",
+      "type" : "Protection",
+      "url" : "http://www.savethechildren.net/"
+    },
+    "-KhT60iZknrKsT2gRX70" : {
+      "acronym" : "SC",
+      "type" : "Protection",
+      "url" : "http://www.savethechildren.org"
+    },
+    "-KhT60iZknrKsT2gRX71" : {
+      "acronym" : "UNFPA",
+      "type" : "Protection",
+      "url" : "http://www.unfpa.org"
+    },
+    "-KhT60iZknrKsT2gRX72" : {
+      "acronym" : "UNHCR",
+      "type" : "Protection",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhT60iZknrKsT2gRX73" : {
+      "acronym" : "UNICEF",
+      "type" : "Protection",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhT60ic4QD1qF4p1el7" : {
+      "acronym" : "UPP",
+      "type" : "Protection",
+      "url" : "http://www.unponteper.it"
+    },
+    "-KhT60ic4QD1qF4p1el8" : {
+      "acronym" : "Harikar",
+      "type" : "Registration",
+      "url" : "http://www.harikar.org"
+    },
+    "-KhT60ic4QD1qF4p1el9" : {
+      "acronym" : "IRW",
+      "type" : "Registration",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhT60ic4QD1qF4p1elA" : {
+      "acronym" : "Qandil",
+      "type" : "Registration",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhT60ic4QD1qF4p1elB" : {
+      "acronym" : "UNHCR",
+      "type" : "Registration",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhT60ic4QD1qF4p1elC" : {
+      "acronym" : "UNFPA",
+      "type" : "Reproductive Health",
+      "url" : "http://www.unfpa.org"
+    },
+    "-KhT60ic4QD1qF4p1elD" : {
+      "acronym" : "UNHCR",
+      "type" : "Reproductive Health",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhT60ic4QD1qF4p1elE" : {
+      "acronym" : "UNICEF",
+      "type" : "Reproductive Health",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhT60id7TH0gnKjqCYL" : {
+      "acronym" : "WHO",
+      "type" : "Reproductive Health",
+      "url" : "http://www.who.org"
+    },
+    "-KhT60id7TH0gnKjqCYM" : {
+      "acronym" : "DRC Iraq",
+      "type" : "Shelter",
+      "url" : "http://drc.dk/relief-work/where-we-work/middle-east/iraq/"
+    },
+    "-KhT60id7TH0gnKjqCYN" : {
+      "acronym" : "IOM",
+      "type" : "Shelter",
+      "url" : "http://www.iomiraq.net/"
+    },
+    "-KhT60id7TH0gnKjqCYO" : {
+      "acronym" : "IRW",
+      "type" : "Shelter",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhT60id7TH0gnKjqCYP" : {
+      "acronym" : "ISHO",
+      "type" : "Shelter",
+      "url" : ""
+    },
+    "-KhT60id7TH0gnKjqCYQ" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Shelter",
+      "url" : ""
+    },
+    "-KhT60id7TH0gnKjqCYR" : {
+      "acronym" : "KURDS",
+      "type" : "Shelter",
+      "url" : ""
+    },
+    "-KhT60ieb-l3ENDcnazX" : {
+      "acronym" : "MODM",
+      "type" : "Shelter",
+      "url" : "http://momd.gov.iq"
+    },
+    "-KhT60ieb-l3ENDcnazY" : {
+      "acronym" : "NRC",
+      "type" : "Shelter",
+      "url" : "http://www.nrc.no"
+    },
+    "-KhT60ieb-l3ENDcnazZ" : {
+      "acronym" : "PWJ",
+      "type" : "Shelter",
+      "url" : ""
+    },
+    "-KhT60ieb-l3ENDcnaz_" : {
+      "acronym" : "Qandil",
+      "type" : "Shelter",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhT60ieb-l3ENDcnaza" : {
+      "acronym" : "QRCS",
+      "type" : "Shelter",
+      "url" : "http://www.qrcs.org.qa/Arabic/Welcome/Pages/default.aspx"
+    },
+    "-KhT60ieb-l3ENDcnazb" : {
+      "acronym" : "RIRP",
+      "type" : "Shelter",
+      "url" : "http://www.rirp.org"
+    },
+    "-KhT60ieb-l3ENDcnazc" : {
+      "acronym" : "UNHCR",
+      "type" : "Shelter",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhT60ieb-l3ENDcnazd" : {
+      "acronym" : "UNHCR",
+      "type" : "Telecom",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhT60ifkao6y3j5d6kE" : {
+      "acronym" : "IRW",
+      "type" : "Transportation",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhT60ifkao6y3j5d6kF" : {
+      "acronym" : "ISHO",
+      "type" : "Transportation",
+      "url" : ""
+    },
+    "-KhT60ifkao6y3j5d6kG" : {
+      "acronym" : "MODM",
+      "type" : "Transportation",
+      "url" : "http://momd.gov.iq"
+    },
+    "-KhT60ifkao6y3j5d6kH" : {
+      "acronym" : "UNHCR",
+      "type" : "Transportation",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhT60ifkao6y3j5d6kI" : {
+      "acronym" : "ACF",
+      "type" : "Water & Sanitation",
+      "url" : ""
+    },
+    "-KhT60ifkao6y3j5d6kJ" : {
+      "acronym" : "Barzani Foundation",
+      "type" : "Water & Sanitation",
+      "url" : ""
+    },
+    "-KhT60ifkao6y3j5d6kK" : {
+      "acronym" : "DRC Iraq",
+      "type" : "Water & Sanitation",
+      "url" : "http://drc.dk/relief-work/where-we-work/middle-east/iraq/"
+    },
+    "-KhT60ifkao6y3j5d6kL" : {
+      "acronym" : "FRC",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.croix-rouge.fr/"
+    },
+    "-KhT60ifkao6y3j5d6kM" : {
+      "acronym" : "Harikar",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.harikar.org"
+    },
+    "-KhT60ifkao6y3j5d6kN" : {
+      "acronym" : "IRW",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhT60ig82H7nrJlbLMu" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Water & Sanitation",
+      "url" : ""
+    },
+    "-KhT60ig82H7nrJlbLMv" : {
+      "acronym" : "KURDS",
+      "type" : "Water & Sanitation",
+      "url" : ""
+    },
+    "-KhT60ig82H7nrJlbLMw" : {
+      "acronym" : "MODM",
+      "type" : "Water & Sanitation",
+      "url" : "http://momd.gov.iq"
+    },
+    "-KhT60ig82H7nrJlbLMx" : {
+      "acronym" : "MSF",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.msf.org"
+    },
+    "-KhT60ig82H7nrJlbLMy" : {
+      "acronym" : "NRC",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.nrc.no"
+    },
+    "-KhT60ig82H7nrJlbLMz" : {
+      "acronym" : "PU- AMI",
+      "type" : "Water & Sanitation",
+      "url" : ""
+    },
+    "-KhT60ig82H7nrJlbLN-" : {
+      "acronym" : "PWJ",
+      "type" : "Water & Sanitation",
+      "url" : ""
+    },
+    "-KhT60ig82H7nrJlbLN0" : {
+      "acronym" : "Qandil",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhT60ig82H7nrJlbLN1" : {
+      "acronym" : "RI",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.ri.org/index.php"
+    },
+    "-KhT60ig82H7nrJlbLN2" : {
+      "acronym" : "RIRP",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.rirp.org"
+    },
+    "-KhT60ig82H7nrJlbLN3" : {
+      "acronym" : "SAVE International",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.savethechildren.net/"
+    },
+    "-KhT60ih3Tw1qtRaroGJ" : {
+      "acronym" : "UNHCR",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhT60ih3Tw1qtRaroGK" : {
+      "acronym" : "UNICEF",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhT60ih3Tw1qtRaroGL" : {
+      "acronym" : "UPP",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.unponteper.it"
+    },
+    "-KhTB1C7MWqQOPGbvlmo" : {
+      "acronym" : "IRC",
+      "type" : "Camp Management",
+      "url" : "http://www.rescue.org"
+    },
+    "-KhTB1C9bq0bBoSNsx_c" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Camp Management",
+      "url" : ""
+    },
+    "-KhTB1CAvsx_qh52Salo" : {
+      "acronym" : "MODM",
+      "type" : "Camp Management",
+      "url" : "http://momd.gov.iq"
+    },
+    "-KhTB1CAvsx_qh52Salp" : {
+      "acronym" : "UNHCR",
+      "type" : "Camp Management",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTB1CB97V4YE2fcHCu" : {
+      "acronym" : "Friends of Waldorf Education",
+      "type" : "Child Protection",
+      "url" : "http://www.freunde-waldorf.de/en/"
+    },
+    "-KhTB1CDbzwIY-oXu0wS" : {
+      "acronym" : "ACF",
+      "type" : "Child Protection",
+      "url" : "http://www.actioncontrelafaim.org/en/"
+    },
+    "-KhTB1CDbzwIY-oXu0wT" : {
+      "acronym" : "DOLSA",
+      "type" : "Child Protection",
+      "url" : ""
+    },
+    "-KhTB1CFe72dpqJx1SCC" : {
+      "acronym" : "Harikar",
+      "type" : "Child Protection",
+      "url" : "http://www.harikar.org"
+    },
+    "-KhTB1CG9ZhUN7vbog36" : {
+      "acronym" : "IRC",
+      "type" : "Child Protection",
+      "url" : "http://www.rescue.org"
+    },
+    "-KhTB1CHpYR_hUXh8mVD" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Child Protection",
+      "url" : ""
+    },
+    "-KhTB1CI5-Jeb6srukc3" : {
+      "acronym" : "MSF",
+      "type" : "Child Protection",
+      "url" : "http://www.msf.org"
+    },
+    "-KhTB1CJxsgroRnZA6PE" : {
+      "acronym" : "SAVE International",
+      "type" : "Child Protection",
+      "url" : "http://www.savethechildren.net/"
+    },
+    "-KhTB1CJxsgroRnZA6PF" : {
+      "acronym" : "SC",
+      "type" : "Child Protection",
+      "url" : "http://www.savethechildren.org"
+    },
+    "-KhTB1CKew_R56gMyHNA" : {
+      "acronym" : "UNHCR",
+      "type" : "Child Protection",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTB1CKew_R56gMyHNB" : {
+      "acronym" : "UNICEF",
+      "type" : "Child Protection",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhTB1CLRjVsuap1vPCi" : {
+      "acronym" : "UPP",
+      "type" : "Child Protection",
+      "url" : "http://www.unponteper.it"
+    },
+    "-KhTB1CMFJQkUvfvhNBM" : {
+      "acronym" : "ACF",
+      "type" : "Community Services",
+      "url" : "http://www.actioncontrelafaim.org/en/"
+    },
+    "-KhTB1CND4FlSO7UiE_1" : {
+      "acronym" : "DRC",
+      "type" : "Community Services",
+      "url" : ""
+    },
+    "-KhTB1CO3ZO_N1JEXir-" : {
+      "acronym" : "DRC Iraq",
+      "type" : "Community Services",
+      "url" : "http://drc.dk/relief-work/where-we-work/middle-east/iraq/"
+    },
+    "-KhTB1CPzbui13BqKz7K" : {
+      "acronym" : "DVAW",
+      "type" : "Community Services",
+      "url" : ""
+    },
+    "-KhTB1CQaxd_UDMhhVon" : {
+      "acronym" : "Harikar",
+      "type" : "Community Services",
+      "url" : "http://www.harikar.org"
+    },
+    "-KhTB1CSqUxd3KW3togU" : {
+      "acronym" : "INTERSOS Iraq",
+      "type" : "Community Services",
+      "url" : "http://intersos.org/en/countries/asia-and-middle-east/iraq/iraq"
+    },
+    "-KhTB1CTE8kEteI92SPT" : {
+      "acronym" : "IRC",
+      "type" : "Community Services",
+      "url" : "http://www.rescue.org"
+    },
+    "-KhTB1CU666QoSKdjTi0" : {
+      "acronym" : "IRW",
+      "type" : "Community Services",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhTB1CVSGIFfCkqGqOs" : {
+      "acronym" : "ISHO",
+      "type" : "Community Services",
+      "url" : ""
+    },
+    "-KhTB1CWMW9S5E62XX4A" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Community Services",
+      "url" : ""
+    },
+    "-KhTB1CWMW9S5E62XX4B" : {
+      "acronym" : "NRC",
+      "type" : "Community Services",
+      "url" : "http://www.nrc.no"
+    },
+    "-KhTB1CXX0bU8GTGAcT4" : {
+      "acronym" : "Qandil",
+      "type" : "Community Services",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhTB1CY9xuP28y2aWHQ" : {
+      "acronym" : "REACH",
+      "type" : "Community Services",
+      "url" : "http://www.reach-iraq.org"
+    },
+    "-KhTB1CY9xuP28y2aWHR" : {
+      "acronym" : "RIRP",
+      "type" : "Community Services",
+      "url" : "http://www.rirp.org"
+    },
+    "-KhTB1CZRdbuDMjfHHR8" : {
+      "acronym" : "SAVE International",
+      "type" : "Community Services",
+      "url" : "http://www.savethechildren.net/"
+    },
+    "-KhTB1C_XuDs4L3jLyqz" : {
+      "acronym" : "SC",
+      "type" : "Community Services",
+      "url" : "http://www.savethechildren.org"
+    },
+    "-KhTB1C_XuDs4L3jLyr-" : {
+      "acronym" : "UNFPA",
+      "type" : "Community Services",
+      "url" : "http://www.unfpa.org"
+    },
+    "-KhTB1Ca5EMWPNi1AzMI" : {
+      "acronym" : "UNHCR",
+      "type" : "Community Services",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTB1Ca5EMWPNi1AzMJ" : {
+      "acronym" : "UNICEF",
+      "type" : "Community Services",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhTB1Ca5EMWPNi1AzMK" : {
+      "acronym" : "UPP",
+      "type" : "Community Services",
+      "url" : "http://www.unponteper.it"
+    },
+    "-KhTB1CbZuvB1c9WoRca" : {
+      "acronym" : "IRC",
+      "type" : "Coordination",
+      "url" : "http://www.rescue.org"
+    },
+    "-KhTB1CbZuvB1c9WoRcb" : {
+      "acronym" : "IRW",
+      "type" : "Coordination",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhTB1CbZuvB1c9WoRcc" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Coordination",
+      "url" : ""
+    },
+    "-KhTB1Ccef7DLxL6xLD4" : {
+      "acronym" : "MODM",
+      "type" : "Coordination",
+      "url" : "http://momd.gov.iq"
+    },
+    "-KhTB1Ced6S0JKHCpHJI" : {
+      "acronym" : "Qandil",
+      "type" : "Coordination",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhTB1Ced6S0JKHCpHJJ" : {
+      "acronym" : "UNFPA",
+      "type" : "Coordination",
+      "url" : "http://www.unfpa.org"
+    },
+    "-KhTB1CfaT4oc6PYSL_x" : {
+      "acronym" : "UNHCR",
+      "type" : "Coordination",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTB1CfaT4oc6PYSL_y" : {
+      "acronym" : "UNICEF",
+      "type" : "Coordination",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhTB1Ch-Cmgnhyqf5me" : {
+      "acronym" : "UPP",
+      "type" : "Coordination",
+      "url" : "http://www.unponteper.it"
+    },
+    "-KhTB1Ch-Cmgnhyqf5mf" : {
+      "acronym" : "WFP",
+      "type" : "Coordination",
+      "url" : "http://www.wfp.org"
+    },
+    "-KhTB1Ch-Cmgnhyqf5mg" : {
+      "acronym" : "WHO",
+      "type" : "Coordination",
+      "url" : "http://www.who.org"
+    },
+    "-KhTB1Ci7JwAL-9dkIEX" : {
+      "acronym" : "ACF",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : ""
+    },
+    "-KhTB1Ci7JwAL-9dkIEY" : {
+      "acronym" : "Barzani Foundation",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : ""
+    },
+    "-KhTB1Ci7JwAL-9dkIEZ" : {
+      "acronym" : "IOM",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : "http://www.iomiraq.net/"
+    },
+    "-KhTB1Ci7JwAL-9dkIE_" : {
+      "acronym" : "IRC",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : "http://www.rescue.org"
+    },
+    "-KhTB1CjBkjnozKnnE5n" : {
+      "acronym" : "IRW",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhTB1CjBkjnozKnnE5o" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : ""
+    },
+    "-KhTB1CjBkjnozKnnE5p" : {
+      "acronym" : "MODM",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : "http://momd.gov.iq"
+    },
+    "-KhTB1Ck3JEgjNAyBMlo" : {
+      "acronym" : "PWJ",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : ""
+    },
+    "-KhTB1Ck3JEgjNAyBMlp" : {
+      "acronym" : "Qandil",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhTB1Ck3JEgjNAyBMlq" : {
+      "acronym" : "SAVE International",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : "http://www.savethechildren.net/"
+    },
+    "-KhTB1Ck3JEgjNAyBMlr" : {
+      "acronym" : "SC",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : "http://www.savethechildren.org"
+    },
+    "-KhTB1Clvt4Xt5oJGF8b" : {
+      "acronym" : "UNHCR",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTB1Clvt4Xt5oJGF8c" : {
+      "acronym" : "UNICEF",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhTB1CmqfRhQV05WoUg" : {
+      "acronym" : "UPP",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : "http://www.unponteper.it"
+    },
+    "-KhTB1CmqfRhQV05WoUh" : {
+      "acronym" : "Dar Beru",
+      "type" : "Education",
+      "url" : ""
+    },
+    "-KhTB1CmqfRhQV05WoUi" : {
+      "acronym" : "Harikar",
+      "type" : "Education",
+      "url" : "http://www.harikar.org"
+    },
+    "-KhTB1CnzjTX4FtgvWTG" : {
+      "acronym" : "IOM",
+      "type" : "Education",
+      "url" : "http://www.iomiraq.net/"
+    },
+    "-KhTB1CnzjTX4FtgvWTH" : {
+      "acronym" : "IRC",
+      "type" : "Education",
+      "url" : "http://www.rescue.org"
+    },
+    "-KhTB1CoCg_Smb8N1cLT" : {
+      "acronym" : "KRG- DMC/ DoE",
+      "type" : "Education",
+      "url" : ""
+    },
+    "-KhTB1Cqg1etA7SC6m_t" : {
+      "acronym" : "PWJ",
+      "type" : "Education",
+      "url" : ""
+    },
+    "-KhTB1Crf53rqEDxIs_6" : {
+      "acronym" : "Qandil",
+      "type" : "Education",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhTB1Crf53rqEDxIs_7" : {
+      "acronym" : "REACH",
+      "type" : "Education",
+      "url" : "http://www.reach-iraq.org"
+    },
+    "-KhTB1Crf53rqEDxIs_8" : {
+      "acronym" : "UNESCO",
+      "type" : "Education",
+      "url" : "http://www.unesco.org/iraq-office"
+    },
+    "-KhTB1Crf53rqEDxIs_9" : {
+      "acronym" : "UNHCR",
+      "type" : "Education",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTB1Crf53rqEDxIs_A" : {
+      "acronym" : "UNICEF",
+      "type" : "Education",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhTB1Cs-t9ActW4CRpM" : {
+      "acronym" : "WFP",
+      "type" : "Education",
+      "url" : "http://www.wfp.org"
+    },
+    "-KhTB1Cs-t9ActW4CRpN" : {
+      "acronym" : "REACH",
+      "type" : "Environment",
+      "url" : "http://www.reach-iraq.org"
+    },
+    "-KhTB1Cs-t9ActW4CRpO" : {
+      "acronym" : "RIRP",
+      "type" : "Environment",
+      "url" : "http://www.rirp.org"
+    },
+    "-KhTB1Ct_EbTyvtPLtor" : {
+      "acronym" : "UNHCR",
+      "type" : "Environment",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTB1Ct_EbTyvtPLtos" : {
+      "acronym" : "UNICEF",
+      "type" : "Environment",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhTB1Ct_EbTyvtPLtot" : {
+      "acronym" : "Barzani Foundation",
+      "type" : "Food Security",
+      "url" : ""
+    },
+    "-KhTB1Ct_EbTyvtPLtou" : {
+      "acronym" : "Harikar",
+      "type" : "Food Security",
+      "url" : "http://www.harikar.org"
+    },
+    "-KhTB1Ct_EbTyvtPLtov" : {
+      "acronym" : "IRW",
+      "type" : "Food Security",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhTB1Ct_EbTyvtPLtow" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Food Security",
+      "url" : ""
+    },
+    "-KhTB1Ct_EbTyvtPLtox" : {
+      "acronym" : "MODM",
+      "type" : "Food Security",
+      "url" : "http://momd.gov.iq"
+    },
+    "-KhTB1Cur4VCmZQaK4MC" : {
+      "acronym" : "PWJ",
+      "type" : "Food Security",
+      "url" : ""
+    },
+    "-KhTB1Cur4VCmZQaK4MD" : {
+      "acronym" : "QRCS",
+      "type" : "Food Security",
+      "url" : "http://www.qrcs.org.qa/Arabic/Welcome/Pages/default.aspx"
+    },
+    "-KhTB1CvayC-nGCbNuOI" : {
+      "acronym" : "UNHCR",
+      "type" : "Food Security",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTB1CvayC-nGCbNuOJ" : {
+      "acronym" : "WFP",
+      "type" : "Food Security",
+      "url" : "http://www.wfp.org"
+    },
+    "-KhTB1CvayC-nGCbNuOK" : {
+      "acronym" : "DVAW",
+      "type" : "Gender-Based Violence",
+      "url" : ""
+    },
+    "-KhTB1CwU6Ma5qgijvXU" : {
+      "acronym" : "Harikar",
+      "type" : "Gender-Based Violence",
+      "url" : "http://www.harikar.org"
+    },
+    "-KhTB1CwU6Ma5qgijvXV" : {
+      "acronym" : "IMC",
+      "type" : "Gender-Based Violence",
+      "url" : ""
+    },
+    "-KhTB1CwU6Ma5qgijvXW" : {
+      "acronym" : "IRC",
+      "type" : "Gender-Based Violence",
+      "url" : "http://www.rescue.org"
+    },
+    "-KhTB1CwU6Ma5qgijvXX" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Gender-Based Violence",
+      "url" : ""
+    },
+    "-KhTB1CxyB5YBIOajE0x" : {
+      "acronym" : "MSF",
+      "type" : "Gender-Based Violence",
+      "url" : "http://www.msf.org"
+    },
+    "-KhTB1CxyB5YBIOajE0y" : {
+      "acronym" : "NRC",
+      "type" : "Gender-Based Violence",
+      "url" : "http://www.nrc.no"
+    },
+    "-KhTB1CxyB5YBIOajE0z" : {
+      "acronym" : "Qandil",
+      "type" : "Gender-Based Violence",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhTB1CxyB5YBIOajE1-" : {
+      "acronym" : "SC",
+      "type" : "Gender-Based Violence",
+      "url" : "http://www.savethechildren.org"
+    },
+    "-KhTB1CxyB5YBIOajE10" : {
+      "acronym" : "UNDP",
+      "type" : "Gender-Based Violence",
+      "url" : ""
+    },
+    "-KhTB1CyPetxj8u4Z3DU" : {
+      "acronym" : "UNFPA",
+      "type" : "Gender-Based Violence",
+      "url" : "http://www.unfpa.org"
+    },
+    "-KhTB1CyPetxj8u4Z3DV" : {
+      "acronym" : "UNHCR",
+      "type" : "Gender-Based Violence",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTB1CyPetxj8u4Z3DW" : {
+      "acronym" : "UNICEF",
+      "type" : "Gender-Based Violence",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhTB1CzgLv8IrCdh99x" : {
+      "acronym" : "UPP",
+      "type" : "Gender-Based Violence",
+      "url" : "http://www.unponteper.it"
+    },
+    "-KhTB1CzgLv8IrCdh99y" : {
+      "acronym" : "Harikar",
+      "type" : "Health",
+      "url" : "http://www.harikar.org"
+    },
+    "-KhTB1CzgLv8IrCdh99z" : {
+      "acronym" : "ICRC",
+      "type" : "Health",
+      "url" : "http://www.icrc.org"
+    },
+    "-KhTB1D-lRimAdO4u1Qb" : {
+      "acronym" : "IMC",
+      "type" : "Health",
+      "url" : "http://internationalmedicalcorps.org"
+    },
+    "-KhTB1D-lRimAdO4u1Qc" : {
+      "acronym" : "IRW",
+      "type" : "Health",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhTB1D-lRimAdO4u1Qd" : {
+      "acronym" : "KRG- DMC/ DoH",
+      "type" : "Health",
+      "url" : ""
+    },
+    "-KhTB1D01WThVT3ujCa7" : {
+      "acronym" : "MODM",
+      "type" : "Health",
+      "url" : "http://momd.gov.iq"
+    },
+    "-KhTB1D01WThVT3ujCa8" : {
+      "acronym" : "MSF",
+      "type" : "Health",
+      "url" : "http://www.msf.org"
+    },
+    "-KhTB1D01WThVT3ujCa9" : {
+      "acronym" : "NRC",
+      "type" : "Health",
+      "url" : "http://www.nrc.no"
+    },
+    "-KhTB1D1ejXp8W0UXjdT" : {
+      "acronym" : "PU- AMI",
+      "type" : "Health",
+      "url" : ""
+    },
+    "-KhTB1D1ejXp8W0UXjdU" : {
+      "acronym" : "PWJ",
+      "type" : "Health",
+      "url" : ""
+    },
+    "-KhTB1D1ejXp8W0UXjdV" : {
+      "acronym" : "Qandil",
+      "type" : "Health",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhTB1D1ejXp8W0UXjdW" : {
+      "acronym" : "SC",
+      "type" : "Health",
+      "url" : "http://www.savethechildren.org"
+    },
+    "-KhTB1D2ms0FtriDOWF7" : {
+      "acronym" : "UIMS",
+      "type" : "Health",
+      "url" : "http://www.uimsiraq.org/"
+    },
+    "-KhTB1D3GWU01C5um_Oc" : {
+      "acronym" : "UNFPA",
+      "type" : "Health",
+      "url" : "http://www.unfpa.org"
+    },
+    "-KhTB1D3GWU01C5um_Od" : {
+      "acronym" : "UNHCR",
+      "type" : "Health",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTB1D3GWU01C5um_Oe" : {
+      "acronym" : "UNICEF",
+      "type" : "Health",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhTB1D4G-bjmq7nEBOS" : {
+      "acronym" : "UPP",
+      "type" : "Health",
+      "url" : "http://www.unponteper.it"
+    },
+    "-KhTB1D4G-bjmq7nEBOT" : {
+      "acronym" : "WHO",
+      "type" : "Health",
+      "url" : "http://www.who.org"
+    },
+    "-KhTB1D4G-bjmq7nEBOU" : {
+      "acronym" : "UNHCR",
+      "type" : "HIV/AIDS",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTB1D54Ub0pIdtp8d-" : {
+      "acronym" : "DRC Iraq",
+      "type" : "Information Management",
+      "url" : "http://drc.dk/relief-work/where-we-work/middle-east/iraq/"
+    },
+    "-KhTB1D54Ub0pIdtp8d0" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Information Management",
+      "url" : ""
+    },
+    "-KhTB1D6_bQC_OsUeUdX" : {
+      "acronym" : "Qandil",
+      "type" : "Information Management",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhTB1D6_bQC_OsUeUdY" : {
+      "acronym" : "REACH-Initiative",
+      "type" : "Information Management",
+      "url" : "http://resource.reach-initiative.org"
+    },
+    "-KhTB1D7BH2gr3fEQe1e" : {
+      "acronym" : "SC",
+      "type" : "Information Management",
+      "url" : "http://www.savethechildren.org"
+    },
+    "-KhTB1D7BH2gr3fEQe1f" : {
+      "acronym" : "UNHCR",
+      "type" : "Information Management",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTB1DAUJRrval74s30" : {
+      "acronym" : "UNICEF",
+      "type" : "Information Management",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhTB1DBX6ASTKxVzwFZ" : {
+      "acronym" : "UPP",
+      "type" : "Information Management",
+      "url" : "http://www.unponteper.it"
+    },
+    "-KhTB1DDraToKx2ycpJd" : {
+      "acronym" : "WFP",
+      "type" : "Information Management",
+      "url" : "http://www.wfp.org"
+    },
+    "-KhTB1DGDkVT9tPKML9I" : {
+      "acronym" : "DRC",
+      "type" : "Livelihood",
+      "url" : ""
+    },
+    "-KhTB1DH_a714HQnU58i" : {
+      "acronym" : "DRC Iraq",
+      "type" : "Livelihood",
+      "url" : "http://drc.dk/relief-work/where-we-work/middle-east/iraq/"
+    },
+    "-KhTB1DH_a714HQnU58j" : {
+      "acronym" : "Harikar",
+      "type" : "Livelihood",
+      "url" : "http://www.harikar.org"
+    },
+    "-KhTB1DIOhgrQuHnpu0_" : {
+      "acronym" : "IOM",
+      "type" : "Livelihood",
+      "url" : "http://www.iomiraq.net/"
+    },
+    "-KhTB1DNPnN8UTMENjlW" : {
+      "acronym" : "IRC",
+      "type" : "Livelihood",
+      "url" : "http://www.rescue.org"
+    },
+    "-KhTB1DNPnN8UTMENjlX" : {
+      "acronym" : "IRW",
+      "type" : "Livelihood",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhTB1DOhDuhI9q6AkrE" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Livelihood",
+      "url" : ""
+    },
+    "-KhTB1DOhDuhI9q6AkrF" : {
+      "acronym" : "PWJ",
+      "type" : "Livelihood",
+      "url" : ""
+    },
+    "-KhTB1DOhDuhI9q6AkrG" : {
+      "acronym" : "Qandil",
+      "type" : "Livelihood",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhTB1DOhDuhI9q6AkrH" : {
+      "acronym" : "REACH",
+      "type" : "Livelihood",
+      "url" : "http://www.reach-iraq.org"
+    },
+    "-KhTB1DOhDuhI9q6AkrI" : {
+      "acronym" : "UNDP",
+      "type" : "Livelihood",
+      "url" : ""
+    },
+    "-KhTB1DP-SzaNnmZgcj-" : {
+      "acronym" : "UNESCO",
+      "type" : "Livelihood",
+      "url" : "http://www.unesco.org/iraq-office"
+    },
+    "-KhTB1DP-SzaNnmZgcj0" : {
+      "acronym" : "UNHCR",
+      "type" : "Livelihood",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTB1DP-SzaNnmZgcj1" : {
+      "acronym" : "IRW",
+      "type" : "Logistics",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhTB1DP-SzaNnmZgcj2" : {
+      "acronym" : "Qandil",
+      "type" : "Logistics",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhTB1DP-SzaNnmZgcj3" : {
+      "acronym" : "UNHCR",
+      "type" : "Logistics",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTB1DQPAWJ4etKlt7i" : {
+      "acronym" : "UPP",
+      "type" : "Logistics",
+      "url" : "http://www.unponteper.it"
+    },
+    "-KhTB1DQPAWJ4etKlt7j" : {
+      "acronym" : "WFP",
+      "type" : "Logistics",
+      "url" : "http://www.wfp.org"
+    },
+    "-KhTB1DQPAWJ4etKlt7k" : {
+      "acronym" : "ACF",
+      "type" : "Nutrition",
+      "url" : ""
+    },
+    "-KhTB1DQPAWJ4etKlt7l" : {
+      "acronym" : "Barzani Foundation",
+      "type" : "Nutrition",
+      "url" : ""
+    },
+    "-KhTB1DRZreA0FLmVfkQ" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Nutrition",
+      "url" : ""
+    },
+    "-KhTB1DRZreA0FLmVfkR" : {
+      "acronym" : "KRG- DMC/ DoH",
+      "type" : "Nutrition",
+      "url" : ""
+    },
+    "-KhTB1DRZreA0FLmVfkS" : {
+      "acronym" : "MSF",
+      "type" : "Nutrition",
+      "url" : "http://www.msf.org"
+    },
+    "-KhTB1DRZreA0FLmVfkT" : {
+      "acronym" : "UNDP",
+      "type" : "Nutrition",
+      "url" : ""
+    },
+    "-KhTB1DRZreA0FLmVfkU" : {
+      "acronym" : "UNICEF",
+      "type" : "Nutrition",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhTB1DRZreA0FLmVfkV" : {
+      "acronym" : "WFP",
+      "type" : "Nutrition",
+      "url" : "http://www.wfp.org"
+    },
+    "-KhTB1DRZreA0FLmVfkW" : {
+      "acronym" : "DRC",
+      "type" : "Protection",
+      "url" : ""
+    },
+    "-KhTB1DS62ESp4Gnorax" : {
+      "acronym" : "DRC Iraq",
+      "type" : "Protection",
+      "url" : "http://drc.dk/relief-work/where-we-work/middle-east/iraq/"
+    },
+    "-KhTB1DS62ESp4Gnoray" : {
+      "acronym" : "DVAW",
+      "type" : "Protection",
+      "url" : ""
+    },
+    "-KhTB1DS62ESp4Gnoraz" : {
+      "acronym" : "Harikar",
+      "type" : "Protection",
+      "url" : "http://www.harikar.org"
+    },
+    "-KhTB1DS62ESp4Gnorb-" : {
+      "acronym" : "ICRC",
+      "type" : "Protection",
+      "url" : "http://www.icrc.org"
+    },
+    "-KhTB1DS62ESp4Gnorb0" : {
+      "acronym" : "INTERSOS Iraq",
+      "type" : "Protection",
+      "url" : "http://intersos.org/en/countries/asia-and-middle-east/iraq/iraq"
+    },
+    "-KhTB1DS62ESp4Gnorb1" : {
+      "acronym" : "IRC",
+      "type" : "Protection",
+      "url" : "http://www.rescue.org"
+    },
+    "-KhTB1DT8Wx0BmXLVROW" : {
+      "acronym" : "IRD",
+      "type" : "Protection",
+      "url" : ""
+    },
+    "-KhTB1DT8Wx0BmXLVROX" : {
+      "acronym" : "IRW",
+      "type" : "Protection",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhTB1DT8Wx0BmXLVROY" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Protection",
+      "url" : ""
+    },
+    "-KhTB1DT8Wx0BmXLVROZ" : {
+      "acronym" : "MAG",
+      "type" : "Protection",
+      "url" : ""
+    },
+    "-KhTB1DT8Wx0BmXLVRO_" : {
+      "acronym" : "NRC",
+      "type" : "Protection",
+      "url" : "http://www.nrc.no"
+    },
+    "-KhTB1DUvYlFaj5NIWG6" : {
+      "acronym" : "Qandil",
+      "type" : "Protection",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhTB1DUvYlFaj5NIWG7" : {
+      "acronym" : "REACH-Initiative",
+      "type" : "Protection",
+      "url" : "http://resource.reach-initiative.org"
+    },
+    "-KhTB1DVoVYW8ajMMGZ-" : {
+      "acronym" : "SAVE International",
+      "type" : "Protection",
+      "url" : "http://www.savethechildren.net/"
+    },
+    "-KhTB1DWKLoCY4Q9WIYb" : {
+      "acronym" : "SC",
+      "type" : "Protection",
+      "url" : "http://www.savethechildren.org"
+    },
+    "-KhTB1DWKLoCY4Q9WIYc" : {
+      "acronym" : "UNFPA",
+      "type" : "Protection",
+      "url" : "http://www.unfpa.org"
+    },
+    "-KhTB1DWKLoCY4Q9WIYd" : {
+      "acronym" : "UNHCR",
+      "type" : "Protection",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTB1DWKLoCY4Q9WIYe" : {
+      "acronym" : "UNICEF",
+      "type" : "Protection",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhTB1DWKLoCY4Q9WIYf" : {
+      "acronym" : "UPP",
+      "type" : "Protection",
+      "url" : "http://www.unponteper.it"
+    },
+    "-KhTB1DXMIqAAmIwGTPT" : {
+      "acronym" : "Harikar",
+      "type" : "Registration",
+      "url" : "http://www.harikar.org"
+    },
+    "-KhTB1DXMIqAAmIwGTPU" : {
+      "acronym" : "IRW",
+      "type" : "Registration",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhTB1DXMIqAAmIwGTPV" : {
+      "acronym" : "Qandil",
+      "type" : "Registration",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhTB1DXMIqAAmIwGTPW" : {
+      "acronym" : "UNHCR",
+      "type" : "Registration",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTB1DXMIqAAmIwGTPX" : {
+      "acronym" : "UNFPA",
+      "type" : "Reproductive Health",
+      "url" : "http://www.unfpa.org"
+    },
+    "-KhTB1DXMIqAAmIwGTPY" : {
+      "acronym" : "UNHCR",
+      "type" : "Reproductive Health",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTB1DYnzV8p2mZzlJp" : {
+      "acronym" : "UNICEF",
+      "type" : "Reproductive Health",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhTB1DYnzV8p2mZzlJq" : {
+      "acronym" : "WHO",
+      "type" : "Reproductive Health",
+      "url" : "http://www.who.org"
+    },
+    "-KhTB1DYnzV8p2mZzlJr" : {
+      "acronym" : "DRC Iraq",
+      "type" : "Shelter",
+      "url" : "http://drc.dk/relief-work/where-we-work/middle-east/iraq/"
+    },
+    "-KhTB1DYnzV8p2mZzlJs" : {
+      "acronym" : "IOM",
+      "type" : "Shelter",
+      "url" : "http://www.iomiraq.net/"
+    },
+    "-KhTB1DYnzV8p2mZzlJt" : {
+      "acronym" : "IRW",
+      "type" : "Shelter",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhTB1DZ9-Jogap_WUmQ" : {
+      "acronym" : "ISHO",
+      "type" : "Shelter",
+      "url" : ""
+    },
+    "-KhTB1DZ9-Jogap_WUmR" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Shelter",
+      "url" : ""
+    },
+    "-KhTB1DZ9-Jogap_WUmS" : {
+      "acronym" : "KURDS",
+      "type" : "Shelter",
+      "url" : ""
+    },
+    "-KhTB1DZ9-Jogap_WUmT" : {
+      "acronym" : "MODM",
+      "type" : "Shelter",
+      "url" : "http://momd.gov.iq"
+    },
+    "-KhTB1DZ9-Jogap_WUmU" : {
+      "acronym" : "NRC",
+      "type" : "Shelter",
+      "url" : "http://www.nrc.no"
+    },
+    "-KhTB1D_3_fG0F6Erh0Y" : {
+      "acronym" : "PWJ",
+      "type" : "Shelter",
+      "url" : ""
+    },
+    "-KhTB1D_3_fG0F6Erh0Z" : {
+      "acronym" : "Qandil",
+      "type" : "Shelter",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhTB1D_3_fG0F6Erh0_" : {
+      "acronym" : "QRCS",
+      "type" : "Shelter",
+      "url" : "http://www.qrcs.org.qa/Arabic/Welcome/Pages/default.aspx"
+    },
+    "-KhTB1Da8R4BFX8DjZBS" : {
+      "acronym" : "RIRP",
+      "type" : "Shelter",
+      "url" : "http://www.rirp.org"
+    },
+    "-KhTB1DbhZdc9hOEF_X0" : {
+      "acronym" : "UNHCR",
+      "type" : "Shelter",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTB1DbhZdc9hOEF_X1" : {
+      "acronym" : "UNHCR",
+      "type" : "Telecom",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTB1DbhZdc9hOEF_X2" : {
+      "acronym" : "IRW",
+      "type" : "Transportation",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhTB1DbhZdc9hOEF_X3" : {
+      "acronym" : "ISHO",
+      "type" : "Transportation",
+      "url" : ""
+    },
+    "-KhTB1Dc6F-LUcnLprIh" : {
+      "acronym" : "MODM",
+      "type" : "Transportation",
+      "url" : "http://momd.gov.iq"
+    },
+    "-KhTB1Dc6F-LUcnLprIi" : {
+      "acronym" : "UNHCR",
+      "type" : "Transportation",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTB1Dc6F-LUcnLprIj" : {
+      "acronym" : "ACF",
+      "type" : "Water & Sanitation",
+      "url" : ""
+    },
+    "-KhTB1Dc6F-LUcnLprIk" : {
+      "acronym" : "Barzani Foundation",
+      "type" : "Water & Sanitation",
+      "url" : ""
+    },
+    "-KhTB1Dc6F-LUcnLprIl" : {
+      "acronym" : "DRC Iraq",
+      "type" : "Water & Sanitation",
+      "url" : "http://drc.dk/relief-work/where-we-work/middle-east/iraq/"
+    },
+    "-KhTB1Dc6F-LUcnLprIm" : {
+      "acronym" : "FRC",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.croix-rouge.fr/"
+    },
+    "-KhTB1DdW9HNPh_XayM4" : {
+      "acronym" : "Harikar",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.harikar.org"
+    },
+    "-KhTB1DdW9HNPh_XayM5" : {
+      "acronym" : "IRW",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhTB1DePSUGcbzSRrib" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Water & Sanitation",
+      "url" : ""
+    },
+    "-KhTB1DePSUGcbzSRric" : {
+      "acronym" : "KURDS",
+      "type" : "Water & Sanitation",
+      "url" : ""
+    },
+    "-KhTB1DePSUGcbzSRrid" : {
+      "acronym" : "MODM",
+      "type" : "Water & Sanitation",
+      "url" : "http://momd.gov.iq"
+    },
+    "-KhTB1DePSUGcbzSRrie" : {
+      "acronym" : "MSF",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.msf.org"
+    },
+    "-KhTB1DePSUGcbzSRrif" : {
+      "acronym" : "NRC",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.nrc.no"
+    },
+    "-KhTB1DePSUGcbzSRrig" : {
+      "acronym" : "PU- AMI",
+      "type" : "Water & Sanitation",
+      "url" : ""
+    },
+    "-KhTB1DePSUGcbzSRrih" : {
+      "acronym" : "PWJ",
+      "type" : "Water & Sanitation",
+      "url" : ""
+    },
+    "-KhTB1DePSUGcbzSRrii" : {
+      "acronym" : "Qandil",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhTB1DfYX2fxqy0R-py" : {
+      "acronym" : "RI",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.ri.org/index.php"
+    },
+    "-KhTB1DfYX2fxqy0R-pz" : {
+      "acronym" : "RIRP",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.rirp.org"
+    },
+    "-KhTB1DfYX2fxqy0R-q-" : {
+      "acronym" : "SAVE International",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.savethechildren.net/"
+    },
+    "-KhTB1DfYX2fxqy0R-q0" : {
+      "acronym" : "UNHCR",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTB1DfYX2fxqy0R-q1" : {
+      "acronym" : "UNICEF",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhTB1DfYX2fxqy0R-q2" : {
+      "acronym" : "UPP",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.unponteper.it"
+    },
+    "-KhTC4Paa-aKXtsUo8j-" : {
+      "acronym" : "IRC",
+      "type" : "Camp Management",
+      "url" : "http://www.rescue.org"
+    },
+    "-KhTC4PdbbSZfFMRTfau" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Camp Management",
+      "url" : ""
+    },
+    "-KhTC4Pega3mwE7wjHqi" : {
+      "acronym" : "MODM",
+      "type" : "Camp Management",
+      "url" : "http://momd.gov.iq"
+    },
+    "-KhTC4Pega3mwE7wjHqj" : {
+      "acronym" : "UNHCR",
+      "type" : "Camp Management",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTC4Pf-3ecokkSQ5Sy" : {
+      "acronym" : "Friends of Waldorf Education",
+      "type" : "Child Protection",
+      "url" : "http://www.freunde-waldorf.de/en/"
+    },
+    "-KhTC4Pf-3ecokkSQ5Sz" : {
+      "acronym" : "ACF",
+      "type" : "Child Protection",
+      "url" : "http://www.actioncontrelafaim.org/en/"
+    },
+    "-KhTC4PhPVBBQYxEJuyU" : {
+      "acronym" : "DOLSA",
+      "type" : "Child Protection",
+      "url" : ""
+    },
+    "-KhTC4PiSwU6pujoXWk6" : {
+      "acronym" : "Harikar",
+      "type" : "Child Protection",
+      "url" : "http://www.harikar.org"
+    },
+    "-KhTC4Pjs1cSAiQQBBYt" : {
+      "acronym" : "IRC",
+      "type" : "Child Protection",
+      "url" : "http://www.rescue.org"
+    },
+    "-KhTC4PlSxWkB9udZ6-G" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Child Protection",
+      "url" : ""
+    },
+    "-KhTC4PmJ8ztsoZJM0E7" : {
+      "acronym" : "MSF",
+      "type" : "Child Protection",
+      "url" : "http://www.msf.org"
+    },
+    "-KhTC4PmJ8ztsoZJM0E8" : {
+      "acronym" : "SAVE International",
+      "type" : "Child Protection",
+      "url" : "http://www.savethechildren.net/"
+    },
+    "-KhTC4PnOBPTtbuazVlW" : {
+      "acronym" : "SC",
+      "type" : "Child Protection",
+      "url" : "http://www.savethechildren.org"
+    },
+    "-KhTC4PnOBPTtbuazVlX" : {
+      "acronym" : "UNHCR",
+      "type" : "Child Protection",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTC4Po1sFhSqhccLWN" : {
+      "acronym" : "UNICEF",
+      "type" : "Child Protection",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhTC4Po1sFhSqhccLWO" : {
+      "acronym" : "UPP",
+      "type" : "Child Protection",
+      "url" : "http://www.unponteper.it"
+    },
+    "-KhTC4PpqHWSnuCMPzIh" : {
+      "acronym" : "ACF",
+      "type" : "Community Services",
+      "url" : "http://www.actioncontrelafaim.org/en/"
+    },
+    "-KhTC4PqUAIt0zsoknad" : {
+      "acronym" : "DRC",
+      "type" : "Community Services",
+      "url" : ""
+    },
+    "-KhTC4PqUAIt0zsoknae" : {
+      "acronym" : "DRC Iraq",
+      "type" : "Community Services",
+      "url" : "http://drc.dk/relief-work/where-we-work/middle-east/iraq/"
+    },
+    "-KhTC4Pr6YSZ8aUbSR0k" : {
+      "acronym" : "DVAW",
+      "type" : "Community Services",
+      "url" : ""
+    },
+    "-KhTC4Pr6YSZ8aUbSR0l" : {
+      "acronym" : "Harikar",
+      "type" : "Community Services",
+      "url" : "http://www.harikar.org"
+    },
+    "-KhTC4PtTVauumqHKXyz" : {
+      "acronym" : "INTERSOS Iraq",
+      "type" : "Community Services",
+      "url" : "http://intersos.org/en/countries/asia-and-middle-east/iraq/iraq"
+    },
+    "-KhTC4PvEGYaL14muYAx" : {
+      "acronym" : "IRC",
+      "type" : "Community Services",
+      "url" : "http://www.rescue.org"
+    },
+    "-KhTC4PxoMd48JmiioH6" : {
+      "acronym" : "IRW",
+      "type" : "Community Services",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhTC4PxoMd48JmiioH7" : {
+      "acronym" : "ISHO",
+      "type" : "Community Services",
+      "url" : ""
+    },
+    "-KhTC4PxoMd48JmiioH8" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Community Services",
+      "url" : ""
+    },
+    "-KhTC4Pyzt6muFbdtIOG" : {
+      "acronym" : "NRC",
+      "type" : "Community Services",
+      "url" : "http://www.nrc.no"
+    },
+    "-KhTC4Pyzt6muFbdtIOH" : {
+      "acronym" : "Qandil",
+      "type" : "Community Services",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhTC4PzCMu0eK0kgm-3" : {
+      "acronym" : "REACH",
+      "type" : "Community Services",
+      "url" : "http://www.reach-iraq.org"
+    },
+    "-KhTC4PzCMu0eK0kgm-4" : {
+      "acronym" : "RIRP",
+      "type" : "Community Services",
+      "url" : "http://www.rirp.org"
+    },
+    "-KhTC4Q-c4zMeMrROtcr" : {
+      "acronym" : "SAVE International",
+      "type" : "Community Services",
+      "url" : "http://www.savethechildren.net/"
+    },
+    "-KhTC4Q-c4zMeMrROtcs" : {
+      "acronym" : "SC",
+      "type" : "Community Services",
+      "url" : "http://www.savethechildren.org"
+    },
+    "-KhTC4Q-c4zMeMrROtct" : {
+      "acronym" : "UNFPA",
+      "type" : "Community Services",
+      "url" : "http://www.unfpa.org"
+    },
+    "-KhTC4Q-c4zMeMrROtcu" : {
+      "acronym" : "UNHCR",
+      "type" : "Community Services",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTC4Q-c4zMeMrROtcv" : {
+      "acronym" : "UNICEF",
+      "type" : "Community Services",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhTC4Q0YOihfc_kRICV" : {
+      "acronym" : "UPP",
+      "type" : "Community Services",
+      "url" : "http://www.unponteper.it"
+    },
+    "-KhTC4Q0YOihfc_kRICW" : {
+      "acronym" : "IRC",
+      "type" : "Coordination",
+      "url" : "http://www.rescue.org"
+    },
+    "-KhTC4Q0YOihfc_kRICX" : {
+      "acronym" : "IRW",
+      "type" : "Coordination",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhTC4Q0YOihfc_kRICY" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Coordination",
+      "url" : ""
+    },
+    "-KhTC4Q0YOihfc_kRICZ" : {
+      "acronym" : "MODM",
+      "type" : "Coordination",
+      "url" : "http://momd.gov.iq"
+    },
+    "-KhTC4Q0YOihfc_kRIC_" : {
+      "acronym" : "Qandil",
+      "type" : "Coordination",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhTC4Q1fQ1xfQQin6Z4" : {
+      "acronym" : "UNFPA",
+      "type" : "Coordination",
+      "url" : "http://www.unfpa.org"
+    },
+    "-KhTC4Q29XB-xGaTgl84" : {
+      "acronym" : "UNHCR",
+      "type" : "Coordination",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTC4Q29XB-xGaTgl85" : {
+      "acronym" : "UNICEF",
+      "type" : "Coordination",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhTC4Q3iHV1EpbCVLvk" : {
+      "acronym" : "UPP",
+      "type" : "Coordination",
+      "url" : "http://www.unponteper.it"
+    },
+    "-KhTC4Q3iHV1EpbCVLvl" : {
+      "acronym" : "WFP",
+      "type" : "Coordination",
+      "url" : "http://www.wfp.org"
+    },
+    "-KhTC4Q3iHV1EpbCVLvm" : {
+      "acronym" : "WHO",
+      "type" : "Coordination",
+      "url" : "http://www.who.org"
+    },
+    "-KhTC4Q4B1iX8wqxjdN5" : {
+      "acronym" : "ACF",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : ""
+    },
+    "-KhTC4Q4B1iX8wqxjdN6" : {
+      "acronym" : "Barzani Foundation",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : ""
+    },
+    "-KhTC4Q4B1iX8wqxjdN7" : {
+      "acronym" : "IOM",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : "http://www.iomiraq.net/"
+    },
+    "-KhTC4Q4B1iX8wqxjdN8" : {
+      "acronym" : "IRC",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : "http://www.rescue.org"
+    },
+    "-KhTC4Q5JebNlcqVh7an" : {
+      "acronym" : "IRW",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhTC4Q5JebNlcqVh7ao" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : ""
+    },
+    "-KhTC4Q6-bkxqR44ISLt" : {
+      "acronym" : "MODM",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : "http://momd.gov.iq"
+    },
+    "-KhTC4Q6-bkxqR44ISLu" : {
+      "acronym" : "PWJ",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : ""
+    },
+    "-KhTC4Q6-bkxqR44ISLv" : {
+      "acronym" : "Qandil",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhTC4Q6-bkxqR44ISLw" : {
+      "acronym" : "SAVE International",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : "http://www.savethechildren.net/"
+    },
+    "-KhTC4Q7ZXmaBN4tNrEY" : {
+      "acronym" : "SC",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : "http://www.savethechildren.org"
+    },
+    "-KhTC4Q7ZXmaBN4tNrEZ" : {
+      "acronym" : "UNHCR",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTC4Q7ZXmaBN4tNrE_" : {
+      "acronym" : "UNICEF",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhTC4Q8JojIe8OvcTT9" : {
+      "acronym" : "UPP",
+      "type" : "Core Relief Items (CRIs)",
+      "url" : "http://www.unponteper.it"
+    },
+    "-KhTC4Q8JojIe8OvcTTA" : {
+      "acronym" : "Dar Beru",
+      "type" : "Education",
+      "url" : ""
+    },
+    "-KhTC4Q907NtDjZEMcWP" : {
+      "acronym" : "Harikar",
+      "type" : "Education",
+      "url" : "http://www.harikar.org"
+    },
+    "-KhTC4Q907NtDjZEMcWQ" : {
+      "acronym" : "IOM",
+      "type" : "Education",
+      "url" : "http://www.iomiraq.net/"
+    },
+    "-KhTC4QAbM87F3HpDD4N" : {
+      "acronym" : "IRC",
+      "type" : "Education",
+      "url" : "http://www.rescue.org"
+    },
+    "-KhTC4QBVIXXQT3mHKie" : {
+      "acronym" : "KRG- DMC/ DoE",
+      "type" : "Education",
+      "url" : ""
+    },
+    "-KhTC4QEFRwkqtRBhuz-" : {
+      "acronym" : "PWJ",
+      "type" : "Education",
+      "url" : ""
+    },
+    "-KhTC4QF2GKE7LD893H7" : {
+      "acronym" : "Qandil",
+      "type" : "Education",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhTC4QF2GKE7LD893H8" : {
+      "acronym" : "REACH",
+      "type" : "Education",
+      "url" : "http://www.reach-iraq.org"
+    },
+    "-KhTC4QF2GKE7LD893H9" : {
+      "acronym" : "UNESCO",
+      "type" : "Education",
+      "url" : "http://www.unesco.org/iraq-office"
+    },
+    "-KhTC4QF2GKE7LD893HA" : {
+      "acronym" : "UNHCR",
+      "type" : "Education",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTC4QF2GKE7LD893HB" : {
+      "acronym" : "UNICEF",
+      "type" : "Education",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhTC4QGTrmTocoaAX_T" : {
+      "acronym" : "WFP",
+      "type" : "Education",
+      "url" : "http://www.wfp.org"
+    },
+    "-KhTC4QGTrmTocoaAX_U" : {
+      "acronym" : "REACH",
+      "type" : "Environment",
+      "url" : "http://www.reach-iraq.org"
+    },
+    "-KhTC4QGTrmTocoaAX_V" : {
+      "acronym" : "RIRP",
+      "type" : "Environment",
+      "url" : "http://www.rirp.org"
+    },
+    "-KhTC4QGTrmTocoaAX_W" : {
+      "acronym" : "UNHCR",
+      "type" : "Environment",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTC4QHg5r1TEEtLeSD" : {
+      "acronym" : "UNICEF",
+      "type" : "Environment",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhTC4QHg5r1TEEtLeSE" : {
+      "acronym" : "Barzani Foundation",
+      "type" : "Food Security",
+      "url" : ""
+    },
+    "-KhTC4QHg5r1TEEtLeSF" : {
+      "acronym" : "Harikar",
+      "type" : "Food Security",
+      "url" : "http://www.harikar.org"
+    },
+    "-KhTC4QHg5r1TEEtLeSG" : {
+      "acronym" : "IRW",
+      "type" : "Food Security",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhTC4QHg5r1TEEtLeSH" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Food Security",
+      "url" : ""
+    },
+    "-KhTC4QIC8Pll2hLG9cK" : {
+      "acronym" : "MODM",
+      "type" : "Food Security",
+      "url" : "http://momd.gov.iq"
+    },
+    "-KhTC4QIC8Pll2hLG9cL" : {
+      "acronym" : "PWJ",
+      "type" : "Food Security",
+      "url" : ""
+    },
+    "-KhTC4QIC8Pll2hLG9cM" : {
+      "acronym" : "QRCS",
+      "type" : "Food Security",
+      "url" : "http://www.qrcs.org.qa/Arabic/Welcome/Pages/default.aspx"
+    },
+    "-KhTC4QJQlJPocHqd8Yx" : {
+      "acronym" : "UNHCR",
+      "type" : "Food Security",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTC4QJQlJPocHqd8Yy" : {
+      "acronym" : "WFP",
+      "type" : "Food Security",
+      "url" : "http://www.wfp.org"
+    },
+    "-KhTC4QJQlJPocHqd8Yz" : {
+      "acronym" : "DVAW",
+      "type" : "Gender-Based Violence",
+      "url" : ""
+    },
+    "-KhTC4QKoYAHc437jeer" : {
+      "acronym" : "Harikar",
+      "type" : "Gender-Based Violence",
+      "url" : "http://www.harikar.org"
+    },
+    "-KhTC4QKoYAHc437jees" : {
+      "acronym" : "IMC",
+      "type" : "Gender-Based Violence",
+      "url" : ""
+    },
+    "-KhTC4QLVHSTgMtTGObX" : {
+      "acronym" : "IRC",
+      "type" : "Gender-Based Violence",
+      "url" : "http://www.rescue.org"
+    },
+    "-KhTC4QLVHSTgMtTGObY" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Gender-Based Violence",
+      "url" : ""
+    },
+    "-KhTC4QLVHSTgMtTGObZ" : {
+      "acronym" : "MSF",
+      "type" : "Gender-Based Violence",
+      "url" : "http://www.msf.org"
+    },
+    "-KhTC4QLVHSTgMtTGOb_" : {
+      "acronym" : "NRC",
+      "type" : "Gender-Based Violence",
+      "url" : "http://www.nrc.no"
+    },
+    "-KhTC4QLVHSTgMtTGOba" : {
+      "acronym" : "Qandil",
+      "type" : "Gender-Based Violence",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhTC4QLVHSTgMtTGObb" : {
+      "acronym" : "SC",
+      "type" : "Gender-Based Violence",
+      "url" : "http://www.savethechildren.org"
+    },
+    "-KhTC4QMVlQc1P0qWKp4" : {
+      "acronym" : "UNDP",
+      "type" : "Gender-Based Violence",
+      "url" : ""
+    },
+    "-KhTC4QMVlQc1P0qWKp5" : {
+      "acronym" : "UNFPA",
+      "type" : "Gender-Based Violence",
+      "url" : "http://www.unfpa.org"
+    },
+    "-KhTC4QMVlQc1P0qWKp6" : {
+      "acronym" : "UNHCR",
+      "type" : "Gender-Based Violence",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTC4QMVlQc1P0qWKp7" : {
+      "acronym" : "UNICEF",
+      "type" : "Gender-Based Violence",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhTC4QNJH5BLWxRp7ZI" : {
+      "acronym" : "UPP",
+      "type" : "Gender-Based Violence",
+      "url" : "http://www.unponteper.it"
+    },
+    "-KhTC4QNJH5BLWxRp7ZJ" : {
+      "acronym" : "Harikar",
+      "type" : "Health",
+      "url" : "http://www.harikar.org"
+    },
+    "-KhTC4QNJH5BLWxRp7ZK" : {
+      "acronym" : "ICRC",
+      "type" : "Health",
+      "url" : "http://www.icrc.org"
+    },
+    "-KhTC4QNJH5BLWxRp7ZL" : {
+      "acronym" : "IMC",
+      "type" : "Health",
+      "url" : "http://internationalmedicalcorps.org"
+    },
+    "-KhTC4QOYOGgkqLM9e2W" : {
+      "acronym" : "IRW",
+      "type" : "Health",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhTC4QOYOGgkqLM9e2X" : {
+      "acronym" : "KRG- DMC/ DoH",
+      "type" : "Health",
+      "url" : ""
+    },
+    "-KhTC4QOYOGgkqLM9e2Y" : {
+      "acronym" : "MODM",
+      "type" : "Health",
+      "url" : "http://momd.gov.iq"
+    },
+    "-KhTC4QOYOGgkqLM9e2Z" : {
+      "acronym" : "MSF",
+      "type" : "Health",
+      "url" : "http://www.msf.org"
+    },
+    "-KhTC4QPTjlFqQsS-YXj" : {
+      "acronym" : "NRC",
+      "type" : "Health",
+      "url" : "http://www.nrc.no"
+    },
+    "-KhTC4QPTjlFqQsS-YXk" : {
+      "acronym" : "PU- AMI",
+      "type" : "Health",
+      "url" : ""
+    },
+    "-KhTC4QPTjlFqQsS-YXl" : {
+      "acronym" : "PWJ",
+      "type" : "Health",
+      "url" : ""
+    },
+    "-KhTC4QPTjlFqQsS-YXm" : {
+      "acronym" : "Qandil",
+      "type" : "Health",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhTC4QPTjlFqQsS-YXn" : {
+      "acronym" : "SC",
+      "type" : "Health",
+      "url" : "http://www.savethechildren.org"
+    },
+    "-KhTC4QQHiHEj2L2M7eQ" : {
+      "acronym" : "UIMS",
+      "type" : "Health",
+      "url" : "http://www.uimsiraq.org/"
+    },
+    "-KhTC4QQHiHEj2L2M7eR" : {
+      "acronym" : "UNFPA",
+      "type" : "Health",
+      "url" : "http://www.unfpa.org"
+    },
+    "-KhTC4QQHiHEj2L2M7eS" : {
+      "acronym" : "UNHCR",
+      "type" : "Health",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTC4QQHiHEj2L2M7eT" : {
+      "acronym" : "UNICEF",
+      "type" : "Health",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhTC4QR8lFp4rF5uOHd" : {
+      "acronym" : "UPP",
+      "type" : "Health",
+      "url" : "http://www.unponteper.it"
+    },
+    "-KhTC4QR8lFp4rF5uOHe" : {
+      "acronym" : "WHO",
+      "type" : "Health",
+      "url" : "http://www.who.org"
+    },
+    "-KhTC4QR8lFp4rF5uOHf" : {
+      "acronym" : "UNHCR",
+      "type" : "HIV/AIDS",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTC4QR8lFp4rF5uOHg" : {
+      "acronym" : "DRC Iraq",
+      "type" : "Information Management",
+      "url" : "http://drc.dk/relief-work/where-we-work/middle-east/iraq/"
+    },
+    "-KhTC4QR8lFp4rF5uOHh" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Information Management",
+      "url" : ""
+    },
+    "-KhTC4QSaW2IuZy_16P_" : {
+      "acronym" : "Qandil",
+      "type" : "Information Management",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhTC4QSaW2IuZy_16Pa" : {
+      "acronym" : "REACH-Initiative",
+      "type" : "Information Management",
+      "url" : "http://resource.reach-initiative.org"
+    },
+    "-KhTC4QSaW2IuZy_16Pb" : {
+      "acronym" : "SC",
+      "type" : "Information Management",
+      "url" : "http://www.savethechildren.org"
+    },
+    "-KhTC4QTZHSZWnfqbaCp" : {
+      "acronym" : "UNHCR",
+      "type" : "Information Management",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTC4QTZHSZWnfqbaCq" : {
+      "acronym" : "UNICEF",
+      "type" : "Information Management",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhTC4QVGfn3DuuQHt2O" : {
+      "acronym" : "UPP",
+      "type" : "Information Management",
+      "url" : "http://www.unponteper.it"
+    },
+    "-KhTC4QYLmzGMmFwgFvO" : {
+      "acronym" : "WFP",
+      "type" : "Information Management",
+      "url" : "http://www.wfp.org"
+    },
+    "-KhTC4QZNUTewGF_55tq" : {
+      "acronym" : "DRC",
+      "type" : "Livelihood",
+      "url" : ""
+    },
+    "-KhTC4QZNUTewGF_55tr" : {
+      "acronym" : "DRC Iraq",
+      "type" : "Livelihood",
+      "url" : "http://drc.dk/relief-work/where-we-work/middle-east/iraq/"
+    },
+    "-KhTC4Qcbtk_0Y1RUuCI" : {
+      "acronym" : "Harikar",
+      "type" : "Livelihood",
+      "url" : "http://www.harikar.org"
+    },
+    "-KhTC4Qh6y-rLXm_DI8C" : {
+      "acronym" : "IOM",
+      "type" : "Livelihood",
+      "url" : "http://www.iomiraq.net/"
+    },
+    "-KhTC4QlyXBni-G-I6DK" : {
+      "acronym" : "IRC",
+      "type" : "Livelihood",
+      "url" : "http://www.rescue.org"
+    },
+    "-KhTC4QmkhLbkgACkn7W" : {
+      "acronym" : "IRW",
+      "type" : "Livelihood",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhTC4QmkhLbkgACkn7X" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Livelihood",
+      "url" : ""
+    },
+    "-KhTC4QnDa4FM9d_pGNz" : {
+      "acronym" : "PWJ",
+      "type" : "Livelihood",
+      "url" : ""
+    },
+    "-KhTC4QnDa4FM9d_pGO-" : {
+      "acronym" : "Qandil",
+      "type" : "Livelihood",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhTC4QnDa4FM9d_pGO0" : {
+      "acronym" : "REACH",
+      "type" : "Livelihood",
+      "url" : "http://www.reach-iraq.org"
+    },
+    "-KhTC4QoEoFWYynTUKSK" : {
+      "acronym" : "UNDP",
+      "type" : "Livelihood",
+      "url" : ""
+    },
+    "-KhTC4QoEoFWYynTUKSL" : {
+      "acronym" : "UNESCO",
+      "type" : "Livelihood",
+      "url" : "http://www.unesco.org/iraq-office"
+    },
+    "-KhTC4QoEoFWYynTUKSM" : {
+      "acronym" : "UNHCR",
+      "type" : "Livelihood",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTC4QpLXXcZOdkikEc" : {
+      "acronym" : "IRW",
+      "type" : "Logistics",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhTC4QpLXXcZOdkikEd" : {
+      "acronym" : "Qandil",
+      "type" : "Logistics",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhTC4QpLXXcZOdkikEe" : {
+      "acronym" : "UNHCR",
+      "type" : "Logistics",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTC4Qqfx-3AxxufU_s" : {
+      "acronym" : "UPP",
+      "type" : "Logistics",
+      "url" : "http://www.unponteper.it"
+    },
+    "-KhTC4Qqfx-3AxxufU_t" : {
+      "acronym" : "WFP",
+      "type" : "Logistics",
+      "url" : "http://www.wfp.org"
+    },
+    "-KhTC4Qqfx-3AxxufU_u" : {
+      "acronym" : "ACF",
+      "type" : "Nutrition",
+      "url" : ""
+    },
+    "-KhTC4Qqfx-3AxxufU_v" : {
+      "acronym" : "Barzani Foundation",
+      "type" : "Nutrition",
+      "url" : ""
+    },
+    "-KhTC4Qqfx-3AxxufU_w" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Nutrition",
+      "url" : ""
+    },
+    "-KhTC4Qqfx-3AxxufU_x" : {
+      "acronym" : "KRG- DMC/ DoH",
+      "type" : "Nutrition",
+      "url" : ""
+    },
+    "-KhTC4Qr0xRv3o5jAKOT" : {
+      "acronym" : "MSF",
+      "type" : "Nutrition",
+      "url" : "http://www.msf.org"
+    },
+    "-KhTC4Qr0xRv3o5jAKOU" : {
+      "acronym" : "UNDP",
+      "type" : "Nutrition",
+      "url" : ""
+    },
+    "-KhTC4Qr0xRv3o5jAKOV" : {
+      "acronym" : "UNICEF",
+      "type" : "Nutrition",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhTC4Qsn3PLHuFI3DU8" : {
+      "acronym" : "WFP",
+      "type" : "Nutrition",
+      "url" : "http://www.wfp.org"
+    },
+    "-KhTC4Qsn3PLHuFI3DU9" : {
+      "acronym" : "DRC",
+      "type" : "Protection",
+      "url" : ""
+    },
+    "-KhTC4Qsn3PLHuFI3DUA" : {
+      "acronym" : "DRC Iraq",
+      "type" : "Protection",
+      "url" : "http://drc.dk/relief-work/where-we-work/middle-east/iraq/"
+    },
+    "-KhTC4Qsn3PLHuFI3DUB" : {
+      "acronym" : "DVAW",
+      "type" : "Protection",
+      "url" : ""
+    },
+    "-KhTC4Qsn3PLHuFI3DUC" : {
+      "acronym" : "Harikar",
+      "type" : "Protection",
+      "url" : "http://www.harikar.org"
+    },
+    "-KhTC4Qsn3PLHuFI3DUD" : {
+      "acronym" : "ICRC",
+      "type" : "Protection",
+      "url" : "http://www.icrc.org"
+    },
+    "-KhTC4Qsn3PLHuFI3DUE" : {
+      "acronym" : "INTERSOS Iraq",
+      "type" : "Protection",
+      "url" : "http://intersos.org/en/countries/asia-and-middle-east/iraq/iraq"
+    },
+    "-KhTC4Qt__VSm-Ridy4N" : {
+      "acronym" : "IRC",
+      "type" : "Protection",
+      "url" : "http://www.rescue.org"
+    },
+    "-KhTC4Qt__VSm-Ridy4O" : {
+      "acronym" : "IRD",
+      "type" : "Protection",
+      "url" : ""
+    },
+    "-KhTC4Qt__VSm-Ridy4P" : {
+      "acronym" : "IRW",
+      "type" : "Protection",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhTC4Qt__VSm-Ridy4Q" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Protection",
+      "url" : ""
+    },
+    "-KhTC4Qt__VSm-Ridy4R" : {
+      "acronym" : "MAG",
+      "type" : "Protection",
+      "url" : ""
+    },
+    "-KhTC4Qu-O3PlheafZlE" : {
+      "acronym" : "NRC",
+      "type" : "Protection",
+      "url" : "http://www.nrc.no"
+    },
+    "-KhTC4Qu-O3PlheafZlF" : {
+      "acronym" : "Qandil",
+      "type" : "Protection",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhTC4Qu-O3PlheafZlG" : {
+      "acronym" : "REACH-Initiative",
+      "type" : "Protection",
+      "url" : "http://resource.reach-initiative.org"
+    },
+    "-KhTC4Qu-O3PlheafZlH" : {
+      "acronym" : "SAVE International",
+      "type" : "Protection",
+      "url" : "http://www.savethechildren.net/"
+    },
+    "-KhTC4Qu-O3PlheafZlI" : {
+      "acronym" : "SC",
+      "type" : "Protection",
+      "url" : "http://www.savethechildren.org"
+    },
+    "-KhTC4QvKz2dgDtsUcgU" : {
+      "acronym" : "UNFPA",
+      "type" : "Protection",
+      "url" : "http://www.unfpa.org"
+    },
+    "-KhTC4QvKz2dgDtsUcgV" : {
+      "acronym" : "UNHCR",
+      "type" : "Protection",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTC4QvKz2dgDtsUcgW" : {
+      "acronym" : "UNICEF",
+      "type" : "Protection",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhTC4QvKz2dgDtsUcgX" : {
+      "acronym" : "UPP",
+      "type" : "Protection",
+      "url" : "http://www.unponteper.it"
+    },
+    "-KhTC4QvKz2dgDtsUcgY" : {
+      "acronym" : "Harikar",
+      "type" : "Registration",
+      "url" : "http://www.harikar.org"
+    },
+    "-KhTC4QwKS7UCe6IEQbp" : {
+      "acronym" : "IRW",
+      "type" : "Registration",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhTC4QxIjEscKIpJj3d" : {
+      "acronym" : "Qandil",
+      "type" : "Registration",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhTC4QxIjEscKIpJj3e" : {
+      "acronym" : "UNHCR",
+      "type" : "Registration",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTC4QxIjEscKIpJj3f" : {
+      "acronym" : "UNFPA",
+      "type" : "Reproductive Health",
+      "url" : "http://www.unfpa.org"
+    },
+    "-KhTC4QxIjEscKIpJj3g" : {
+      "acronym" : "UNHCR",
+      "type" : "Reproductive Health",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTC4QxIjEscKIpJj3h" : {
+      "acronym" : "UNICEF",
+      "type" : "Reproductive Health",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhTC4QyMfUd4VbXIKUJ" : {
+      "acronym" : "WHO",
+      "type" : "Reproductive Health",
+      "url" : "http://www.who.org"
+    },
+    "-KhTC4QyMfUd4VbXIKUK" : {
+      "acronym" : "DRC Iraq",
+      "type" : "Shelter",
+      "url" : "http://drc.dk/relief-work/where-we-work/middle-east/iraq/"
+    },
+    "-KhTC4QyMfUd4VbXIKUL" : {
+      "acronym" : "IOM",
+      "type" : "Shelter",
+      "url" : "http://www.iomiraq.net/"
+    },
+    "-KhTC4QyMfUd4VbXIKUM" : {
+      "acronym" : "IRW",
+      "type" : "Shelter",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhTC4QyMfUd4VbXIKUN" : {
+      "acronym" : "ISHO",
+      "type" : "Shelter",
+      "url" : ""
+    },
+    "-KhTC4QyMfUd4VbXIKUO" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Shelter",
+      "url" : ""
+    },
+    "-KhTC4QyMfUd4VbXIKUP" : {
+      "acronym" : "KURDS",
+      "type" : "Shelter",
+      "url" : ""
+    },
+    "-KhTC4QzAsC5sjILZ9DZ" : {
+      "acronym" : "MODM",
+      "type" : "Shelter",
+      "url" : "http://momd.gov.iq"
+    },
+    "-KhTC4QzAsC5sjILZ9D_" : {
+      "acronym" : "NRC",
+      "type" : "Shelter",
+      "url" : "http://www.nrc.no"
+    },
+    "-KhTC4QzAsC5sjILZ9Da" : {
+      "acronym" : "PWJ",
+      "type" : "Shelter",
+      "url" : ""
+    },
+    "-KhTC4QzAsC5sjILZ9Db" : {
+      "acronym" : "Qandil",
+      "type" : "Shelter",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhTC4QzAsC5sjILZ9Dc" : {
+      "acronym" : "QRCS",
+      "type" : "Shelter",
+      "url" : "http://www.qrcs.org.qa/Arabic/Welcome/Pages/default.aspx"
+    },
+    "-KhTC4QzAsC5sjILZ9Dd" : {
+      "acronym" : "RIRP",
+      "type" : "Shelter",
+      "url" : "http://www.rirp.org"
+    },
+    "-KhTC4QzAsC5sjILZ9De" : {
+      "acronym" : "UNHCR",
+      "type" : "Shelter",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTC4QzAsC5sjILZ9Df" : {
+      "acronym" : "UNHCR",
+      "type" : "Telecom",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTC4R-A76up-Ojrgrn" : {
+      "acronym" : "IRW",
+      "type" : "Transportation",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhTC4R-A76up-Ojrgro" : {
+      "acronym" : "ISHO",
+      "type" : "Transportation",
+      "url" : ""
+    },
+    "-KhTC4R-A76up-Ojrgrp" : {
+      "acronym" : "MODM",
+      "type" : "Transportation",
+      "url" : "http://momd.gov.iq"
+    },
+    "-KhTC4R-A76up-Ojrgrq" : {
+      "acronym" : "UNHCR",
+      "type" : "Transportation",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTC4R0lMv2SCJ03fnv" : {
+      "acronym" : "ACF",
+      "type" : "Water & Sanitation",
+      "url" : ""
+    },
+    "-KhTC4R0lMv2SCJ03fnw" : {
+      "acronym" : "Barzani Foundation",
+      "type" : "Water & Sanitation",
+      "url" : ""
+    },
+    "-KhTC4R0lMv2SCJ03fnx" : {
+      "acronym" : "DRC Iraq",
+      "type" : "Water & Sanitation",
+      "url" : "http://drc.dk/relief-work/where-we-work/middle-east/iraq/"
+    },
+    "-KhTC4R0lMv2SCJ03fny" : {
+      "acronym" : "FRC",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.croix-rouge.fr/"
+    },
+    "-KhTC4R0lMv2SCJ03fnz" : {
+      "acronym" : "Harikar",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.harikar.org"
+    },
+    "-KhTC4R0lMv2SCJ03fo-" : {
+      "acronym" : "IRW",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.islamic-relief.com"
+    },
+    "-KhTC4R1fuGWqpbtSmjk" : {
+      "acronym" : "KRG- DMC",
+      "type" : "Water & Sanitation",
+      "url" : ""
+    },
+    "-KhTC4R1fuGWqpbtSmjl" : {
+      "acronym" : "KURDS",
+      "type" : "Water & Sanitation",
+      "url" : ""
+    },
+    "-KhTC4R1fuGWqpbtSmjm" : {
+      "acronym" : "MODM",
+      "type" : "Water & Sanitation",
+      "url" : "http://momd.gov.iq"
+    },
+    "-KhTC4R1fuGWqpbtSmjn" : {
+      "acronym" : "MSF",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.msf.org"
+    },
+    "-KhTC4R1fuGWqpbtSmjo" : {
+      "acronym" : "NRC",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.nrc.no"
+    },
+    "-KhTC4R2ykE0DqUtbYSj" : {
+      "acronym" : "PU- AMI",
+      "type" : "Water & Sanitation",
+      "url" : ""
+    },
+    "-KhTC4R2ykE0DqUtbYSk" : {
+      "acronym" : "PWJ",
+      "type" : "Water & Sanitation",
+      "url" : ""
+    },
+    "-KhTC4R3Y7dGh7AvSvnU" : {
+      "acronym" : "Qandil",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.Qandil.org"
+    },
+    "-KhTC4R3Y7dGh7AvSvnV" : {
+      "acronym" : "RI",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.ri.org/index.php"
+    },
+    "-KhTC4R3Y7dGh7AvSvnW" : {
+      "acronym" : "RIRP",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.rirp.org"
+    },
+    "-KhTC4R3Y7dGh7AvSvnX" : {
+      "acronym" : "SAVE International",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.savethechildren.net/"
+    },
+    "-KhTC4R3Y7dGh7AvSvnY" : {
+      "acronym" : "UNHCR",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.unhcr.org"
+    },
+    "-KhTC4R3Y7dGh7AvSvnZ" : {
+      "acronym" : "UNICEF",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.unicef.org"
+    },
+    "-KhTC4R4_b6jaf34lf6a" : {
+      "acronym" : "UPP",
+      "type" : "Water & Sanitation",
+      "url" : "http://www.unponteper.it"
+    }
+  },
+  "volunteers" : [ {
+    "category" : "abroad",
+    "company" : "UN Volunteers",
+    "link" : "https://www.unv.org/become-volunteer/volunteer-abroad",
+    "location" : "Global",
+    "summary" : "International UN Volunteers promote peace and development in communities around the globe, while upholding the ideals and aspirations of the United Nations. International UN Volunteers come from 160 countries, representing many cultures and backgrounds. They bring a wide variety of perspectives and approaches. Your international UN Volunteer assignment will make a lasting impact. It can create a ripple effect that extends far beyond the immediate results of your efforts."
+  }, {
+    "category" : "abroad",
+    "company" : "Relief and Reconciliation for Syria",
+    "link" : "http://www.reliefandreconciliation.org/volunteer-with-us.html",
+    "location" : "Lebanon",
+    "summary" : "Living and working at our first Peace Centre in the North of Lebanon, only 12 km from the Syrian border, volunteers are directly involved in implementing an innovative approach to assisting the Syrian refugee crisis in Lebanon. As part of our ethos to bring people from different backgrounds together, opening windows of communication, our international volunteers combine forces with local volunteers in organising and implementing educational and recreational activities for children and adolescents of Syrian refugee and Lebanese host communities."
+  }, {
+    "category" : "abroad",
+    "company" : "Lighthouse Relief",
+    "link" : "http://www.lighthouserelief.org/volunteer/",
+    "location" : "Greece, Lesvos",
+    "summary" : "Volunteers for our camp operations must commit to a minimum period of three weeks and be over 23 years old. Please fill out only one application. You can't apply more than two months in advance. If the need for volunteers is bigger in another location, we will re-direct you there. For Arabic, Kurdish and Farsi/Dari speakers your language skills are needed even if you don't have an extensive background within the program you apply to join! We are looking for volunteers in the following areas: Female Friendly Space, Infant and Young Child Feeding, Construction Unit, Child Friendly Space, Female Friendly Space."
+  }, {
+    "category" : "abroad",
+    "company" : "Hope Project",
+    "link" : "http://www.hopeproject.net/volunteer/",
+    "location" : "Thessaloniki, Greece",
+    "summary" : "Volunteering with Hope Project means that you will join a dynamic team of individuals, who together, support the vision of bringing a sense of humanity to refugees in Greece. We focus on education, compassion, creativity, humility and ambition. The aim is to put each volunteer at the forefront of our work and help build the project using their own skills and experience. We celebrate the diversity in our team and believe it makes us stronger."
+  }, {
+    "category" : "abroad",
+    "company" : "Samos Volunteers",
+    "link" : "https://www.samosvolunteers.com/volunteer/",
+    "location" : "Vathi, Greece",
+    "summary" : "Samos Volunteers are here to provide essential services and are determined to remain in Samos until refugees no longer need our support. Our daily presence in the camp has allowed us to build relationships with the now largely static population of refugees on Samos. Upon arrival, they must settle into the semi-closed camp to await the long-drawn out asylum procedure: this can take months, and in some cases, years. Recently, we came out of a transitional period during which we moved our activities from the daily distribution of non-food items, to informal educational activities and psycho-social support. We feel that the clothing and hygiene needs of those residing in the camp can be covered by the government organisations mandated to provide this support, and so we feel we can have a bigger impact on our beneficiaries through means of education, activities, and interesting projects and courses."
+  }, {
+    "category" : "abroad",
+    "company" : "Medical Teams International",
+    "link" : "http://www.medicalteams.org/take-action/volunteer",
+    "location" : "Lebanon, Greece, Turkey",
+    "summary" : "We see human suffering as a call – not just to open our hearts, but to move our feet. We are compelled by our Christian faith into action – a team, guided by compassion and magnified by expertise. We are committed to rise, mobilize, and make a difference. We respond to disasters around the world—and here at home—by sending teams of volunteer medical professionals and medical supplies to care for the sick and injured. We also mobilize long-term health promotion initiatives, collaborating with established partners within each community to ensure that our programs have a sustainable impact. Medical Teams International provides medical and dental care, humanitarian aid, and holistic development programs to all people in need, regardless of religion, nationality, sex, or race."
+  }, {
+    "category" : "abroad",
+    "company" : "Doctors Without Borders",
+    "link" : "http://www.doctorswithoutborders.org/work-us/work-field/benefits-opportunities",
+    "location" : "Global",
+    "summary" : "Doctors Without Borders/Médecins Sans Frontières (MSF) recruits medical, administrative, and logistical support personnel to provide medical care to people in crisis in more than 60 countries worldwide. Every year, around 3,000 MSF field staff provide lifesaving medical assistance to people who would otherwise be denied access to even the most basic health care."
+  }, {
+    "category" : "local",
+    "company" : "Peace Corps",
+    "link" : "https://www.peacecorps.gov/volunteer/volunteer-openings/",
+    "location" : "Global",
+    "summary" : "Peace Corps Volunteers work at the grassroots level to create change that lasts long after their service. As a Volunteer, you can make an investment in our world—one handshake, one project, one friendship at a time—that leads to new possibilities in service and when you return home."
+  }, {
+    "category" : "local",
+    "company" : "Care",
+    "link" : "https://my.care.org/site/SPageNavigator/CARE_SpecialDelivery.html",
+    "location" : "United States",
+    "summary" : "Millions of people have been forced to flee their homes, seeking refuge in other countries.Reassure them that they are not forgotten, that the world cares. That you care. Send your message of hope. It can be all the difference in the world to know you're not alone."
+  }, {
+    "category" : "local",
+    "company" : "Refugees Welcome",
+    "link" : "http://www.refugees-welcome.net/",
+    "location" : "Germany, Austrai, Greece, Portugal, Spain, Sweden, The Netherlands, Poland, Italy, Canada, Czech Repbulic, Romania, Northern Ireland, Australia",
+    "summary" : "Are you dissatisfied with how refugees are being treated in your country and are you interested in helping to ease the process of resettlement? Do you have a spare room in your flatshare available? We are convinced that refugees should not be stigmatized and excluded from society by being accommodated in camps. Instead, we should offer them a warm welcome. We believe we can establish a culture of open doors for refugees across Europe."
+  }, {
+    "category" : "local",
+    "company" : "International Refugee Assistance Project",
+    "link" : "https://refugeerights.org/hope-help/volunteersinterns/",
+    "location" : "New York",
+    "summary" : "Are you dissatisfied with how refugees are being treated in your country and are you interested in helping to ease the process of resettlement? Do you have a spare room in your flatshare available? We are convinced that refugees should not be stigmatized and excluded from society by being accommodated in camps. Instead, we should offer them a warm welcome. We believe we can establish a culture of open doors for refugees across Europe."
+  }, {
+    "category" : "local",
+    "company" : "Refugees Welcome",
+    "link" : "http://www.refugees-welcome.net/",
+    "location" : "New York",
+    "summary" : "The International Refugee Assistance Project (IRAP) organizes law students and lawyers to develop and enforce a set of legal and human rights for refugees and displaced persons. Mobilizing direct legal aid and systemic policy advocacy, IRAP serves the world’s most persecuted individuals and empowers the next generation of human rights leaders."
+  }, {
+    "category" : "local",
+    "company" : "Positive Action",
+    "link" : "http://www.paih.org/host-a-refugee/",
+    "location" : "United States",
+    "summary" : "Are you dissatisfied with how refugees are being treated in your country and are you interested in helping to ease the process of resettlement? Do you have a spare room in your flatshare available? We are convinced that refugees should not be stigmatized and excluded from society by being accommodated in camps. Instead, we should offer them a warm welcome. We believe we can establish a culture of open doors for refugees across Europe."
+  }, {
+    "category" : "local",
+    "company" : "Refugee Center Online Classroom",
+    "link" : "https://classroom.therefugeecenter.org/programs/volunteering-with-refugees",
+    "location" : "United States",
+    "summary" : "A free online course for volunteers working with refugees or those new to the field of refugee resettlement. This free online course will help you understand the basics of refugee resettlement, increase your cultural competency skills and help you incorporate cross-cultural communication strategies during your one-on-one exchanges. It will also allow you develop confidence when sharing your volunteer work experiences with other members of your community about the many positive benefits refugees bring to our cities and states."
+  }, {
+    "category" : "local",
+    "company" : "Rescue.org",
+    "link" : "https://www.rescue.org/united-states/new-york-ny",
+    "location" : "United States",
+    "summary" : "The International Rescue Committee provides opportunities for refugees, asylees, victims of human trafficking, survivors of torture, and other immigrants to thrive in America. Each year, thousands of people, forced to flee violence and persecution, are welcomed by the people of the United States into the safety and freedom of America. These individuals have survived against incredible odds. The IRC works with government bodies, civil society actors, and local volunteers to help them translate their past experiences into assets that are valuable to their new communities. In New York and other offices across the country, the IRC helps them to rebuild their lives."
+  } ]
+}
