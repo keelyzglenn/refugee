@@ -1,3 +1,26 @@
+/*For Panel Links*/
+.panel-default{
+    text-align:center;
+    cursor:pointer;
+    font-family: 'Raleway',sans-serif;
+}
+
+.links {
+  color: #ffffff;
+}
+
+.panelLinks {
+  padding-top: 50px;
+}
+
+.panel-default {
+  background-color: #4b4b4b;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Raleway',sans-serif
+}
 
 /*
 Fade content bs-carousel with hero headers
@@ -104,7 +127,9 @@ Image credits: unsplash.com
 /********************************/
 .fade-carousel .slides .slide-1,
 .fade-carousel .slides .slide-2,
-.fade-carousel .slides .slide-3 {
+.fade-carousel .slides .slide-3,
+.fade-carousel .slides .slide-4,
+{
   height: 100vh;
   background-size: cover;
   background-position: center center;
@@ -119,6 +144,10 @@ Image credits: unsplash.com
 .fade-carousel .slides .slide-3 {
   background-image: url("/assets/images/girl.jpg");
 }
+.fade-carousel .slides .slide-4 {
+  background-image: url("/assets/images/working.jpg");
+}
+
 
 /********************************/
 /*          Media Queries       */
