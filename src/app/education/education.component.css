@@ -132,3 +132,7 @@ body {
   width: 300px;
   margin-bottom: 8px;
 }
+
+.item {
+  height: 384px;
+}
