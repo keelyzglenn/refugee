@@ -1,4 +1,134 @@
-#classroom {
-  height: 60%;
-  width: 80%;
+.mainpic {
+  width: 100%;
+  margin-top: -10%;
+}
+
+.resources-list {
+  padding-left: 30px;
+  margin-bottom: 50px;
+  padding-top: 50px;
+}
+
+.section2 {
+  margin-top: 40px;
+}
+
+.jumbotron {
+  width: 100% !important;
+}
+
+.title {
+  background-color: white;
+  padding: 50px;
+  margin-top: -150px;
+  position: relative;
+  opacity: 0.4;
+  color: black;
+  text-shadow: 2px 2px 2px black;
+  font-size: 60px;
+  font-weight: bolder;
+}
+
+.quotebox {
+  background-color: white;
+  padding: 30px;
+  color: black;
+  font-style: italic;
+  box-shadow: 5px 5px 5px grey;
+  width: 900px;
+}
+
+.video {
+  margin: 30px;
+  /*margin-left: 50px;*/
+}
+
+.circle {
+  border-radius: 50%;
+  background-color: #ff5033;
+  width: 200px;
+  height: 200px;
+  color: white;
+  margin-left: 50px;
+  float: left;
+  margin-top: 40px;
+}
+
+.circle2 {
+  border-radius: 50%;
+  background-color: #ff5033;
+  width: 200px;
+  height: 200px;
+  color: white;
+  margin-left: 50px;
+  float: right;
+  margin-right: 50px;
+}
+
+.resources {
+  padding-top: 45px;
+  text-align: center;
+}
+
+.current-title {
+  text-align: center;
+  padding-top: 40px;
+}
+
+.current-situation {
+  float: right;
+  margin-top: 40px;
+  margin-right: 40px;
+}
+
+body {
+  padding-top: 50px;
+}
+
+#myCarousel .carousel-caption {
+  left:0;
+	right:0;
+	bottom:0;
+	text-align:left;
+	padding:10px;
+	background:rgba(0,0,0,0.6);
+	text-shadow:none;
+}
+
+#myCarousel .list-group {
+	position:absolute;
+	top:0;
+	right:0;
+}
+#myCarousel .list-group-item {
+	border-radius:0px;
+	cursor:pointer;
+}
+#myCarousel .list-group .active {
+	background-color:#eee;
+}
+
+@media (min-width: 992px) {
+	#myCarousel {padding-right:33.3333%;}
+	#myCarousel .carousel-controls {display:none;}
+}
+@media (max-width: 991px) {
+	.carousel-caption p,
+	#myCarousel .list-group {display:none;}
+}
+
+.container {
+  margin-bottom: 40px;
+}
+
+.card {
+  padding: 30px;
+  width: 360px;
+  height: 544px;
+  display: inline-block;
+}
+
+.card-img-top {
+  width: 300px;
+  margin-bottom: 8px;
 }
