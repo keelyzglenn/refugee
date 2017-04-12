@@ -54,7 +54,18 @@ https://www.youtube.com/watch?v=NKb9GVU8bHE -->
 
 </ul>
 
-
+<h4>TWITTER FEED</h4>
+  <ul *ngFor="let tweet of tweets">
+    <img style={width:10px,height:10px;} src={{tweet.user.profile_image_url}}>
+    <li>{{tweet.user.name}}</li>
+    <li>{{tweet.text}}</li>
+  </ul>
+<h5>NEWS FEED</h5>
+<ul *ngFor="let feed of feeds">
+  <li>{{feed.title}}
+{{feed.author}} - {{feed.pubDate | date:'dd-MM-yyyy'}}
+{{feed.description}}</li>
+</ul>
 <!-- Health
 education
 Economics (legal
