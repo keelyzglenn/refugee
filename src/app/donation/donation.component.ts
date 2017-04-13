@@ -32,6 +32,9 @@ export class DonationComponent implements OnInit {
     this.donations = this.donationService.getDonations();
   }
 
-
+submitForm(firstName: string, lastName: string, city: string, amount: number) {
+  var newDonation: Donation = new Donation(firstName, lastName, city, amount);
+  this.donationService.addDonation(newDonation);
+}
 
 }
