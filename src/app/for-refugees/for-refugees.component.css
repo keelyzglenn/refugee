@@ -128,7 +128,7 @@ Image credits: unsplash.com
 .fade-carousel .slides .slide-1,
 .fade-carousel .slides .slide-2,
 .fade-carousel .slides .slide-3,
-.fade-carousel .slides .slide-4,
+.fade-carousel .slides .slide-4
 {
   height: 100vh;
   background-size: cover;
@@ -145,7 +145,7 @@ Image credits: unsplash.com
   background-image: url("/assets/images/girl.jpg");
 }
 .fade-carousel .slides .slide-4 {
-  background-image: url("/assets/images/working.jpg");
+  background-image: url("/assets/images/woman1.jpg");
 }
 
 
@@ -159,7 +159,7 @@ Image credits: unsplash.com
     .hero h1 { font-size: 4em; }
 }
 
-/* Carousel Styles */
+ /*Carousel Styles */
 /*.carousel-indicators .active {
     background-color: #2980b9;
 }
