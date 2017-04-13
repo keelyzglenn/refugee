@@ -104,7 +104,7 @@ body {
 	cursor:pointer;
 }
 #myCarousel .list-group .active {
-	background-color:#eee;
+	background-color:#ff725b;
 }
 
 @media (min-width: 992px) {
@@ -122,7 +122,30 @@ body {
 }
 
 .card {
-  border: 1px solid black;
-  padding: 50px;
-  height: 500px;
+  padding: 30px;
+  width: 360px;
+  height: 544px;
+  display: inline-block;
+  float: left;
+}
+
+.card-img-top {
+  width: 300px;
+  margin-bottom: 8px;
+  border-bottom: #ff725b 3px solid;
+}
+
+.card-img-top:hover {
+  -webkit-transform: scale(1.25);
+  transform: scale(1.25);
+  padding-bottom: 20px;
+}
+
+.item {
+  height: 384px;
+}
+
+.btn:hover {
+  background-color: #ff5033;
+  color: white;
 }

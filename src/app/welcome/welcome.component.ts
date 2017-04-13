@@ -14,7 +14,6 @@ export class WelcomeComponent implements OnInit {
 
   private feedUrl: string = 'https%3A%2F%2Fwww.theguardian.com%2Fworld%2Fsyria%2Frss';
   feeds: any;
-
   title = 'app works!';
   tweets;
 
@@ -40,7 +39,7 @@ export class WelcomeComponent implements OnInit {
       this.tweets = res.json().data.statuses;
     });
   }
-  
+
 refreshFeed() {
     this.feedService.getFeedContent(this.feedUrl)
         .subscribe(feed => { console.log(feed['items']);
