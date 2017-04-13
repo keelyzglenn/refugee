@@ -23,7 +23,7 @@
     <input type="radio" name="donation" [(ngModel)]="model.total" [value]="30">$30.00<br>
     <input type="radio" name="donation" [(ngModel)]="model.total" [value]="50">$50.00<br>
     <input type="radio" name="donation" [(ngModel)]="model.total" [value]="100">$100.00<br>
-    <input type="radio" name="donation" [(ngModel)]="model.total" [value]="250">$250.00<br>
+    <input type="radio" name="donation" [(ngModel)]="model.total"  [value]="250">$250.00<br>
     <br>
     <button type="button" class="btn btn-default" data-toggle="modal" data-target=".modal1">Make Your Donation!</button>
   </form>
@@ -62,17 +62,21 @@
         <hr>
 
         <form class="modal-form">
+          <div>
+            <input class="form-control" type="text" placeholder="Enter Amount" required #newAmount>
+          </div>
+
           <h4>Personal Info</h4>
           <div>
-            <input class="form-control" type="text" placeholder="First Name" required>
+            <input class="form-control" type="text" placeholder="First Name" required #newFirstName>
           </div>
           <br>
           <div>
-            <input class="form-control" type="text" placeholder="Last Name" required>
+            <input class="form-control" type="text" placeholder="Last Name" required #newLastName>
           </div>
           <br>
           <div>
-            <input class="form-control" type="email" placeholder="Email Address" required>
+            <input class="form-control" type="email" placeholder="Email Address" required >
           </div>
           <br>
           <div>
@@ -80,7 +84,7 @@
           </div>
           <br>
           <div>
-            <input class="form-control" type="text" placeholder="City" required>
+            <input class="form-control" type="text" placeholder="City" required #newCity>
           </div>
           <br>
           <div>
@@ -387,7 +391,7 @@
                   </div>
                   <div class="row">
                     <div class="col-xs-12">
-                      <button type="submit" class="btn btn-default"  data-dismiss="modal" data-toggle="modal" data-target="modal2">Donate</button>
+                      <button type="submit" class="btn btn-default"  data-dismiss="modal" data-toggle="modal" data-target="modal2" (click)="submitForm(newFirstName.value, newLastName.value, newCity.value, newAmount.value)">Donate</button>
 
                     </div>
                   </div>
