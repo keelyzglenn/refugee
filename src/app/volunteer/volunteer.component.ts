@@ -14,7 +14,7 @@ export class VolunteerComponent implements OnInit {
 
   volunteers: FirebaseListObservable<any[]>;
   currentRoute: string = this.router.url;
-  filterByOppurtunity: string = "allVolunteer"
+  filterByOppurtunity: string = "allVolunteer";
 
 
   constructor(private router: Router, private volunteerService: VolunteerService) { }
@@ -24,7 +24,7 @@ export class VolunteerComponent implements OnInit {
   }
 
   goToDetailPage(clickedVolunteer) {
-    this.router.navigate(['volunteers', clickedVolunteer.$key])
+    this.router.navigate(['volunteers', clickedVolunteer.$key]);
   }
 
   onChange(optionFromMenu) {

@@ -1,516 +1,552 @@
-<div class="container">
-  <h4>Mission Statement</h4>
 
-  <p>Mission statement: To promote world peace and friendship with Syria through providing information, rescoures, and services to Syrian refugees. To help promote a better understanding of the current climate in Syria to Americans through informative action, donations, and volunteer oppurtunities.</p>
+<div class="container-full">
 
-  <hr/>
-
-<a routerLink="/for-refugees">For Refugees</a>
-<hr />
-<!--
-https://www.youtube.com/watch?v=NKb9GVU8bHE -->
-<!-- https://www.worldvision.org/refugees-news-stories/syria-refugee-crisis-war-facts -->
-
-
-
-<head>
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
-</head>
-
-
-<section id="carousel">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-8 col-md-offset-2">
-				<div class="carousel slide" id="fade-quote-carousel" data-ride="carousel" data-interval="3000">
-				  <!-- Carousel indicators -->
-                  <ol class="carousel-indicators">
-				    <li data-target="#fade-quote-carousel" data-slide-to="0" class="active"></li>
-				    <li data-target="#fade-quote-carousel" data-slide-to="1"></li>
-				    <li data-target="#fade-quote-carousel" data-slide-to="2"></li>
-				  </ol>
-
-				  <!-- Carousel items -->
-				  <div class="carousel-inner">
-            <div *ngIf="feeds">
-              <div class="active item" >
-                <ul>
-                  <img src="{{feeds[0].enclosure.link | thumbnail}}" alt="" />
-                  <h3>{{feeds[0].title}}</h3>
-                </ul>
-              </div>
-              <div class="item" >
-                <img src="{{feeds[1].enclosure.link | thumbnail}}" alt="" />
-                <li>{{feeds[1].title}}</li>
-              </div>
-              <div class="item">
-                  <img src="{{feeds[2].enclosure.link | thumbnail}}" alt="" />
-                  <li>{{feeds[2].title}}</li>
-              </div>
-            </div>
-				  </div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
-
-
-
-
-<p>
-  This year marks the sixth year anniversy of the start of the civil war. An estimated 11 million Syrians have fled their homes as refugees seeking asylum in other countries. 470,000 people have been killed. and another 13.5 million are in need of humanitarian assistance within the country.
-</p>
-
-<app-graph1></app-graph1>
-
-<h2>There are 13.5 million Syrains who need help</h2>
-<p>6 million have been displaced in Syria</p>
-<p>4.8 million are refugees outside of Syria</p>
-<ul>
-  <li>Turkey hosts 2,688,686 registered refugees</li>
-  <li>628,427 registered Syrian refugees in Jordan</li>
-  <li>1,048,275 registered refugees from Syria</li>
-  <li>Iraq hosts 245,543 refugees</li>
-  <li>resettlement happens in many places throughout the world. Including: Argentina, Australia, Austria, Brazil, Canada, Denmark, Germany, Greece, United Kingdom, United States, and many more </li>
-
-  https://en.wikipedia.org/wiki/Refugees_of_the_Syrian_Civil_War
-</ul>
-
-
-<p>
-  Syrian refugees referred to the U.S. by the U.N. have been women and children. That’s true — 67 percent have been children under the age of 12 and women, according to State Department data.
-
-  <!-- http://www.factcheck.org/2015/11/facts-about-the-syrian-refugees/ -->
-</p>
-
-
-
-<h2>Facts</h2>
-<ul>
-  <li>13.5 million people in Syria need humanitarian assistance due to a violent war that began in 2011.</li>
-  <li>5 million Syrians are refugees, and 6.3 million are displaced within Syria; half of those affected are children.</li>
-  <li>Children affected by the Syrian refugee crisis are at risk of becoming ill, malnourished, abused, or exploited. Millions have been forced to quit school. View these photos to see life through the eyes of Syrian refugee children.</li>
-  <li>  Most Syrian refugees remain in the Middle East, in Turkey, Lebanon, Jordan, Iraq, and Egypt; slightly more than 10 percent of the refugees have fled to Europe.
-  Peace negotiations continue despite an inconsistent ceasefire.</li>
-  <li>    Within Syria, 95 percent of people lack adequate healthcare, 70 percent lack regular access to clean water. Half the children are out of school. The economy is shattered and four-fifths of the population lives in poverty.</li>
-</ul>
-  <div class="row buttons-panel">
-    <div class="col-md-2"></div>
-    <div class="col-md-4">
-      <div class="panel panel-default" routerLink="/how-to-help">
-        <div class="panel-body">
-          <h2> How to help</h2>
-        </div>
+  <div class="heading">
+    <img class="mainpic" src="/assets/images/homepage3.jpg" alt="Wounded Syrian Girl">
+    <div class="title ">
+      <div class="mission container">
+      <h1>Mission</h1>
+      <h4>Mission statement: To promote world peace and friendship with Syria through providing information, rescoures, and services to Syrian refugees. To help promote a better understanding of the current climate in Syria to Americans through informative action, donations, and volunteer oppurtunities.</h4>
       </div>
+
     </div>
-    <div class="col-md-4">
-      <div class="panel panel-default" routerLink="/for-refugees">
-        <div class="panel-body">
-          <h2>Refugee Services</h2>
-        </div>
-      </div>
-    </div>
-    <div class="col-md-2"></div>
   </div>
 
-  <hr/>
-  <!--
-  https://www.youtube.com/watch?v=NKb9GVU8bHE -->
-  <!-- https://www.worldvision.org/refugees-news-stories/syria-refugee-crisis-war-facts -->
 
 
-  <head>
-      <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
-  </head>
 
-  <div >
-    <section id="carousel">
-  		<div class="row">
 
-  				<div class="carousel slide" id="fade-quote-carousel" data-ride="carousel" data-interval="9000">
-  				  <!-- Carousel indicators -->
-            <ol class="carousel-indicators">
-  				    <p data-target="#fade-quote-carousel" data-slide-to="0" class="active"></p>
-  				    <p data-target="#fade-quote-carousel" data-slide-to="1"></p>
-  				    <p data-target="#fade-quote-carousel" data-slide-to="2"></p>
+<div class="graphs">
+  <br>
+  <br>
+  <div class="container">
 
-  				  </ol>
+    <div class="graph col-md-8">
+      <app-graph1></app-graph1>
+    </div>
+    <div class="col-md-3">
+      <div class="row top-margin">
 
-  				  <!-- Carousel items -->
-  				  <div class="carousel-inner" *ngIf="feeds">
-  				    <div class="active item">
-                <div class="row">
-                  <div class="col-sm-3 row">
-                    <div class="col-padding">
-                      <a href="{{feeds[9].link}}">
-                      <img class="thumbnail-news" src="{{feeds[9].enclosure.link | thumbnail}}" alt="" />
-                      <div class="text">
+      </div>
+      <div class="row text-graph">
+        <h3 class="highlight">
+          This year marks the sixth year anniversy of the start of the civil war. An estimated <span class="color-text">11 million Syrians have fled their homes</span> as refugees seeking asylum in other countries. <span class="color-text">470,000 people have been killed</span> and another <span class="color-text">13.5 million are in need</span> of humanitarian assistance within the country.
+        </h3>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+  <div class="three-view">
+      <div class="row">
+      <div class="col-sm-4 ">
+        <div class="col-padding each">
+          <img src="./assets/images/newspaper.png" class="icons" />
+          <h3  class="title-icon">Inform</h3>
+        <p>Our focus is to inform the population about the current climate in Syria. By providing the most up to date news articles and tweets about Syria, as well as the differente organizations that help overseas and locally</p>
+        </div>
+      </div>
+      <div class="col-sm-4 ">
+        <div class="col-padding each">
+          <br>
+          <img src="./assets/images/connect.png" class="icons" id="cup" />
+
+          <h3  class="title-icon">Connect</h3>
+            <p>We aim to provide Syrian refugees with resources to help them find what they need as quickly as possible. Education, children needs, economics, and health are just some of the topics we focus on.</p>
+        </div>
+      </div>
+      <div class="col-sm-4 ">
+        <div class="col-padding each">
+          <img src="./assets/images/donateheart.png" class="icons" />
+          <h3  class="title-icon">Donate</h3>
+            <p>Providing our users with the easiest way to donate to multiple organizations. You can check out which agencies provide volunteer help as well as monetary help in Syria and the surrounding regions, and easily donate to the cause!</p>
+        </div>
+      </div>
+      </div>
+
+  </div>
+
+
+<div class="news">
+  <br>
+  <blockquote>
+    <h2>CURRENT NEWS</h2>
+  </blockquote>
+  <section id="carousel">
+    <div class="row">
+      <div class="carousel slide" id="fade-quote-carousel" data-ride="carousel" data-interval="9000">
+        <!-- Carousel indicators -->
+        <ol class="carousel-indicators">
+          <p data-target="#fade-quote-carousel" data-slide-to="0" class="active"></p>
+          <p data-target="#fade-quote-carousel" data-slide-to="1"></p>
+          <p data-target="#fade-quote-carousel" data-slide-to="2"></p>
+
+        </ol>
+
+        <!-- Carousel items -->
+        <div class="carousel-inner" *ngIf="feeds">
+          <div class="active item">
+            <div class="row">
+              <div class="col-sm-3">
+                <div class="col-padding">
+                  <a href="{{feeds[9].link}}">
+                    <img class="thumbnail-news" src="{{feeds[9].enclosure.link | thumbnail}}" alt="" />
+                    <div class="text">
                       <h4>{{feeds[9].title}}</h4>
                     </div>
-                    </a>
-                  </div>
-                    <div class= "article3">
-                      <div class="col-padding">
-                        <a href="{{feeds[10].link}}">
-                        <img class="thumbnail-news" src="{{feeds[10].enclosure.link | thumbnail}}" alt="" />
-                        <div class="text">
-                        <h4>{{feeds[10].title}}</h4>
-                      </div>
-                      </a>
-                    </div>
-                    </div>
-                  </div>
-                  <div class="col-sm-5 feature-article">
-                    <div class="col-padding">
-                      <a href="{{feeds[0].link}}">
-                        <img class="thumbnail-news1" src="{{feeds[0].enclosure.link | thumbnail}}" alt="" />
-                        <div class="text">
-                          <h3>{{feeds[0].title}}</h3>
-                          <h5>{{feeds[0].author}}</h5>
-                        </div>
-                      </a>
-                    </div>
-                  </div>
-                  <div class="col-sm-3 row">
-                    <div class="col-padding">
-                      <a href="{{feeds[1].link}}">
-                        <img class="thumbnail-news" src="{{feeds[1].enclosure.link | thumbnail}}" alt="" />
-                        <div class="text">
-                          <h4>{{feeds[1].title}}</h4>
-                        </div>
-                      </a>
-                    </div>
-                      <div class= "article3">
-                        <div class="col-padding">
-                          <a href="{{feeds[2].link}}">
-                          <img class="thumbnail-news" src="{{feeds[2].enclosure.link | thumbnail}}" alt="" />
-                            <div class="text">
-                              <h4>{{feeds[2].title}}</h4>
-                            </div>
-                          </a>
-                        </div>
-                      </div>
-                  </div>
+                  </a>
                 </div>
-  				    </div>
-  				    <div class="item">
-                <div class="row">
-                  <div class="col-sm-3 row">
-                    <div class="col-padding">
-                      <a href="{{feeds[12].link}}">
-                        <img class="thumbnail-news" src="{{feeds[12].enclosure.link | thumbnail}}" alt="" />
-                        <div class="text">
-                          <h4>{{feeds[12].title}}</h4>
-                        </div>
-                      </a>
-                  </div>
-                    <div class= "article3">
-                      <div class="col-padding">
-                        <a href="{{feeds[13].link}}">
-                          <img class="thumbnail-news" src="{{feeds[13].enclosure.link | thumbnail}}" alt="" />
-                          <div class="text">
-                            <h4>{{feeds[13].title}}</h4>
-                          </div>
-                        </a>
-                      </div>
+              </div>
+              <div class="col-sm-3 feature-article">
+                <div class="col-padding">
+                  <a href="{{feeds[0].link}}">
+                    <img class="thumbnail-news1" src="{{feeds[0].enclosure.link | thumbnail}}" alt="" />
+                    <div class="text">
+                      <h4>{{feeds[0].title}}</h4>
                     </div>
-                  </div>
-                  <div class="col-sm-5">
-                    <div class="col-padding feature-article">
-                      <a href="{{feeds[3].link}}">
-                        <img class="thumbnail-news1" src="{{feeds[3].enclosure.link | thumbnail}}" alt="" />
-                        <div class="text">
-                          <h3>{{feeds[3].title}}</h3>
-                          <h5>{{feeds[3].author}}</h5>
-                        </div>
-                      </a>
-                    </div>
-                  </div>
-                  <div class="col-sm-3 row">
-                    <div class="col-padding">
-                      <a href="{{feeds[4].link}}">
-                        <img class="thumbnail-news" src="{{feeds[4].enclosure.link | thumbnail}}" alt="" />
-                        <div class="text">
-                          <h4>{{feeds[4].title}}</h4>
-                        </div>
-                      </a>
-                    </div>
-                    <div class= "article3">
-                      <div class="col-padding">
-                        <a href="{{feeds[5].link}}">
-                          <img class="thumbnail-news" src="{{feeds[5].enclosure.link | thumbnail}}" alt="" />
-                          <div class="text">
-                            <h4>{{feeds[5].title}}</h4>
-                          </div>
-                        </a>
-                      </div>
-                    </div>
-                  </div>
+                  </a>
                 </div>
-  				    </div>
-  				    <div class="item">
-                <div class="row ">
-                  <div class="col-sm-3 row">
-                    <div class="col-padding">
-                      <a href="{{feeds[14].link}}">
-                      <img class="thumbnail-news" src="{{feeds[14].enclosure.link | thumbnail}}" alt="" />
-                        <div class="text">
-                          <h4>{{feeds[14].title}}</h4>
-                        </div>
-                      </a>
+              </div>
+              <div class="col-sm-3">
+                <div class="col-padding">
+                  <a href="{{feeds[1].link}}">
+                    <img class="thumbnail-news" src="{{feeds[1].enclosure.link | thumbnail}}" alt="" />
+                    <div class="text">
+                      <h4>{{feeds[1].title}}</h4>
                     </div>
-                      <div class= "article3">
-                        <div class="col-padding">
-                          <a href="{{feeds[15].link}}">
-                          <img class="thumbnail-news" src="{{feeds[15].enclosure.link | thumbnail}}" alt="" />
-                          <div class="text">
-                            <h4>{{feeds[10].title}}</h4>
-                          </div>
-                          </a>
-                        </div>
-                      </div>
-                  </div>
-                  <div class="col-sm-5">
-                    <div class="col-padding feature-article">
-                      <a href="{{feeds[6].link}}">
-                        <img class="thumbnail-news1" src="{{feeds[6].enclosure.link | thumbnail}}" alt="" />
-                        <div class="text">
-                          <h3>{{feeds[6].title}}</h3>
-                          <h5>{{feeds[6].author}}</h5>
-                        </div>
-                        </a>
-                      </div>
-                  </div>
-                  <div class="col-sm-3 row">
-                    <div class="col-padding">
-                      <a href="{{feeds[7].link}}">
-                        <img class="thumbnail-news" src="{{feeds[7].enclosure.link | thumbnail}}" alt="" />
-                        <div class="text">
-                          <h4>{{feeds[7].title}}</h4>
-                        </div>
-                      </a>
-                  </div>
-                  <div class= "article3">
-                    <div class="col-padding">
-                      <a href="{{feeds[8].link}}">
-                      <img class="thumbnail-news" src="{{feeds[8].enclosure.link | thumbnail}}" alt="" />
-                      <div class="text">
-                        <h4>{{feeds[8].title}}</h4>
-                      </div>
-                      </a>
-                    </div>
-                    </div>
-                  </div>
+                  </a>
                 </div>
-  				    </div>
-  				  </div>
-  				</div>
-</div>
+              </div>
+            </div>
+            <div class="row">
+              <div class= "col-md-3">
+                <div class="col-padding">
+                  <a href="{{feeds[10].link}}">
+                    <img class="thumbnail-news" src="{{feeds[10].enclosure.link | thumbnail}}" alt="" />
+                    <div class="text">
+                      <h4>{{feeds[10].title}}</h4>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div class= "col-md-3">
+                <div class="col-padding">
+                  <a href="{{feeds[2].link}}">
+                    <img class="thumbnail-news" src="{{feeds[2].enclosure.link | thumbnail}}" alt="" />
+                    <div class="text">
+                      <h4>{{feeds[2].title}}</h4>
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="item">
+            <div class="row">
+              <div class="col-sm-3">
+                <div class="col-padding">
+                  <a href="{{feeds[9].link}}">
+                    <img class="thumbnail-news" src="{{feeds[9].enclosure.link | thumbnail}}" alt="" />
+                    <div class="text">
+                      <h4>{{feeds[9].title}}</h4>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div class="col-sm-3 feature-article">
+                <div class="col-padding">
+                  <a href="{{feeds[0].link}}">
+                    <img class="thumbnail-news1" src="{{feeds[0].enclosure.link | thumbnail}}" alt="" />
+                    <div class="text">
+                      <h4>{{feeds[0].title}}</h4>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div class="col-sm-3">
+                <div class="col-padding">
+                  <a href="{{feeds[1].link}}">
+                    <img class="thumbnail-news" src="{{feeds[1].enclosure.link | thumbnail}}" alt="" />
+                    <div class="text">
+                      <h4>{{feeds[1].title}}</h4>
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class= "col-md-3">
+                <div class="col-padding">
+                  <a href="{{feeds[10].link}}">
+                    <img class="thumbnail-news" src="{{feeds[10].enclosure.link | thumbnail}}" alt="" />
+                    <div class="text">
+                      <h4>{{feeds[10].title}}</h4>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div class= "col-md-3">
+                <div class="col-padding">
+                  <a href="{{feeds[2].link}}">
+                    <img class="thumbnail-news" src="{{feeds[2].enclosure.link | thumbnail}}" alt="" />
+                    <div class="text">
+                      <h4>{{feeds[2].title}}</h4>
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="row">
+              <div class="col-sm-3">
+                <div class="col-padding">
+                  <a href="{{feeds[9].link}}">
+                    <img class="thumbnail-news" src="{{feeds[9].enclosure.link | thumbnail}}" alt="" />
+                    <div class="text">
+                      <h4>{{feeds[9].title}}</h4>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div class="col-sm-3 feature-article">
+                <div class="col-padding">
+                  <a href="{{feeds[0].link}}">
+                    <img class="thumbnail-news1" src="{{feeds[0].enclosure.link | thumbnail}}" alt="" />
+                    <div class="text">
+                      <h4>{{feeds[0].title}}</h4>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div class="col-sm-3">
+                <div class="col-padding">
+                  <a href="{{feeds[1].link}}">
+                    <img class="thumbnail-news" src="{{feeds[1].enclosure.link | thumbnail}}" alt="" />
+                    <div class="text">
+                      <h4>{{feeds[1].title}}</h4>
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class= "col-md-3">
+                <div class="col-padding">
+                  <a href="{{feeds[10].link}}">
+                    <img class="thumbnail-news" src="{{feeds[10].enclosure.link | thumbnail}}" alt="" />
+                    <div class="text">
+                      <h4>{{feeds[10].title}}</h4>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div class= "col-md-3">
+                <div class="col-padding">
+                  <a href="{{feeds[2].link}}">
+                    <img class="thumbnail-news" src="{{feeds[2].enclosure.link | thumbnail}}" alt="" />
+                    <div class="text">
+                      <h4>{{feeds[2].title}}</h4>
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </section>
-
-  </div>
-
+</div>
 
 
 
-  <!-- <p>
-    This year marks the sixth year anniversy of the start of the civil war. An estimated 11 million Syrians have fled their homes as refugees seeking asylum in other countries. 470,000 people have been killed. and another 13.5 million are in need of humanitarian assistance within the country.
-  </p>
-
-
-  <h2>There are 13.5 million Syrains who need help</h2>
-  <p>6 million have been displaced in Syria</p>
-  <p>4.8 million are refugees outside of Syria</p>
-  <ul>
-    <li>Turkey hosts 2,688,686 registered refugees</li>
-    <li>628,427 registered Syrian refugees in Jordan</li>
-    <li>1,048,275 registered refugees from Syria</li>
-    <li>Iraq hosts 245,543 refugees</li>
-    <li>resettlement happens in many places throughout the world. Including: Argentina, Australia, Austria, Brazil, Canada, Denmark, Germany, Greece, United Kingdom, United States, and many more </li>
-
-    https://en.wikipedia.org/wiki/Refugees_of_the_Syrian_Civil_War
-  </ul>
-
-
-  <p>
-    Syrian refugees referred to the U.S. by the U.N. have been women and children. That’s true — 67 percent have been children under the age of 12 and women, according to State Department data. -->
-
-    <!-- http://www.factcheck.org/2015/11/facts-about-the-syrian-refugees/ -->
-  <!-- </p> -->
-
-
-
-  <!-- <h2>Facts</h2>
-  <ul>
-    <li>13.5 million people in Syria need humanitarian assistance due to a violent war that began in 2011.</li>
-    <li>5 million Syrians are refugees, and 6.3 million are displaced within Syria; half of those affected are children.</li>
-    <li>Children affected by the Syrian refugee crisis are at risk of becoming ill, malnourished, abused, or exploited. Millions have been forced to quit school. View these photos to see life through the eyes of Syrian refugee children.</li>
-    <li>  Most Syrian refugees remain in the Middle East, in Turkey, Lebanon, Jordan, Iraq, and Egypt; slightly more than 10 percent of the refugees have fled to Europe.
-    Peace negotiations continue despite an inconsistent ceasefire.</li>
-    <li>    Within Syria, 95 percent of people lack adequate healthcare, 70 percent lack regular access to clean water. Half the children are out of school. The economy is shattered and four-fifths of the population lives in poverty.</li> -->
-    <!-- https://www.worldvision.org/refugees-news-stories/syria-refugee-crisis-war-facts -->
-<!--
-  </ul> -->
-
-
-  <div class='row'>
+  <div class='row twitter '>
     <div class='col-md-12'>
       <div class="carousel slide media-carousel" id="media">
-        <div class="carousel-inner" *ngIf="tweets" >
+        <div class="carousel-inner container" *ngIf="tweets" >
           <div class="item  active">
             <div class="row">
-              <div class="col-md-4" >
-                <a  class="thumbnail" href="#">
-                <div class="tweets-follow">
-                  <img src="./assets/images/twitter-follow-button.png"  alt="" />
-                </div>
-                <div class="profile">
-                  <img src={{tweets[0].user.profile_image_url}}>
+              <div class="col-md-3 thumbnail first">
+                <div class="header row">
+                  <div class="profile col-md-3">
+                    <img src={{tweets[0].user.profile_image_url}}>
+                  </div>
+                  <div class="names col-md-5">
+                    <p>{{tweets[0].user.name}}</p>
+                    <p class="grey">@{{tweets[0].user.screen_name}}</p>
+                  </div>
+                  <div class="tweets-follow col-md-3">
+                    <img src="./assets/images/twitter-follow-button.png"  alt="" />
+                  </div>
                 </div>
                     <br>
-                    <p>{{tweets[0].text}}</p>
-                    <p>{{tweets[0].created_at}}</p>
-                    <p>{{tweets[0].retweet_count}}</p>
+                    <div class="text-body">
+                      <p>{{tweets[0].text}}</p>
+                      <p class="grey">{{tweets[0].created_at}}</p>
+                    </div>
+                    <div class="retweet">
+                      <p>
+                        <img src="./assets/images/reply.png" alt="" />
 
-                </a>
+                        <img src="./assets/images/tweet.png" alt="" />
+                        {{tweets[0].retweet_count}}
+
+                        <img src="./assets/images/heart.png" alt="" />
+                      </p>
+                    </div>
               </div>
-              <div class="col-md-4">
-                <a class="thumbnail" href="#">
-                <div class="tweets-follow">
-                  <img src="./assets/images/twitter-follow-button.png"  alt="" />
-                </div>
-                <div class="profile">
-                  <img src={{tweets[1].user.profile_image_url}}>
-                </div>
-
+              <div class="col-md-3 thumbnail">
+                <div class="header row">
+                  <div class="profile col-md-3">
+                    <img src={{tweets[1].user.profile_image_url}}>
+                  </div>
+                  <div class="names col-md-5">
                     <p>{{tweets[1].user.name}}</p>
-                    <p>{{tweets[1].text}}</p>
-                    <p>{{tweets[1].created_at}}</p>
-                    <p>{{tweets[1].retweet_count}}</p>
-                </a>
+                    <p class="grey">@{{tweets[1].user.screen_name}}</p>
+                  </div>
+                  <div class="tweets-follow col-md-3">
+                    <img src="./assets/images/twitter-follow-button.png"  alt="" />
+                  </div>
+                </div>
+                    <br>
+                    <div class="text-body">
+                      <p>{{tweets[1].text}}</p>
+                      <p class="grey">{{tweets[1].created_at}}</p>
+                    </div>
+                    <div class="retweet">
+                      <p>
+                        <img src="./assets/images/reply.png" alt="" />
+
+                        <img src="./assets/images/tweet.png" alt="" />
+                        {{tweets[1].retweet_count}}
+
+                        <img src="./assets/images/heart.png" alt="" />
+                      </p>
+                    </div>
               </div>
-              <div class="col-md-4">
-                <a class="thumbnail" href="#">
-                <div class="tweets-follow">
-                  <img src="./assets/images/twitter-follow-button.png"  alt="" />
+              <div class="col-md-3 thumbnail">
+                <div class="header row">
+                  <div class="profile col-md-3">
+                    <img src={{tweets[2].user.profile_image_url}}>
+                  </div>
+                  <div class="names col-md-5">
+                    <p>{{tweets[2].user.name}}</p>
+                    <p class="grey">@{{tweets[2].user.screen_name}}</p>
+                  </div>
+                  <div class="tweets-follow col-md-3">
+                    <img src="./assets/images/twitter-follow-button.png"  alt="" />
+                  </div>
                 </div>
-                <div class="profile">
-                  <img src={{tweets[3].user.profile_image_url}}>
-                </div>
+                    <br>
+                    <div class="text-body">
+                      <p>{{tweets[2].text}}</p>
+                      <p class="grey">{{tweets[2].created_at}}</p>
+                    </div>
+                    <div class="retweet">
+                      <p>
+                        <img src="./assets/images/reply.png" alt="" />
+
+                        <img src="./assets/images/tweet.png" alt="" />
+                        {{tweets[2].retweet_count}}
+
+                        <img src="./assets/images/heart.png" alt="" />
+                      </p>
+                    </div>
+              </div>
+            </div>
+          </div>
+          <div class="item">
+            <div class="row">
+              <div class="col-md-3 thumbnail first">
+                <div class="header row">
+                  <div class="profile col-md-3">
+                    <img src={{tweets[3].user.profile_image_url}}>
+                  </div>
+                  <div class="names col-md-5">
                     <p>{{tweets[3].user.name}}</p>
-                    <p>{{tweets[3].text}}</p>
-                    <p>{{tweets[3].created_at}}</p>
-                    <p>{{tweets[3].retweet_count}}</p>
-                </a>
+                    <p class="grey">@{{tweets[3].user.screen_name}}</p>
+                  </div>
+                  <div class="tweets-follow col-md-3">
+                    <img src="./assets/images/twitter-follow-button.png"  alt="" />
+                  </div>
+                </div>
+                    <br>
+                    <div class="text-body">
+                      <p>{{tweets[3].text}}</p>
+                      <p class="grey">{{tweets[3].created_at}}</p>
+                    </div>
+                    <div class="retweet">
+                      <p>
+                        <img src="./assets/images/reply.png" alt="" />
+
+                        <img src="./assets/images/tweet.png" alt="" />
+                        {{tweets[3].retweet_count}}
+
+                        <img src="./assets/images/heart.png" alt="" />
+                      </p>
+                    </div>
               </div>
-            </div>
-          </div>
-          <div class="item">
-            <div class="row">
-              <div class="col-md-4">
-                <a class="thumbnail" href="#">
-                <div class="tweets-follow">
-                  <img src="./assets/images/twitter-follow-button.png"  alt="" />
-                </div>
-                <div class="profile">
-                  <img src={{tweets[4].user.profile_image_url}}>
-                </div>
+              <div class="col-md-3 thumbnail">
+                <div class="header row">
+                  <div class="profile col-md-3">
+                    <img src={{tweets[4].user.profile_image_url}}>
+                  </div>
+                  <div class="names col-md-5">
                     <p>{{tweets[4].user.name}}</p>
-                    <p>{{tweets[4].text}}</p>
-                    <p>{{tweets[4].created_at}}</p>
-                    <p>{{tweets[4].retweet_count}}</p>
-                </a>
+                    <p class="grey">@{{tweets[4].user.screen_name}}</p>
+                  </div>
+                  <div class="tweets-follow col-md-3">
+                    <img src="./assets/images/twitter-follow-button.png"  alt="" />
+                  </div>
+                </div>
+                    <br>
+                    <div class="text-body">
+                      <p>{{tweets[4].text}}</p>
+                      <p class="grey">{{tweets[4].created_at}}</p>
+                    </div>
+                    <div class="retweet">
+                      <p>
+                        <img src="./assets/images/reply.png" alt="" />
+
+                        <img src="./assets/images/tweet.png" alt="" />
+                        {{tweets[4].retweet_count}}
+
+                        <img src="./assets/images/heart.png" alt="" />
+                      </p>
+                    </div>
               </div>
-              <div class="col-md-4">
-                <a class="thumbnail" href="#">
-                <div class="tweets-follow">
-                  <img src="./assets/images/twitter-follow-button.png"  alt="" />
-                </div>
-                <div class="profile">
-                  <img src={{tweets[5].user.profile_image_url}}>
-                </div>
+              <div class="col-md-3 thumbnail">
+                <div class="header row">
+                  <div class="profile col-md-3">
+                    <img src={{tweets[5].user.profile_image_url}}>
+                  </div>
+                  <div class="names col-md-5">
                     <p>{{tweets[5].user.name}}</p>
-                    <p>{{tweets[5].text}}</p>
-                    <p>{{tweets[5].created_at}}</p>
-                    <p>{{tweets[5].retweet_count}}</p>
-                </a>
-              </div>
-              <div class="col-md-4">
-                <a class="thumbnail" href="#">
-                <div class="tweets-follow">
-                  <img src="./assets/images/twitter-follow-button.png"  alt="" />
+                    <p class="grey">@{{tweets[5].user.screen_name}}</p>
+                  </div>
+                  <div class="tweets-follow col-md-3">
+                    <img src="./assets/images/twitter-follow-button.png"  alt="" />
+                  </div>
                 </div>
-                <div class="profile">
-                  <img src={{tweets[6].user.profile_image_url}}>
-                </div>
-                    <p>{{tweets[6].user.name}}</p>
-                    <p>{{tweets[6].text}}</p>
-                    <p>{{tweets[6].created_at}}</p>
-                    <p>{{tweets[6].retweet_count}}</p>
-                </a>
+                    <br>
+                    <div class="text-body">
+                      <p>{{tweets[5].text}}</p>
+                      <p class="grey">{{tweets[5].created_at}}</p>
+                    </div>
+                    <div class="retweet">
+                      <p>
+                        <img src="./assets/images/reply.png" alt="" />
+
+                        <img src="./assets/images/tweet.png" alt="" />
+                        {{tweets[5].retweet_count}}
+
+                        <img src="./assets/images/heart.png" alt="" />
+                      </p>
+                    </div>
               </div>
             </div>
           </div>
           <div class="item">
             <div class="row">
-              <div class="col-md-4">
-                <a class="thumbnail" href="#">
-                <div class="tweets-follow">
-                  <img src="./assets/images/twitter-follow-button.png"  alt="" />
+              <div class="col-md-3 first thumbnail">
+                <div class="header row">
+                  <div class="profile col-md-3">
+                    <img src={{tweets[6].user.profile_image_url}}>
+                  </div>
+                  <div class="names col-md-5">
+                    <p>{{tweets[6].user.name}}</p>
+                    <p class="grey">@{{tweets[6].user.screen_name}}</p>
+                  </div>
+                  <div class="tweets-follow col-md-3">
+                    <img src="./assets/images/twitter-follow-button.png"  alt="" />
+                  </div>
                 </div>
-                <div class="profile">
-                  <img src={{tweets[7].user.profile_image_url}}>
-                </div>
+                    <br>
+                    <div class="text-body">
+                      <p>{{tweets[6].text}}</p>
+                      <p class="grey">{{tweets[6].created_at}}</p>
+                    </div>
+                    <div class="retweet">
+                      <p>
+                        <img src="./assets/images/reply.png" alt="" />
+
+                        <img src="./assets/images/tweet.png" alt="" />
+                        {{tweets[6].retweet_count}}
+
+                        <img src="./assets/images/heart.png" alt="" />
+                      </p>
+                    </div>
+              </div>
+              <div class="col-md-3 thumbnail">
+                <div class="header row">
+                  <div class="profile col-md-3">
+                    <img src={{tweets[7].user.profile_image_url}}>
+                  </div>
+                  <div class="names col-md-5">
                     <p>{{tweets[7].user.name}}</p>
-                    <p>{{tweets[7].text}}</p>
-                    <p>{{tweets[7].created_at}}</p>
-                    <p>{{tweets[7].retweet_count}}</p>
-                </a>
+                    <p class="grey">@{{tweets[7].user.screen_name}}</p>
+                  </div>
+                  <div class="tweets-follow col-md-3">
+                    <img src="./assets/images/twitter-follow-button.png"  alt="" />
+                  </div>
+                </div>
+                    <br>
+                    <div class="text-body">
+                      <p>{{tweets[7].text}}</p>
+                      <p class="grey">{{tweets[7].created_at}}</p>
+                    </div>
+                    <div class="retweet">
+                      <p>
+                        <img src="./assets/images/reply.png" alt="" />
+
+                        <img src="./assets/images/tweet.png" alt="" />
+                        {{tweets[7].retweet_count}}
+
+                        <img src="./assets/images/heart.png" alt="" />
+                      </p>
+                    </div>
               </div>
-              <div class="col-md-4">
-                <a class="thumbnail" href="#">
-                <div class="tweets-follow">
-                  <img src="./assets/images/twitter-follow-button.png"  alt="" />
-                </div>
-                <div class="profile">
-                  <img src={{tweets[8].user.profile_image_url}}>
-                </div>
+              <div class="col-md-3 thumbnail">
+                <div class="header row">
+                  <div class="profile col-md-3">
+                    <img src={{tweets[8].user.profile_image_url}}>
+                  </div>
+                  <div class="names col-md-5">
                     <p>{{tweets[8].user.name}}</p>
-                    <p>{{tweets[8].text}}</p>
-                    <p>{{tweets[8].created_at}}</p>
-                    <p>{{tweets[8].retweet_count}}</p>
-                </a>
-              </div>
-              <div class="col-md-4">
-                <a class="thumbnail" href="#">
-                <div class="tweets-follow">
-                  <img src="./assets/images/twitter-follow-button.png"  alt="" />
+                    <p class="grey">@{{tweets[8].user.screen_name}}</p>
+                  </div>
+                  <div class="tweets-follow col-md-3">
+                    <img src="./assets/images/twitter-follow-button.png"  alt="" />
+                  </div>
                 </div>
-                <div class="profile">
-                  <img src={{tweets[9].user.profile_image_url}}>
-                </div>
-                    <p>{{tweets[9].user.name}}</p>
-                    <p>{{tweets[9].text}}</p>
-                    <p>{{tweets[9].created_at}}</p>
-                    <p>{{tweets[9].retweet_count}}</p>
-                </a>
+                    <br>
+                    <div class="text-body">
+                      <p>{{tweets[8].text}}</p>
+                      <p class="grey">{{tweets[8].created_at}}</p>
+                    </div>
+                    <div class="retweet">
+                      <p>
+                        <img src="./assets/images/reply.png" alt="" />
+
+                        <img src="./assets/images/tweet.png" alt="" />
+                        {{tweets[8].retweet_count}}
+
+                        <img src="./assets/images/heart.png" alt="" />
+                      </p>
+                    </div>
               </div>
             </div>
           </div>
         </div>
         <a data-slide="prev" href="#media" class="left carousel-control"></a>
-        <a data-slide="next" href="#media" class="right carousel-control">›</a>
+        <a data-slide="next" href="#media" class="right carousel-control"></a>
       </div>
     </div>
 
 </div>
-
-  <!-- <h4>TWITTER FEED</h4>
-    <ul *ngFor="let tweet of tweets">
-      <img src={{tweets.user.profile_image_url}}>
-      <li>{{tweets.user.name}}</li>
-      <li>{{tweet.text}}</li>
-    </ul> -->
 
 </div>

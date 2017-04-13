@@ -53,30 +53,10 @@ section {
 }
 
 
-@media ( min-width: 768px ) {
-    .grid-divider {
-        position: relative;
-        padding: 0;
-    }
-    .grid-divider>[class*='col-'] {
-        position: static;
-    }
-    .grid-divider>[class*='col-']:nth-child(n+2):before {
-        content: "";
-        border-left: 1px solid #DDD;
-        position: absolute;
-        top: 0;
-        bottom: 0;
-    }
-    .col-padding {
-        padding: 0 15px;
-    }
-}
-
 
 
 .thumbnail-news1 {
-  height: 200px;
+  height: 100px;
   width: 90%;
 }
 
@@ -101,7 +81,6 @@ section {
 }
 
 .feature-article {
-  margin-top: 40px;
 }
 
 /* unvisited link */
@@ -124,9 +103,13 @@ a:active {
     color:black;
 }
 
+/*
+#carousel {
+  margin-left: 120px;
+}*/
 
 
-.panel-default{
+/*.panel-default{
     text-align:center;
     cursor:pointer;
     font-family: 'Raleway',sans-serif;
@@ -143,7 +126,7 @@ color: #ffffff;
 .buttons-panel {
   align-items: center;
   text-align: center;
-}
+}*/
 
 
 
@@ -159,28 +142,13 @@ color: #ffffff;
 /* Previous button  */
 .media-carousel .carousel-control.left
 {
-  left: -12px;
   background-image: none;
-  background: none repeat scroll 0 0 #222222;
-  border: 4px solid #FFFFFF;
-  border-radius: 23px 23px 23px 23px;
-  height: 40px;
-  width : 40px;
-  margin-top: 30px;
-  display: none;
+  background: none
 }
 /* Next button  */
-.media-carousel .carousel-control.right
-{
-  right: -12px !important;
+.media-carousel .carousel-control.right{
   background-image: none;
-  background: none repeat scroll 0 0 #222222;
-  border: 4px solid #FFFFFF;
-  border-radius: 23px 23px 23px 23px;
-  height: 40px;
-  width : 40px;
-  margin-top: 30px;
-  display: none;
+  background: none
 }
 /* Changes the position of the indicators */
 .media-carousel .carousel-indicators
@@ -207,13 +175,163 @@ color: #ffffff;
 
 
 
-
 .tweets-follow img{
   height: 50px;
-  width: 100px;
+  width: 90px;
 }
 
 .profile img{
   height: 50px;
   width: 50px;
+}
+
+.names{
+  text-align: left;
+  margin-left: -20px;
+}
+
+.text-body {
+  text-align: left;
+}
+
+.grey{
+  color: grey;
+}
+
+.thumbnail{
+  margin: 10px;
+}
+
+.retweet img {
+  height: 15px;
+  width: 20px;
+  margin-left: 10px;
+}
+
+.twitter{
+  background-color: #dbdbdb;
+
+}
+.retweet{
+  text-align: left;
+}
+
+.first{
+  margin-left: 120px;
+}
+
+.media-carousel .thumbnail {
+  height: 250px;
+}
+
+
+.graph{
+  margin-left: -30px;
+
+}
+.graphs{
+    background-color: #eaebed;
+}
+/*.top-margin {
+  height: 80px;
+}*/
+
+.text-graph{
+    text-align: right;
+    margin-top: 50px;
+    background-color: #eaebed;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 3%;
+
+}
+
+
+
+.highlight{
+  color: black;
+}
+
+.color-text{
+  color: #ff5033;
+  font-weight: bold;
+}
+
+.mission blockquote{
+  color: #ff5033;
+}
+
+.mission h4{
+  margin-left: 40px;
+}
+
+.mission {
+  margin-top: 75px;
+  height: 250px;
+}
+
+.news blockquote {
+  margin-top: 50px;
+  color: #ff5033;
+}
+
+.news .carousel-inner {
+  margin-top: -70px;
+}
+
+
+.three-view {
+  text-align: center;
+  margin-top: 100px;
+    background-color: #fc6249;
+    height: 500px;
+}
+
+.icons {
+    height: 100px;
+    background-color: orange;
+  }
+
+.title-icon{
+  color:#afafaf;
+}
+
+.each {
+  background-color: white;
+  margin-left: 60px;
+  margin-right: 60px;
+  padding: 10px;
+  margin-top: 100px;
+  border-radius: 3%;
+  height: 300px;
+}
+
+
+
+.mainpic {
+  width: 100%;
+  height: 600px;
+  margin-top: -50px;
+}
+
+.heading{
+  background-color: #eaebed;
+}
+
+.title {
+    background-color: #eaebed;
+
+}
+.mission {
+  background-color: white;
+  margin-top: -100px;
+  color: black;
+  height: 200px;
+  font-size: 60px;
+  font-weight: bolder;
+  opacity: 1;
+
+}
+
+.graphs {
 }

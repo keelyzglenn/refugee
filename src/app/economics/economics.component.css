@@ -124,6 +124,7 @@ body {
   width: 300px;
   margin-bottom: 35px;
   border-left: #ff725b 3px solid;
+  height: 40%;
 }
 
 .card-img-top:hover {

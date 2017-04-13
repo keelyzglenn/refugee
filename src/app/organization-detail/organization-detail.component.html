@@ -14,10 +14,10 @@
     <div class="row">
       <div *ngFor="let contact of (organizationToDisplay | async)?.contact" class="col-md-4">
         <div *ngIf="contact.contact">
-          <h3 style="font-weight:bold" >{{contact.contact}} - {{contact.country}}</h3>
+          <h3 style="font-weight:bold">{{contact.contact}} - {{contact.country}}</h3>
           <h4 *ngIf="contact.title">{{contact.title}}</h4>
           <h4 *ngIf="contact.email">{{contact.email}}</h4>
-        </div>        
+        </div>
       </div>
     </div>
   </div>
