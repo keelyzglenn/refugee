@@ -25,7 +25,7 @@ const appRoutes: Routes = [
   },
   {
     path: 'how-to-help',
-    component: HowToHelpComponent
+    loadChildren: './how-to-help/help.module#HelpModule'
   },
   {
     path: 'volunteers/:id',
@@ -49,7 +49,7 @@ const appRoutes: Routes = [
   },
   {
     path: 'health',
-    component: HealthComponent
+    loadChildren: './health/health.module#HealthModule'
   },
   {
     path: 'education',
@@ -57,11 +57,11 @@ const appRoutes: Routes = [
   },
   {
     path: 'economics',
-    component: EconomicsComponent
+    loadChildren: './economics/economics.module#EconomicsModule'
   },
   {
     path: 'children',
-    component: ChildrenComponent
+    loadChildren: './children/children.module#ChildrenModule'
   }
 ];
 

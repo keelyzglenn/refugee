@@ -39,6 +39,7 @@
   font-style: italic;
   box-shadow: 5px 5px 5px grey;
   width: 900px;
+  font-family: 'Raleway',sans-serif;
 }
 
 .video {
@@ -144,6 +145,7 @@ body {
 
 .item {
   height: 384px;
+  font-family: 'Raleway',sans-serif; 
 }
 
 .btn:hover {

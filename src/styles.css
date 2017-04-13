@@ -4,6 +4,15 @@ html body {
   font-family: 'Lora', serif;
 }
 
+h1 h2 h3 {
+  font-family: 'Raleway',sans-serif
+}
+
+h4 h5 h6 li p {
+  font-weight: lighter;
+  font-family: 'Raleway',sans-serif
+}
+
 .video-section {
   text-align: center;
 }
