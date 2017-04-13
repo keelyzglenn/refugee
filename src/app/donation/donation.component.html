@@ -2,15 +2,17 @@
 
   <h1 class="donate-heading">Donate To The Syrian Refugee Crisis</h1>
   <div class="row">
-    <div class="col-md-6">
-      <img class="fire-img" src="/assets/images/fire.jpeg" alt="">
+    <div>
+      <img class="fire-img" src="/assets/images/tents.jpg" alt="">
     </div>
 
   </div>
 
+<div class="row">
+<div class="col-md-6">
   <form class="donate-form">
-    <label>Choose a Donation Amount:</label>
-    <br>
+    <label><h2>Choose a Donation Amount:</h2></label>
+    <hr>
     <input type="radio" name="donation" [(ngModel)]="model.total" [value]="5" checked>$5.00<br>
     <input type="radio" name="donation" [(ngModel)]="model.total" [value]="10">$10.00<br>
     <input type="radio" name="donation" [(ngModel)]="model.total" [value]="30">$30.00<br>
@@ -20,11 +22,14 @@
     <br>
     <button type="button" class="btn btn-default" data-toggle="modal" data-target=".modal1">Make Your Donation!</button>
   </form>
-
-<div class="row">
+  </div>
+    <div class="col-md-6"></div>
+</div>
+</div>
+<!-- <div class="row">
   <h1>Amount Donated:</h1>
 </div>
-</div>
+</div> -->
 
 
 <div class="modal modal1 fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">

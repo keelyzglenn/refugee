@@ -6,14 +6,16 @@
 .donate-form {
   font-size: 20px;
   /*border: 1px solid black;*/
-  padding: 70px;
-  padding-bottom: 50px; 
-  width: 500px;
-  margin-top: -30%;
+  padding: 30px;
+  padding-bottom: 50px;
+  position: absolute;
+  width: 600px;
+  margin-top: -15%;
   z-index: 1;
   /*border-radius: 20%;*/
   box-shadow: 5px 5px 5px grey;
-
+  background-color: white;
+  margin-bottom: 50px;
 }
 
 .donate-heading {
@@ -67,11 +69,13 @@ body { margin-top:20px; }
   min-width: 180px;
 }
 .fire-img {
-  width: 600px;
+  opacity: 0.5;
+  text-align: center;
   padding: 40px;
+  width: 100%;
   position: relative;
 }
 
-.container {
-  margin-bottom: 40px;
-}
+/*.container {
+  padding-bottom: 100px;
+}*/
