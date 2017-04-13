@@ -33,6 +33,6 @@ $(window).load(function() {
 $(document).ready(function () {
     $('#media').carousel({
         pause: true,
-        interval: 1000,
+        interval: 4000,
     });
 });

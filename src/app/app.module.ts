@@ -17,7 +17,6 @@ import { OrganizationComponent } from './organization/organization.component';
 import { OrganizationDetailComponent } from './organization-detail/organization-detail.component';
 import { HealthComponent } from './health/health.component';
 import { ForRefugeesComponent } from './for-refugees/for-refugees.component';
-import { EducationComponent } from './education/education.component';
 import { ChildrenComponent } from './children/children.component';
 import { EconomicsComponent } from './economics/economics.component';
 import { Angular2FontAwesomeModule } from 'angular2-font-awesome/angular2-font-awesome';
@@ -43,10 +42,8 @@ export const firebaseConfig = {
     VolunteerFilterPipe,
     OrganizationComponent,
     OrganizationDetailComponent,
-    EducationComponent,
     HealthComponent,
     ForRefugeesComponent,
-    EducationComponent,
     ChildrenComponent,
     EconomicsComponent,
     ThumbnailPipe,

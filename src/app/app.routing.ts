@@ -53,7 +53,7 @@ const appRoutes: Routes = [
   },
   {
     path: 'education',
-    component: EducationComponent
+    loadChildren: './education/education.module#EducationModule'
   },
   {
     path: 'economics',
