@@ -1,6 +1,5 @@
 
 $(document).ready(function(){
-
 	var clickEvent = false;
 	$('#myCarousel').carousel({
 		interval:   4000
@@ -32,8 +31,8 @@ $(window).load(function() {
 
 
 $(document).ready(function () {
-            $('#media').carousel({
-                pause: true,
-                interval: 5200,
-            });
-        });
+    $('#media').carousel({
+        pause: true,
+        interval: 1000,
+    });
+});
