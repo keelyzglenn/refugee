@@ -18,7 +18,6 @@
   text-align: center;
 }
 
-<<<<<<< HEAD
 /*Credit Card CSS*/
 
 /* Padding - just for asthetics on Bootsnipp.com */
@@ -63,8 +62,8 @@ body { margin-top:20px; }
 }
 /* Just looks nicer */
 .credit-card-box .panel-heading img {
-    min-width: 180px;
-=======
+  min-width: 180px;
+}
 .fire-img {
   width: 600px;
   padding: 40px;
@@ -72,5 +71,4 @@ body { margin-top:20px; }
 
 .container {
   margin-bottom: 40px;
->>>>>>> 76e6339c07f6717eee16513ffed9b9b8e2187ae4
 }

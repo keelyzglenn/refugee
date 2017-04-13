@@ -145,12 +145,11 @@ body {
   height: 384px;
 }
 
-<<<<<<< HEAD
-h1, h2 {
+h1 h2 {
   font-family: 'Raleway',sans-serif;
-=======
+}
+
 .btn:hover {
   background-color: #ff5033;
   color: white;
->>>>>>> 76e6339c07f6717eee16513ffed9b9b8e2187ae4
 }
