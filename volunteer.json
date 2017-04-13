@@ -134,5 +134,20 @@
       "acronym": "GBV",
       "url": "stopabuse.com"
     }
+  ],
+  "organizations": [
+    {
+      "type": "Health",
+      "acronym": "HLT",
+      "url": "fakeurl.org"
+    }, {
+      "type": "Food Assistance",
+      "acronym": "FA",
+      "url": "yummy.com"
+    }, {
+      "type": "Gender-Based Violence",
+      "acronym": "GBV",
+      "url": "stopabuse.com"
+    }
   ]
 }

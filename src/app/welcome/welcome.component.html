@@ -36,6 +36,9 @@
 
     </div>
   </div>
+  <br>
+  <br>
+  <br>
 </div>
 
   <div class="three-view">
@@ -75,7 +78,7 @@
   </blockquote>
   <section id="carousel">
     <div class="row">
-      <div class="carousel slide" id="fade-quote-carousel" data-ride="carousel" data-interval="9000">
+      <div class="carousel slide" id="fade-quote-carousel" data-ride="carousel" data-interval="3000">
         <!-- Carousel indicators -->
         <ol class="carousel-indicators">
           <p data-target="#fade-quote-carousel" data-slide-to="0" class="active"></p>
@@ -87,8 +90,100 @@
         <!-- Carousel items -->
         <div class="carousel-inner" *ngIf="feeds">
           <div class="active item">
-            <div class="row">
+            <div class="row first-set">
               <div class="col-sm-3">
+                <div class="col-padding">
+                  <a href="{{feeds[0].link}}">
+                    <img class="thumbnail-news" src="{{feeds[0].enclosure.link | thumbnail}}" alt="" />
+                    <div class="text">
+                      <h4>{{feeds[0].title}}</h4>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div class="col-sm-3 feature-article">
+                <div class="col-padding">
+                  <a href="{{feeds[1].link}}">
+                    <img class="thumbnail-news1" src="{{feeds[1].enclosure.link | thumbnail}}" alt="" />
+                    <div class="text">
+                      <h4>{{feeds[1].title}}</h4>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div class="col-sm-3">
+                <div class="col-padding">
+                  <a href="{{feeds[3].link}}">
+                    <img class="thumbnail-news" src="{{feeds[3].enclosure.link | thumbnail}}" alt="" />
+                    <div class="text">
+                      <h4>{{feeds[3].title}}</h4>
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="row second-set">
+
+              <div class= "col-md-3">
+                <div class="col-padding">
+                  <a href="{{feeds[4].link}}">
+                    <img class="thumbnail-news" src="{{feeds[4].enclosure.link | thumbnail}}" alt="" />
+                    <div class="text">
+                      <h4>{{feeds[4].title}}</h4>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div class= "col-md-3">
+                <div class="col-padding">
+                  <a href="{{feeds[5].link}}">
+                    <img class="thumbnail-news" src="{{feeds[5].enclosure.link | thumbnail}}" alt="" />
+                    <div class="text">
+                      <h4>{{feeds[5].title}}</h4>
+                    </div>
+                  </a>
+                </div>
+              </div>
+
+            </div>
+          </div>
+
+
+          <div class=" item">
+            <div class="row first-set">
+              <div class="col-sm-3">
+                <div class="col-padding">
+                  <a href="{{feeds[6].link}}">
+                    <img class="thumbnail-news" src="{{feeds[6].enclosure.link | thumbnail}}" alt="" />
+                    <div class="text">
+                      <h4>{{feeds[6].title}}</h4>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div class="col-sm-3 feature-article">
+                <div class="col-padding">
+                  <a href="{{feeds[7].link}}">
+                    <img class="thumbnail-news1" src="{{feeds[7].enclosure.link | thumbnail}}" alt="" />
+                    <div class="text">
+                      <h4>{{feeds[7].title}}</h4>
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div class="col-sm-3">
+                <div class="col-padding">
+                  <a href="{{feeds[8].link}}">
+                    <img class="thumbnail-news" src="{{feeds[8].enclosure.link | thumbnail}}" alt="" />
+                    <div class="text">
+                      <h4>{{feeds[8].title}}</h4>
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="row second-set">
+              <div class= "col-md-3">
                 <div class="col-padding">
                   <a href="{{feeds[9].link}}">
                     <img class="thumbnail-news" src="{{feeds[9].enclosure.link | thumbnail}}" alt="" />
@@ -98,44 +193,12 @@
                   </a>
                 </div>
               </div>
-              <div class="col-sm-3 feature-article">
-                <div class="col-padding">
-                  <a href="{{feeds[0].link}}">
-                    <img class="thumbnail-news1" src="{{feeds[0].enclosure.link | thumbnail}}" alt="" />
-                    <div class="text">
-                      <h4>{{feeds[0].title}}</h4>
-                    </div>
-                  </a>
-                </div>
-              </div>
-              <div class="col-sm-3">
-                <div class="col-padding">
-                  <a href="{{feeds[1].link}}">
-                    <img class="thumbnail-news" src="{{feeds[1].enclosure.link | thumbnail}}" alt="" />
-                    <div class="text">
-                      <h4>{{feeds[1].title}}</h4>
-                    </div>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="row">
               <div class= "col-md-3">
                 <div class="col-padding">
                   <a href="{{feeds[10].link}}">
                     <img class="thumbnail-news" src="{{feeds[10].enclosure.link | thumbnail}}" alt="" />
                     <div class="text">
                       <h4>{{feeds[10].title}}</h4>
-                    </div>
-                  </a>
-                </div>
-              </div>
-              <div class= "col-md-3">
-                <div class="col-padding">
-                  <a href="{{feeds[2].link}}">
-                    <img class="thumbnail-news" src="{{feeds[2].enclosure.link | thumbnail}}" alt="" />
-                    <div class="text">
-                      <h4>{{feeds[2].title}}</h4>
                     </div>
                   </a>
                 </div>
@@ -143,122 +206,67 @@
             </div>
           </div>
 
-
           <div class="item">
-            <div class="row">
+            <div class="row first-set">
               <div class="col-sm-3">
                 <div class="col-padding">
-                  <a href="{{feeds[9].link}}">
-                    <img class="thumbnail-news" src="{{feeds[9].enclosure.link | thumbnail}}" alt="" />
+                  <a href="{{feeds[11].link}}">
+                    <img class="thumbnail-news" src="{{feeds[11].enclosure.link | thumbnail}}" alt="" />
                     <div class="text">
-                      <h4>{{feeds[9].title}}</h4>
+                      <h4>{{feeds[11].title}}</h4>
                     </div>
                   </a>
                 </div>
               </div>
               <div class="col-sm-3 feature-article">
                 <div class="col-padding">
-                  <a href="{{feeds[0].link}}">
-                    <img class="thumbnail-news1" src="{{feeds[0].enclosure.link | thumbnail}}" alt="" />
+                  <a href="{{feeds[12].link}}">
+                    <img class="thumbnail-news1" src="{{feeds[12].enclosure.link | thumbnail}}" alt="" />
                     <div class="text">
-                      <h4>{{feeds[0].title}}</h4>
+                      <h4>{{feeds[12].title}}</h4>
                     </div>
                   </a>
                 </div>
               </div>
               <div class="col-sm-3">
                 <div class="col-padding">
-                  <a href="{{feeds[1].link}}">
-                    <img class="thumbnail-news" src="{{feeds[1].enclosure.link | thumbnail}}" alt="" />
+                  <a href="{{feeds[13].link}}">
+                    <img class="thumbnail-news" src="{{feeds[13].enclosure.link | thumbnail}}" alt="" />
                     <div class="text">
-                      <h4>{{feeds[1].title}}</h4>
+                      <h4>{{feeds[13].title}}</h4>
                     </div>
                   </a>
                 </div>
               </div>
             </div>
-            <div class="row">
+            <div class="row second-set">
               <div class= "col-md-3">
                 <div class="col-padding">
-                  <a href="{{feeds[10].link}}">
-                    <img class="thumbnail-news" src="{{feeds[10].enclosure.link | thumbnail}}" alt="" />
+                  <a href="{{feeds[14].link}}">
+                    <img class="thumbnail-news" src="{{feeds[14].enclosure.link | thumbnail}}" alt="" />
                     <div class="text">
-                      <h4>{{feeds[10].title}}</h4>
+                      <h4>{{feeds[14].title}}</h4>
                     </div>
                   </a>
                 </div>
               </div>
               <div class= "col-md-3">
                 <div class="col-padding">
-                  <a href="{{feeds[2].link}}">
-                    <img class="thumbnail-news" src="{{feeds[2].enclosure.link | thumbnail}}" alt="" />
+                  <a href="{{feeds[15].link}}">
+                    <img class="thumbnail-news" src="{{feeds[15].enclosure.link | thumbnail}}" alt="" />
                     <div class="text">
-                      <h4>{{feeds[2].title}}</h4>
+                      <h4>{{feeds[15].title}}</h4>
                     </div>
                   </a>
                 </div>
               </div>
             </div>
           </div>
-          <div class="item">
-            <div class="row">
-              <div class="col-sm-3">
-                <div class="col-padding">
-                  <a href="{{feeds[9].link}}">
-                    <img class="thumbnail-news" src="{{feeds[9].enclosure.link | thumbnail}}" alt="" />
-                    <div class="text">
-                      <h4>{{feeds[9].title}}</h4>
-                    </div>
-                  </a>
-                </div>
-              </div>
-              <div class="col-sm-3 feature-article">
-                <div class="col-padding">
-                  <a href="{{feeds[0].link}}">
-                    <img class="thumbnail-news1" src="{{feeds[0].enclosure.link | thumbnail}}" alt="" />
-                    <div class="text">
-                      <h4>{{feeds[0].title}}</h4>
-                    </div>
-                  </a>
-                </div>
-              </div>
-              <div class="col-sm-3">
-                <div class="col-padding">
-                  <a href="{{feeds[1].link}}">
-                    <img class="thumbnail-news" src="{{feeds[1].enclosure.link | thumbnail}}" alt="" />
-                    <div class="text">
-                      <h4>{{feeds[1].title}}</h4>
-                    </div>
-                  </a>
-                </div>
-              </div>
-            </div>
-            <div class="row">
-              <div class= "col-md-3">
-                <div class="col-padding">
-                  <a href="{{feeds[10].link}}">
-                    <img class="thumbnail-news" src="{{feeds[10].enclosure.link | thumbnail}}" alt="" />
-                    <div class="text">
-                      <h4>{{feeds[10].title}}</h4>
-                    </div>
-                  </a>
-                </div>
-              </div>
-              <div class= "col-md-3">
-                <div class="col-padding">
-                  <a href="{{feeds[2].link}}">
-                    <img class="thumbnail-news" src="{{feeds[2].enclosure.link | thumbnail}}" alt="" />
-                    <div class="text">
-                      <h4>{{feeds[2].title}}</h4>
-                    </div>
-                  </a>
-                </div>
-              </div>
-            </div>
+
           </div>
         </div>
       </div>
-    </div>
+    <!-- </div> -->
   </section>
 </div>
 

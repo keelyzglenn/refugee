@@ -103,10 +103,14 @@ a:active {
     color:black;
 }
 
-/*
-#carousel {
-  margin-left: 120px;
-}*/
+
+.news {
+  margin-left: 300px;
+}
+
+.news blockquote {
+  margin-left: -200px;
+}
 
 
 /*.panel-default{
@@ -282,7 +286,6 @@ color: #ffffff;
 
 .three-view {
   text-align: center;
-  margin-top: 100px;
     background-color: #fc6249;
     height: 500px;
 }
@@ -333,5 +336,7 @@ color: #ffffff;
 
 }
 
-.graphs {
+.second-set{
+  margin-top: 100px;
+  margin-left: 150px;
 }
