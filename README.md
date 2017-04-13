@@ -13,6 +13,8 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+Run `npm install --save ng2-bs3-modal` and `npm install --save font-awesome angular2-font-awesome` for specific styles.
+Run `npm install -D @types/jquery` for credit card function.  
 
 ## Running unit tests
 
@@ -26,9 +28,3 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-
-
-<!-- npm install --save ng2-bs3-modal -->
-<!-- npm install --save font-awesome angular2-font-awesome -->
-<!-- npm install --save jquery
-npm install -D @types/jquery  -->

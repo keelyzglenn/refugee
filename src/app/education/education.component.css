@@ -1,6 +1,8 @@
 .mainpic {
   width: 100%;
   margin-top: -10%;
+  font-family: 'Raleway',sans-serif
+
 }
 
 .resources-list {
@@ -36,11 +38,13 @@
   font-style: italic;
   box-shadow: 5px 5px 5px grey;
   width: 900px;
+  font-family: 'Raleway',sans-serif
 }
 
 .video {
   margin: 30px;
   /*margin-left: 50px;*/
+
 }
 
 .circle {
@@ -52,6 +56,8 @@
   margin-left: 50px;
   float: left;
   margin-top: 40px;
+  font-family: 'Raleway',sans-serif
+
 }
 
 .circle2 {
@@ -63,11 +69,17 @@
   margin-left: 50px;
   float: right;
   margin-right: 50px;
+  font-family: 'Raleway',sans-serif
+
 }
 
 .resources {
   padding-top: 45px;
   text-align: center;
+}
+
+.resources-list {
+  font-family: 'Raleway',sans-serif
 }
 
 .current-title {
@@ -79,6 +91,7 @@
   float: right;
   margin-top: 40px;
   margin-right: 40px;
+  font-family: 'Raleway',sans-serif
 }
 
 body {
@@ -93,6 +106,7 @@ body {
 	padding:10px;
 	background:rgba(0,0,0,0.6);
 	text-shadow:none;
+  font-family: 'Raleway',sans-serif
 }
 
 #myCarousel .list-group {
@@ -103,6 +117,7 @@ body {
 #myCarousel .list-group-item {
 	border-radius:0px;
 	cursor:pointer;
+  font-family: 'Raleway',sans-serif
 }
 #myCarousel .list-group .active {
 	background-color:#ff725b;
@@ -127,6 +142,7 @@ body {
   height: 544px;
   display: inline-block;
   float: left;
+  font-family: 'Raleway',sans-serif
 }
 
 .card-img-top {

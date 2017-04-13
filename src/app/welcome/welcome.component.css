@@ -243,6 +243,7 @@ color: #ffffff;
     padding-left: 20px;
     padding-right: 20px;
     border-radius: 3%;
+    font-family: 'Raleway',sans-serif
 
 }
 
@@ -277,6 +278,8 @@ color: #ffffff;
 
 .news .carousel-inner {
   margin-top: -70px;
+  font-family: 'Raleway',sans-serif
+
 }
 
 
@@ -284,6 +287,8 @@ color: #ffffff;
   text-align: center;
     background-color: #fc6249;
     height: 500px;
+    font-family: 'Raleway',sans-serif
+
 }
 
 .icons {
@@ -329,7 +334,7 @@ color: #ffffff;
   font-size: 60px;
   font-weight: bolder;
   opacity: 1;
-
+  font-family: 'Raleway',sans-serif
 }
 
 

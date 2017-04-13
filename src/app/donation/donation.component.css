@@ -5,6 +5,7 @@
 
 .donate-form {
   font-size: 20px;
+  font-family: 'Raleway',sans-serif;
   /*border: 1px solid black;*/
   padding: 30px;
   padding-bottom: 50px;
@@ -20,6 +21,7 @@
 
 .donate-heading {
   text-align: center;
+  font-family: 'Raleway',sans-serif
 }
 
 /*Credit Card CSS*/
@@ -79,3 +81,7 @@ body { margin-top:20px; }
 /*.container {
   padding-bottom: 100px;
 }*/
+
+.modal-form {
+  font-family: 'Raleway',sans-serif
+}
