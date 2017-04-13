@@ -8,7 +8,8 @@
   /*border: 1px solid black;*/
   padding: 70px;
   width: 500px;
-  /*margin-top: 40px;*/
+  margin-top: -30%;
+  z-index: 1;
   /*border-radius: 20%;*/
   box-shadow: 5px 5px 5px grey;
 
@@ -67,6 +68,7 @@ body { margin-top:20px; }
 .fire-img {
   width: 600px;
   padding: 40px;
+  position: relative;
 }
 
 .container {
