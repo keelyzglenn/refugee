@@ -80,10 +80,6 @@ html body {
   backface-visibility: hidden;
 }
 
-.organization-detail-container {
-
-}
-
 .organizational-contact-container {
   color: white;
   margin-top: 150px;
@@ -105,4 +101,43 @@ html body {
 
 .organization-contacts {
   font-size: 35px;
+}
+
+.organization-bottom-full {
+  padding: 60px 10px;
+  background-color: #545454;
+}
+
+.organization-category-list {
+  padding: 20px;
+}
+
+.organization-category-column {
+  margin-left: 30px;
+  color: white;
+}
+
+.organization-category-column h4 {
+  color: #ff6d56;
+}
+
+.organization-categories {
+  font-size: 25px;
+}
+
+.organization-upper-container {
+  margin: 60px;
+}
+
+.organization-upper-container h2 {
+  margin-bottom: 20px;
+}
+
+.organization-title h1 {
+  font-size: 90px;
+  margin-bottom: 70px;
+}
+
+options {
+  color: black;
 }
