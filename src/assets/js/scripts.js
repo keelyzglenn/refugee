@@ -28,3 +28,12 @@ $(window).load(function() {
     var triggerheight = Math.round(boxheight/itemlength+1);
 	$('#myCarousel .list-group-item').outerHeight(triggerheight);
 });
+
+
+
+$(document).ready(function () {
+            $('#media').carousel({
+                pause: true,
+                interval: 5200,
+            });
+        });

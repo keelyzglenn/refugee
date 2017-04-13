@@ -5,18 +5,20 @@
 
 .donate-form {
   font-size: 20px;
-  border: 1px solid black;
+  /*border: 1px solid black;*/
   padding: 70px;
   width: 500px;
-  margin-top: 40px;
+  /*margin-top: 40px;*/
   /*border-radius: 20%;*/
   box-shadow: 5px 5px 5px grey;
+
 }
 
 .donate-heading {
   text-align: center;
 }
 
+<<<<<<< HEAD
 /*Credit Card CSS*/
 
 /* Padding - just for asthetics on Bootsnipp.com */
@@ -62,4 +64,13 @@ body { margin-top:20px; }
 /* Just looks nicer */
 .credit-card-box .panel-heading img {
     min-width: 180px;
+=======
+.fire-img {
+  width: 600px;
+  padding: 40px;
+}
+
+.container {
+  margin-bottom: 40px;
+>>>>>>> 76e6339c07f6717eee16513ffed9b9b8e2187ae4
 }

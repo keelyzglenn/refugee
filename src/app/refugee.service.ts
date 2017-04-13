@@ -26,8 +26,9 @@ export class RefugeeService {
       var allOrg = data[0].whos_doing_what_where;
       console.log(data[0]);
       allOrg.forEach(organization => {
-        var newOrganization = new Organization(organization.sector_name_en,organization.organization_acronym, organization.organization_url);
-        this.organizations.push(newOrganization);
+        console.log(organization);
+        // var newOrganization = new Organization(organization.sector_name_en,organization.organization_acronym, organization.organization_url);
+        // this.organizations.push(newOrganization);
       });
     });
     }

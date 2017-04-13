@@ -1,3 +1,5 @@
+
+
 <h1 class="donate-heading">Donate To The Syrian Refugee Crisis</h1>
 
 <div class="container">
@@ -16,6 +18,25 @@
   <div class="row">
     <h1>Amount Donated:</h1>
   </div>
+  <div class="row">
+    <div class="col-md-6">
+      <img class="fire-img" src="/assets/images/fire.jpeg" alt="">
+    </div>
+
+  </div>
+
+<form class="donate-form">
+  <label>Choose a Donation Amount:</label>
+  <br>
+  <input type="radio" name="donation" [value]="5" checked>$5.00<br>
+  <input type="radio" name="donation" [value]="10">$10.00<br>
+  <input type="radio" name="donation" [value]="30">$30.00<br>
+  <input type="radio" name="donation" [value]="50">$50.00<br>
+  <input type="radio" name="donation" [value]="100">$100.00<br>
+  <input type="radio" name="donation" [value]="250">$250.00<br>
+  <br>
+  <button type="button" class="btn btn-default" data-toggle="modal" data-target=".modal1">Make Your Donation!</button>
+</form>
 </div>
 
 <div class="modal modal1 fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
@@ -137,8 +158,17 @@
           <input class="form-control" type="month" placeholder="Expiration Date" value="2017-04" required>
         </div>
 
+<<<<<<< HEAD
         <div>
         <input class="form-control" placeholder="CVV Number" #newCVV required>
+=======
+          <div>
+            <input class="form-control" placeholder="CVV Number" #newCVV required>
+          </div>
+          <br>
+          <button type="submit" class="btn btn-default"  data-dismiss="modal" data-toggle="modal" data-target=".modal2">Donate</button>
+        </form>
+>>>>>>> 76e6339c07f6717eee16513ffed9b9b8e2187ae4
       </div>
       <br>
       <button type="submit" class="btn btn-primary"  data-dismiss="modal" data-toggle="modal" data-target=".modal2">Donate</button>
