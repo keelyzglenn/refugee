@@ -103,10 +103,14 @@ a:active {
     color:black;
 }
 
-/*
-#carousel {
-  margin-left: 120px;
-}*/
+
+.news {
+  margin-left: 300px;
+}
+
+.news blockquote {
+  margin-left: -200px;
+}
 
 
 /*.panel-default{
@@ -337,7 +341,7 @@ color: #ffffff;
   font-family: 'Raleway',sans-serif
 }
 
-
 .second-set{
   margin-top: 100px;
+  margin-left: 150px;
 }
