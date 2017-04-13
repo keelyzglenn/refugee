@@ -269,6 +269,7 @@ color: #ffffff;
 .mission {
   margin-top: 75px;
   height: 250px;
+  box-shadow: 2px 2px 2px;
 }
 
 .news blockquote {
@@ -326,7 +327,7 @@ color: #ffffff;
   background-color: white;
   margin-top: -40px;
   color: black;
-  height: 160px;
+  height: 190px;
   font-size: 60px;
   font-weight: bolder;
   opacity: 1;

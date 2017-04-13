@@ -61,6 +61,16 @@
     font-family: 'Raleway',sans-serif;
 }
 
+.panel-default:hover {
+  -webkit-transform: scale(1.08);
+  transform: scale(1.08);
+}
+
+.panel-default:hover {
+  border: #ff8572 5px solid;
+}
+
+
 .links {
   color: #ffffff;
 }
@@ -72,4 +82,16 @@
 h1, h2 {
   text-align: center;
   font-family: 'Raleway',sans-serif
+}
+
+.help-header {
+  font-size: 70px;
+}
+
+.container {
+  padding-bottom: 50px;
+}
+
+h4 {
+  font-size: 25px;
 }

@@ -17,6 +17,11 @@
     cursor: pointer;
 }
 
+.company {
+  font-size: 30px;
+  font-family: cursive;
+}
+
 .navbtn {
     background-color: #ff5033;
     color: white;
