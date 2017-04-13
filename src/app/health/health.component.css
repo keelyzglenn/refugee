@@ -29,7 +29,7 @@
 }
 
 .quotebox {
-  background-color: white;
+  background-color: #dbdcdd;
   padding: 30px;
   color: black;
   font-style: italic;
@@ -131,18 +131,21 @@ body {
 
 .card-img-top {
   width: 300px;
-  margin-bottom: 8px;
-  border-bottom: #ff725b 3px solid;
+  margin-bottom: 35px;
+  border-left: #ff725b 3px solid;
 }
 
 .card-img-top:hover {
   -webkit-transform: scale(1.25);
   transform: scale(1.25);
-  padding-bottom: 20px;
 }
 
 .item {
   height: 384px;
+}
+
+.btn {
+  margin-top: 20px;
 }
 
 .btn:hover {
