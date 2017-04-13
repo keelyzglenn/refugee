@@ -6,17 +6,18 @@
   <form class="donate-form">
     <label>Choose a Donation Amount:</label>
     <br>
-    <input type="radio" name="donation" [value]="5" checked>$5.00<br>
-    <input type="radio" name="donation" [value]="10">$10.00<br>
-    <input type="radio" name="donation" [value]="30">$30.00<br>
-    <input type="radio" name="donation" [value]="50">$50.00<br>
-    <input type="radio" name="donation" [value]="100">$100.00<br>
-    <input type="radio" name="donation" [value]="250">$250.00<br>
+    <input type="radio" name="donation" [(ngModel)]="model.donation"[value]="5" checked>$5.00<br>
+    <input type="radio" name="donation" [(ngModel)]="model.donation"[value]="10">$10.00<br>
+    <input type="radio" name="donation" [(ngModel)]="model.donation"[value]="30">$30.00<br>
+    <input type="radio" name="donation" [(ngModel)]="model.donation"[value]="50">$50.00<br>
+    <input type="radio" name="donation" [(ngModel)]="model.donation"[value]="100">$100.00<br>
+    <input type="radio" name="donation" [(ngModel)]="model.donation"[value]="250">$250.00<br>
     <br>
     <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".modal1">Make Your Donation!</button>
   </form>
   <div class="row">
-    <h1>Amount Donated:</h1>
+    <h1>Amount Donated</h1>
+    <h1>$</h1>
   </div>
   <div class="row">
     <div class="col-md-6">

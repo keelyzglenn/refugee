@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Ng2Bs3ModalModule } from 'ng2-bs3-modal/ng2-bs3-modal';
 import { FormsModule }   from '@angular/forms';
+import { Donation } from '../donation.model';
 
 @Component({
   selector: 'app-donation',
