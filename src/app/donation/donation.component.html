@@ -3,6 +3,23 @@
 <div class="container">
 
   <h1 class="donate-heading">Donate To The Syrian Refugee Crisis</h1>
+
+  <form class="donate-form">
+    <label>Choose a Donation Amount:</label>
+    <br>
+    <input type="radio" name="donation" [value]="5" checked>$5.00<br>
+    <input type="radio" name="donation" [value]="10">$10.00<br>
+    <input type="radio" name="donation" [value]="30">$30.00<br>
+    <input type="radio" name="donation" [value]="50">$50.00<br>
+    <input type="radio" name="donation" [value]="100">$100.00<br>
+    <input type="radio" name="donation" [value]="250">$250.00<br>
+    <br>
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".modal1">Make Your Donation!</button>
+  </form>
+  <div class="row">
+    <h1>Amount Donated:</h1>
+  </div>
+
   <div class="row">
     <div class="col-md-6">
       <img class="fire-img" src="/assets/images/fire.jpeg" alt="">
@@ -304,8 +321,9 @@
               <option value="ZW">Zimbabwe</option>
             </select>
           </div>
-            <button type="submit" class="btn btn-default"  data-dismiss="modal" data-toggle="modal" data-target=".modal2">Donate</button> 
+            <button type="submit" class="btn btn-default"  data-dismiss="modal" data-toggle="modal" data-target=".modal2">Donate</button>
           <hr>
+
           <!-- <h4>Payment Info</h4>
           <div>
           <input class="form-control" placeholder="Credit Card Number" #newCreditCard>
@@ -333,7 +351,108 @@
       <div class="modal-body">
         <h1 class="thanks1">Thank you for your donation!</h1>
         <h3 class="thanks2"><em>Your donation will be used for helping displaced Syrian refugees.</em></h3>
+
+          <h4>Payment Info</h4>
+          <div class="panel panel-default credit-card-box">
+            <div class="panel-heading display-table" >
+              <div class="row display-tr" >
+                <h3 class="panel-title display-td" >Payment Details</h3>
+                <div class="display-td" >
+                  <img class="img-responsive pull-right" src="http://i76.imgup.net/accepted_c22e0.png">
+                </div>
+              </div>
+            </div>
+            <div class="panel-body">
+              <form role="form" id="payment-form" method="POST" action="javascript:void(0);">
+                <div class="row">
+                  <div class="col-xs-12">
+                    <div class="form-group">
+                      <label for="cardNumber">CARD NUMBER</label>
+                      <div class="input-group">
+                        <input
+                        type="tel"
+                        class="form-control"
+                        name="cardNumber"
+                        placeholder="Valid Card Number"
+                        autocomplete="cc-number"
+                        required autofocus/>
+                        <span class="input-group-addon"><i class="fa fa-credit-card"></i></span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-7 col-md-7">
+                    <div class="form-group">
+                      <label for="cardExpiry"><span class="hidden-xs">EXPIRATION</span><span class="visible-xs-inline">EXP</span> DATE</label>
+                      <input
+                      type="tel"
+                      class="form-control"
+                      name="cardExpiry"
+                      placeholder="MM / YY"
+                      autocomplete="cc-exp"
+                      required/>
+                    </div>
+                  </div>
+                  <div class="col-xs-5 col-md-5 pull-right">
+                    <div class="form-group">
+                      <label for="cardCVC">CV CODE</label>
+                      <input
+                      type="tel"
+                      class="form-control"
+                      name="cardCVC"
+                      placeholder="CVC"
+                      autocomplete="cc-csc"
+                      required/>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-12">
+                    <button class="donate btn btn-success btn-lg btn-block" type="button">Donate</button>
+                  </div>
+                </div>
+                <div class="row" style="display:none;">
+                  <div class="col-xs-12">
+                    <p class="payment-errors"></p>
+                  </div>
+                </div>
+              </form>
+            </div>
+
+            <!-- <div>
+            <input class="form-control" placeholder="Credit Card Number" #newCreditCard>
+          </div>
+
+          <div>
+          <label for="expiration">Expiration Date</label>
+          <input class="form-control" type="month" placeholder="Expiration Date" value="2017-04" required>
+        </div>
+
+<<<<<<< HEAD
+        <div>
+        <input class="form-control" placeholder="CVV Number" #newCVV required>
+=======
+          <div>
+            <input class="form-control" placeholder="CVV Number" #newCVV required>
+          </div>
+          <br>
+          <button type="submit" class="btn btn-default"  data-dismiss="modal" data-toggle="modal" data-target=".modal2">Donate</button>
+        </form>
+>>>>>>> 76e6339c07f6717eee16513ffed9b9b8e2187ae4
+      </div>
+      <br>
+      <button type="submit" class="btn btn-primary"  data-dismiss="modal" data-toggle="modal" data-target=".modal2">Donate</button>
+    </form>
+  </div> -->
+
+  <div class="modal modal2 fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
+    <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+        <div class="modal-body">
+          <h1 class="thanks1">Thank you for your donation!</h1>
+          <h3 class="thanks2"><em>Your donation will be used for helping displaced Syrian refugees.</em></h3>
+        </div>
       </div>
     </div>
   </div>
-</div>

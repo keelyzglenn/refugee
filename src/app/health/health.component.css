@@ -144,8 +144,13 @@ body {
   height: 384px;
 }
 
+
 .btn {
   margin-top: 20px;
+}
+
+h1 h2 {
+  font-family: 'Raleway',sans-serif;
 }
 
 .btn:hover {

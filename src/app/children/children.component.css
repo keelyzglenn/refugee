@@ -5,7 +5,6 @@
 
 .resources-list {
   padding-left: 30px;
-  /*margin-left: 10px;*/
 }
 
 .section2 {
@@ -15,12 +14,6 @@
 .jumbotron {
   width: 100% !important;
 }
-
-/*.wrap {
-  word-wrap: normal;
-  float: right;
-  width: 700px;
-}*/
 
 .title {
   background-color: white;
@@ -45,7 +38,6 @@
 
 .video {
   margin: 30px;
-  /*margin-left: 50px;*/
 }
 
 .circle {

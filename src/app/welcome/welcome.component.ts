@@ -13,7 +13,7 @@ import {Observable} from 'rxjs/Rx';
 export class WelcomeComponent implements OnInit {
 
   private feedUrl: string = 'https%3A%2F%2Fwww.theguardian.com%2Fworld%2Fsyria%2Frss';
-  private feeds: any;
+  feeds: any;
   title = 'app works!';
   tweets;
 
