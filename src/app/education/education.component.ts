@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ElementRef, AfterContentInit, Compiler} from '@angular/core';
 
 @Component({
   selector: 'app-education',
@@ -7,8 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class EducationComponent implements OnInit {
 
-  constructor() { }
-
+  constructor(private _runtimeCompiler: Compiler){}
   ngOnInit() {
   }
 
