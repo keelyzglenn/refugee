@@ -136,3 +136,7 @@ body {
 .item {
   height: 384px;
 }
+
+h1, h2 {
+  font-family: 'Raleway',sans-serif;
+}
