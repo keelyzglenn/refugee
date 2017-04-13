@@ -1,6 +1,6 @@
 .mainpic {
   width: 100%;
-  margin-top: -10%;
+  margin-top: -5%;
 }
 
 .resources-list {
@@ -18,13 +18,14 @@
 .title {
   background-color: white;
   padding: 50px;
-  margin-top: -150px;
+  margin-top: -160px;
   position: relative;
   opacity: 0.4;
   color: black;
   text-shadow: 2px 2px 2px black;
-  font-size: 60px;
+  font-size: 80px;
   font-weight: bolder;
+  text-transform: uppercase;
 }
 
 .quotebox {

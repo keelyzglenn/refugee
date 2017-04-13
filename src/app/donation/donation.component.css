@@ -1,3 +1,4 @@
+
 /*Credit Card CSS*/
 
 /* Padding - just for asthetics on Bootsnipp.com */
@@ -56,6 +57,7 @@ body { margin-top:20px; }
   padding-bottom: 100px;
 }*/
 
+<<<<<<< HEAD
 .donate-form input {
   margin: 15px;
   font-size: 30px;
@@ -89,13 +91,18 @@ float: right;
   box-shadow: 5px 5px 5px grey;
   background-color: white;
   margin-bottom: 50px;
+    font-family: 'Raleway',sans-serif;
 }
 .donate-heading {
   text-align: center;
+  font-family: 'Raleway',sans-serif
 }
 
 
 
 .amount{
 color: #ff5033;
+}
+.modal-form {
+  font-family: 'Raleway',sans-serif
 }

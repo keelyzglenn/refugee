@@ -29,15 +29,15 @@
 .circle {
   position: relative;
   z-index: 2;
-  background-color: #fff;
+  background-color: #fc6249;
   border: 2px solid #ff5033;
-  color: #ff5033;
+  color: white;
   line-height: 50px;
   overflow: hidden;
 }
 
 .circle:hover {
-  color: #fff;
+  color: white;
 }
 
 .circle:hover {
@@ -55,12 +55,12 @@
   transform: scale(.5);
 }
 .circle:hover::after {
-  background: #DCDCDC;
+  background: lightgrey;
   border-radius: 50%;
   -webkit-transform: scale(.9);
   transform: scale(.9);
 }
-
+/*
 .circle1 {
   opacity: 0.5;
 }
@@ -71,7 +71,7 @@
 
 .circle3 {
   opacity: 0.8;
-}
+}*/
 
 .fourth {
   padding-top: 15px;
@@ -79,7 +79,7 @@
 
 .circle a {
   text-decoration: none;
-  color: #ff5033;
+  color: white;
 }
 
 .circle h2 {
@@ -99,6 +99,7 @@
 
 .resources {
   text-align: center;
+  font-family: 'Raleway',sans-serif;
 }
 
 /*For Panel Links*/
