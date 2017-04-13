@@ -36,6 +36,9 @@
 
     </div>
   </div>
+  <br>
+  <br>
+  <br>
 </div>
 
   <div class="three-view">
@@ -75,7 +78,7 @@
   </blockquote>
   <section id="carousel">
     <div class="row">
-      <div class="carousel slide" id="fade-quote-carousel" data-ride="carousel" data-interval="9000">
+      <div class="carousel slide" id="fade-quote-carousel" data-ride="carousel" data-interval="2000">
         <!-- Carousel indicators -->
         <ol class="carousel-indicators">
           <p data-target="#fade-quote-carousel" data-slide-to="0" class="active"></p>
@@ -87,7 +90,7 @@
         <!-- Carousel items -->
         <div class="carousel-inner" *ngIf="feeds">
           <div class="active item">
-            <div class="row">
+            <div class="row first-set">
               <div class="col-sm-3">
                 <div class="col-padding">
                   <a href="{{feeds[9].link}}">
@@ -119,7 +122,8 @@
                 </div>
               </div>
             </div>
-            <div class="row">
+            <div class="row second-set">
+              <div class="3"></div>
               <div class= "col-md-3">
                 <div class="col-padding">
                   <a href="{{feeds[10].link}}">
@@ -140,12 +144,12 @@
                   </a>
                 </div>
               </div>
+              <div class="3"></div>
             </div>
           </div>
 
-
           <div class="item">
-            <div class="row">
+            <div class="row first-set">
               <div class="col-sm-3">
                 <div class="col-padding">
                   <a href="{{feeds[9].link}}">
@@ -177,7 +181,8 @@
                 </div>
               </div>
             </div>
-            <div class="row">
+            <div class="row second-set">
+              <div class="3"></div>
               <div class= "col-md-3">
                 <div class="col-padding">
                   <a href="{{feeds[10].link}}">
@@ -198,10 +203,12 @@
                   </a>
                 </div>
               </div>
+              <div class="3"></div>
             </div>
           </div>
           <div class="item">
-            <div class="row">
+            <div class="row first-set">
+              <div class="3"></div>
               <div class="col-sm-3">
                 <div class="col-padding">
                   <a href="{{feeds[9].link}}">
@@ -233,7 +240,7 @@
                 </div>
               </div>
             </div>
-            <div class="row">
+            <div class="row second-set">
               <div class= "col-md-3">
                 <div class="col-padding">
                   <a href="{{feeds[10].link}}">
