@@ -1,1 +1,35 @@
+.volunteer-images:hover {
+  border: #ff8572 5px solid;
+}
 
+.volunteer-container {
+  margin-left: 70px;
+}
+
+.volunteer-groups {
+  position: absolute;
+  bottom: 0;
+  width: 89%;
+  color: white;
+  background-color: #ff8572;
+}
+
+.volunteer-boxes {
+
+  margin: 30px;
+  height: 200px;
+
+}
+
+.volunteer-boxes {
+  text-align: center;
+}
+
+.volunteer-images {
+  opacity: 0.7 !important;
+}
+
+.volunteer-images:hover {
+  -webkit-transform: scale(1.25);
+  transform: scale(1.25);
+}
