@@ -1,4 +1,24 @@
-<div class="container">
-  <h1>{{(organizationToDisplay | async)?.type}}</h1>
-  <h3><a href="{{(organizationToDisplay | async)?.url}}">{{(organizationToDisplay | async)?.acronym}}</a></h3>
+<div class="container-full organization-detail-container">
+  <div class="container organization-detail-container">
+    <h1 class="organizational-detail-header">{{(organizationToDisplay | async)?.name}}, {{(organizationToDisplay | async)?.acronym}}</h1>
+    <h3>Organization Type: {{(organizationToDisplay | async)?.type}}</h3>
+    <br>
+    <p class="organizational-detail">{{(organizationToDisplay | async)?.description}}</p>
+    <br>
+    <h4>Go to Website: <a href="{{(organizationToDisplay | async)?.url}}">Link</a></h4>
+  </div>
+</div>
+<div class="container-full organizational-contact-container">
+  <div class="container contact-info">
+    <h1 class="organization-contacts">Contact Information</h1>
+    <div class="row">
+      <div *ngFor="let contact of (organizationToDisplay | async)?.contact" class="col-md-4">
+        <div *ngIf="contact.contact">
+          <h3 style="font-weight:bold">{{contact.contact}} - {{contact.country}}</h3>
+          <h4 *ngIf="contact.title">{{contact.title}}</h4>
+          <h4 *ngIf="contact.email">{{contact.email}}</h4>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
