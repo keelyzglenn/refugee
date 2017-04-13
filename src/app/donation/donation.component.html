@@ -1,5 +1,8 @@
 <div class="container">
 
+
+
+
   <h1 class="donate-heading">Donate To The Syrian Refugee Crisis</h1>
   <div class="row">
     <div>
@@ -7,6 +10,8 @@
     </div>
 
   </div>
+
+
 
 <div class="row">
 <div class="col-md-6">
@@ -22,14 +27,28 @@
     <br>
     <button type="button" class="btn btn-default" data-toggle="modal" data-target=".modal1">Make Your Donation!</button>
   </form>
-  </div>
-    <div class="col-md-6"></div>
+</div>
+<div class="col-md-1">
+
+</div>
+
+    <div class="col-md-5 donate">
+      <div class="donators">
+        <h1 class="amount">Amount Donated: $10,150</h1>
+        <hr />
+        <br>
+        <div *ngFor="let donation of donations | async">
+          <p>{{donation.firstName}} {{donation.lastName}} -{{donation.city}}</p>
+          <p> ${{donation.donation}}</p>
+          <br>
+        </div>
+      </div>
+    </div>
 </div>
 </div>
-<!-- <div class="row">
-  <h1>Amount Donated:</h1>
-</div>
-</div> -->
+
+
+
 
 
 <div class="modal modal1 fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">
@@ -368,7 +387,8 @@
                   </div>
                   <div class="row">
                     <div class="col-xs-12">
-                      <button class="donate btn btn-success btn-lg btn-block" type="button">Donate</button>
+                      <button type="submit" class="btn btn-default"  data-dismiss="modal" data-toggle="modal" data-target="modal2">Donate</button>
+
                     </div>
                   </div>
                   <div class="row" style="display:none;">
@@ -379,7 +399,7 @@
                 </form>
               </div>
           </div>
-            <button type="submit" class="btn btn-default"  data-dismiss="modal" data-toggle="modal" data-target=".modal2">Donate</button>
+
           <hr>
 
   <div class="modal modal2 fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel">

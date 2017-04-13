@@ -133,21 +133,23 @@
       "type": "Gender-Based Violence",
       "acronym": "GBV",
       "url": "stopabuse.com"
-    }
-  ],
-  "organizations": [
+    }],
+  "donations": [
     {
-      "type": "Health",
-      "acronym": "HLT",
-      "url": "fakeurl.org"
+      "firstName": "Allie",
+      "lastName": "Holcombe",
+      "city": "Seattle",
+      "donation": 500
     }, {
-      "type": "Food Assistance",
-      "acronym": "FA",
-      "url": "yummy.com"
+      "firstName": "John",
+      "lastName": "Franti",
+      "city": "Seattle",
+      "donation": 1000
     }, {
-      "type": "Gender-Based Violence",
-      "acronym": "GBV",
-      "url": "stopabuse.com"
+      "firstName": "George",
+      "lastName": "Clooney",
+      "city": "Los Angeles",
+      "donation": 10000
     }
   ]
 }

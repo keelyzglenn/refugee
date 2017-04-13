@@ -2881,5 +2881,23 @@
          "location":"United States",
          "summary":"The International Rescue Committee provides opportunities for refugees, asylees, victims of human trafficking, survivors of torture, and other immigrants to thrive in America.each year, thousands of people, forced to flee violence and persecution, are welcomed by the people of the United States into the safety and freedom of America. These individuals have survived against incredible odds. The IRC works with government bodies, civil society actors, and local volunteers to help them translate their pastexperiences into assets that are valuable to their new communities. In New York and other offices across the country, the IRC helps them to rebuild their lives."
       }
+   ],
+   "donations": [
+     {
+       "firstName": "Allie",
+       "lastName": "Holcombe",
+       "city": "Seattle",
+       "donation": 500
+     }, {
+       "firstName": "John",
+       "lastName": "Franti",
+       "city": "Seattle",
+       "donation": 1000
+     }, {
+       "firstName": "George",
+       "lastName": "Clooney",
+       "city": "Los Angeles",
+       "donation": 10000
+     }
    ]
 }

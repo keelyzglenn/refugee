@@ -1,27 +1,3 @@
-.donate-form input {
-  margin: 15px;
-  font-size: 30px;
-}
-
-.donate-form {
-  font-size: 20px;
-  /*border: 1px solid black;*/
-  padding: 30px;
-  padding-bottom: 50px;
-  position: absolute;
-  width: 600px;
-  margin-top: -15%;
-  z-index: 1;
-  /*border-radius: 20%;*/
-  box-shadow: 5px 5px 5px grey;
-  background-color: white;
-  margin-bottom: 50px;
-}
-
-.donate-heading {
-  text-align: center;
-}
-
 /*Credit Card CSS*/
 
 /* Padding - just for asthetics on Bootsnipp.com */
@@ -79,3 +55,47 @@ body { margin-top:20px; }
 /*.container {
   padding-bottom: 100px;
 }*/
+
+.donate-form input {
+  margin: 15px;
+  font-size: 30px;
+}
+
+.donate-form {
+  font-size: 20px;
+  /*border: 1px solid black;*/
+  padding: 30px;
+  padding-bottom: 50px;
+  position: absolute;
+  width: 600px;
+  margin-top: -15%;
+  z-index: 1;
+  /*border-radius: 20%;*/
+  box-shadow: 5px 5px 5px grey;
+  background-color: white;
+  margin-bottom: 50px;
+}
+
+.donate{
+  font-size: 20px;
+  /*border: 1px solid black;*/
+  padding: 30px;
+  padding-bottom: 50px;
+float: right;
+  margin-top: -7%;
+  margin-left: 100px;
+  z-index: 1;
+  /*border-radius: 20%;*/
+  box-shadow: 5px 5px 5px grey;
+  background-color: white;
+  margin-bottom: 50px;
+}
+.donate-heading {
+  text-align: center;
+}
+
+
+
+.amount{
+color: #ff5033;
+}
