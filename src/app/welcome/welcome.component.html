@@ -32,21 +32,23 @@ https://www.youtube.com/watch?v=NKb9GVU8bHE -->
 				  </ol>
 
 				  <!-- Carousel items -->
-				  <div class="carousel-inner" *ngFor="let feed of feeds">
-				    <div class="active item">
-              <ul>
-                <img src="{{feed1.enclosure.link | thumbnail}}" alt="" />
-                <h3>{{feed1.title}}</h3>
-              </ul>
-				    </div>
-				    <div class="item">
-              <img src="{{feed2.enclosure.link | thumbnail}}" alt="" />
-				      <li>{{feed2.title}}</li>
-				    </div>
-				    <div class="item">
-                <img src="{{feed3.enclosure.link | thumbnail}}" alt="" />
-				    	  <li>{{feed3.title}}</li>
-				    </div>
+				  <div class="carousel-inner">
+            <div *ngIf="feeds">
+              <div class="active item" >
+                <ul>
+                  <img src="{{feeds[0].enclosure.link | thumbnail}}" alt="" />
+                  <h3>{{feeds[0].title}}</h3>
+                </ul>
+              </div>
+              <div class="item" >
+                <img src="{{feeds[1].enclosure.link | thumbnail}}" alt="" />
+                <li>{{feeds[1].title}}</li>
+              </div>
+              <div class="item">
+                  <img src="{{feeds[2].enclosure.link | thumbnail}}" alt="" />
+                  <li>{{feeds[2].title}}</li>
+              </div>
+            </div>
 				  </div>
 				</div>
 			</div>
@@ -61,6 +63,7 @@ https://www.youtube.com/watch?v=NKb9GVU8bHE -->
   This year marks the sixth year anniversy of the start of the civil war. An estimated 11 million Syrians have fled their homes as refugees seeking asylum in other countries. 470,000 people have been killed. and another 13.5 million are in need of humanitarian assistance within the country.
 </p>
 
+<app-graph1></app-graph1>
 
 <h2>There are 13.5 million Syrains who need help</h2>
 <p>6 million have been displaced in Syria</p>
