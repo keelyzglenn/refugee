@@ -14,4 +14,8 @@ export class DonationService {
   getDonations(){
     return this.donations;
   }
+
+  addDonation(newDonation: Donation){
+    this.donations.push(newDonation);
+  }
 }

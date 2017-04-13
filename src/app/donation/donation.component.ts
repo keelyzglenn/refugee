@@ -33,6 +33,7 @@ export class DonationComponent implements OnInit {
     this.donations = this.donationService.getDonations();
   }
 
+
   ngAfterViewInit() {
     var node2 = document.createElement('script');
       node2.src = "https://cdn.rawgit.com/minhchan11/javascript-files/master/jquery.creditCardValidator.js";
@@ -46,5 +47,10 @@ export class DonationComponent implements OnInit {
   this.elementRef.nativeElement.appendChild(s);
   }
 
+
+submitForm(firstName: string, lastName: string, city: string, amount: number) {
+  var newDonation: Donation = new Donation(firstName, lastName, city, amount);
+  this.donationService.addDonation(newDonation);
+}
 
 }
