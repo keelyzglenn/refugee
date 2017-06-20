@@ -2,7 +2,7 @@ import { Component, OnInit, ElementRef, AfterContentInit} from '@angular/core';
 import { Ng2Bs3ModalModule } from 'ng2-bs3-modal/ng2-bs3-modal';
 import { FormsModule }   from '@angular/forms';
 import { Donation } from '../donation.model';
-import { AngularFire, FirebaseListObservable } from 'angularfire2';
+import { AngularFireDatabase, FirebaseListObservable } from 'angularfire2/database';
 import { DonationService } from '../donation.service';
 import { Router } from '@angular/router';
 

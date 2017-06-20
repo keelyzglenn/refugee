@@ -42,7 +42,7 @@ export class WelcomeComponent implements OnInit {
 
 refreshFeed() {
     this.feedService.getFeedContent(this.feedUrl)
-        .subscribe(feed => { console.log(feed['items']);
+        .subscribe(feed => {
                             this.feeds = feed['items'];
                           },
         error => console.log(error))
