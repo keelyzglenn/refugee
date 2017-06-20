@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { Angular2FontawesomeModule } from 'angular2-fontawesome/angular2-fontawesome'
+import { Angular2FontawesomeModule } from 'angular2-fontawesome/angular2-fontawesome';
 
 
 @Component({
@@ -8,6 +8,4 @@ import { Angular2FontawesomeModule } from 'angular2-fontawesome/angular2-fontawe
   styleUrls: ['./app.component.css']
 })
 export class AppComponent{
-
-
 }

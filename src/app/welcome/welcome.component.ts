@@ -14,7 +14,6 @@ export class WelcomeComponent implements OnInit {
 
   private feedUrl: string = 'https%3A%2F%2Fwww.theguardian.com%2Fworld%2Fsyria%2Frss';
   feeds: any;
-  title = 'app works!';
   tweets;
 
   constructor(private http: Http, private feedService: FeedService){}
