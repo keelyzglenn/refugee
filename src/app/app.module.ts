@@ -3,7 +3,6 @@ import { NgModule } from '@angular/core';
 import { FormsModule, ReactiveFormsModule, Validators } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 import { masterFirebaseConfig } from './api-keys';
-import { AngularFireModule } from 'angularfire2';
 import { AppComponent } from './app.component';
 import { WelcomeComponent } from './welcome/welcome.component';
 import { routing } from './app.routing';
@@ -14,10 +13,12 @@ import { DonationComponent } from './donation/donation.component';
 import { VolunteerFilterPipe } from './volunteer-filter-.pipe';
 import { OrganizationComponent } from './organization/organization.component';
 import { OrganizationDetailComponent } from './organization-detail/organization-detail.component';
+import { Angular2FontawesomeModule } from 'angular2-fontawesome/angular2-fontawesome'
 import { ForRefugeesComponent } from './for-refugees/for-refugees.component';
-import { Angular2FontAwesomeModule } from 'angular2-font-awesome/angular2-font-awesome';
 import { ThumbnailPipe } from './thumbnail.pipe';
 import { Graph1Component } from './graph1/graph1.component';
+import { AngularFireModule } from 'angularfire2';
+import { AngularFireDatabaseModule } from 'angularfire2/database';
 
 export const firebaseConfig = {
     apiKey: masterFirebaseConfig.apiKey,
@@ -47,7 +48,8 @@ export const firebaseConfig = {
     ReactiveFormsModule,
     HttpModule,
     routing,
-    Angular2FontAwesomeModule,
+    Angular2FontawesomeModule,
+    AngularFireDatabaseModule,
     AngularFireModule.initializeApp(firebaseConfig),
   ],
   providers: [],

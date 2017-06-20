@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import { Http, Response, Headers, RequestOptions } from '@angular/http';
 import { Volunteer } from './volunteer.model';
-import { AngularFire, FirebaseListObservable } from 'angularfire2';
+import { AngularFireDatabase, FirebaseListObservable } from 'angularfire2/database';
 import 'rxjs/add/operator/map';
 import 'rxjs/add/operator/catch';
 
@@ -11,8 +11,8 @@ export class VolunteerService {
   volunteers: FirebaseListObservable<any[]>;
 
 
-  constructor(private http: Http, private angularFire: AngularFire) {
-    this.volunteers = angularFire.database.list('volunteers');
+  constructor(private http: Http, private angularFire: AngularFireDatabase) {
+    this.volunteers = angularFire.list('volunteers');
 
   }
 
@@ -21,7 +21,7 @@ export class VolunteerService {
   }
 
   getVolunteerById(volunteerId: string) {
-    return this.angularFire.database.object('volunteers/' + volunteerId);
+    return this.angularFire.object('volunteers/' + volunteerId);
   }
 
 }

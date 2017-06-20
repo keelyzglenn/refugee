@@ -2,7 +2,7 @@ import { Injectable } from '@angular/core';
 import { Http, Response, Headers, RequestOptions } from '@angular/http';
 import {Observable} from 'rxjs/Rx';
 import { Organization } from './organization.model';
-import { AngularFire, FirebaseListObservable } from 'angularfire2';
+import { AngularFireDatabase, FirebaseListObservable } from 'angularfire2/database';
 // Import RxJs required methods
 import 'rxjs/add/operator/map';
 import 'rxjs/add/operator/catch';
@@ -13,8 +13,8 @@ export class RefugeeService {
   organizations: FirebaseListObservable<any[]>;
 
   constructor (private http: Http,
-              private angularFire: AngularFire) {
-                this.organizations = angularFire.database.list('organizations');
+              private angularFire: AngularFireDatabase) {
+                this.organizations = angularFire.list('organizations');
               }
 
   private urlPath = '	http://data.unhcr.org/api/whos_doing_what_where/countries.json?instance_id=syria';
@@ -38,7 +38,7 @@ export class RefugeeService {
   }
 
   getOrganizationById(organizationId: string) {
-    return this.angularFire.database.object('organizations/' + organizationId);
+    return this.angularFire.object('organizations/' + organizationId);
   }
 
 }

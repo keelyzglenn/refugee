@@ -3,7 +3,7 @@ import { Organization } from '../organization.model';
 import { Router } from '@angular/router';
 import { RefugeeService } from '../refugee.service';
 import {Observable} from 'rxjs/Rx';
-import { AngularFire, FirebaseListObservable } from 'angularfire2';
+import { AngularFireDatabase, FirebaseListObservable } from 'angularfire2/database';
 // Import RxJs required methods
 import 'rxjs/add/operator/map';
 import 'rxjs/add/operator/catch';

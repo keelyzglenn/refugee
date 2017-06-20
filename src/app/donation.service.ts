@@ -1,14 +1,15 @@
 import { Injectable } from '@angular/core';
 import { Donation } from './donation.model';
-import { AngularFire, FirebaseListObservable } from 'angularfire2';
+import { AngularFireDatabase, FirebaseListObservable } from 'angularfire2/database';
+import { Observable } from 'rxjs/Rx';
 
 @Injectable()
 export class DonationService {
   donations: FirebaseListObservable<any[]>;
 
 
-  constructor(private angularFire: AngularFire) {
-    this.donations = angularFire.database.list('donations');
+  constructor(private angularFire: AngularFireDatabase) {
+    this.donations = angularFire.list('donations');
   }
 
   getDonations(){
